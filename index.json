@@ -13902,16 +13902,7 @@
                         "title": "工具-AI"
                     },
                     {
-                        "children": [
-                            {
-                                "dateAdded": 1736305265459,
-                                "id": "166093",
-                                "index": 0,
-                                "parentId": "166095",
-                                "title": "Cursor-保姆级教程",
-                                "url": "https://baijiahao.baidu.com/s?id=1811234316580643493&wfr=spider&for=pc"
-                            }
-                        ],
+                        "children": [],
                         "dateAdded": 1736305338375,
                         "dateGroupModified": 1736305340890,
                         "id": "166095",
