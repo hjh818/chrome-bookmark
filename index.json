@@ -13895,16 +13895,25 @@
                             }
                         ],
                         "dateAdded": 1736305319978,
-                        "dateGroupModified": 1736305350526,
+                        "dateGroupModified": 1736324846252,
                         "id": "166094",
                         "index": 0,
                         "parentId": "166085",
                         "title": "工具-AI"
                     },
                     {
-                        "children": [],
+                        "children": [
+                            {
+                                "dateAdded": 1736324846252,
+                                "id": "166096",
+                                "index": 0,
+                                "parentId": "166095",
+                                "title": "cursor教程-给0代码基础小白的Cursor使用教程",
+                                "url": "https://zhuanlan.zhihu.com/p/7831511667"
+                            }
+                        ],
                         "dateAdded": 1736305338375,
-                        "dateGroupModified": 1736305340890,
+                        "dateGroupModified": 1736324860410,
                         "id": "166095",
                         "index": 1,
                         "parentId": "166085",
