@@ -13181,16 +13181,8 @@
                     },
                     {
                         "dateAdded": 1732779772760,
-                        "id": "165466",
-                        "index": 87,
-                        "parentId": "164374",
-                        "title": "AI-文心一言",
-                        "url": "https://yiyan.baidu.com/"
-                    },
-                    {
-                        "dateAdded": 1732779772760,
                         "id": "165467",
-                        "index": 88,
+                        "index": 87,
                         "parentId": "164374",
                         "title": "wangEditor-vue在线word编辑器",
                         "url": "https://www.wangeditor.com/"
@@ -13198,7 +13190,7 @@
                     {
                         "dateAdded": 1732779772760,
                         "id": "165468",
-                        "index": 89,
+                        "index": 88,
                         "parentId": "164374",
                         "title": "TinyMCE-在线word编辑器",
                         "url": "https://www.tiny.cloud/"
@@ -13206,7 +13198,7 @@
                     {
                         "dateAdded": 1732779772761,
                         "id": "165469",
-                        "index": 90,
+                        "index": 89,
                         "parentId": "164374",
                         "title": "TinyMCE中文文档中文手册-在线word编辑器",
                         "url": "http://tinymce.ax-z.cn/configure/editor-appearance.php"
@@ -13214,7 +13206,7 @@
                     {
                         "dateAdded": 1732779772761,
                         "id": "165470",
-                        "index": 91,
+                        "index": 90,
                         "parentId": "164374",
                         "title": "性价比机场-翻墙工具",
                         "url": "https://xn--6nq44r2uh9rhj7f.com/#/dashboard"
@@ -13222,7 +13214,7 @@
                     {
                         "dateAdded": 1732779772761,
                         "id": "165471",
-                        "index": 92,
+                        "index": 91,
                         "parentId": "164374",
                         "title": "百度文库-PPT生成工具",
                         "url": "https://wenku.baidu.com/ndlaunch/browse/chat?isppt=1&fr=launch_ad&utm_source=bingss-WD&utm_medium=cpc&keyword=ai%E8%BD%AF%E4%BB%B6%E7%94%9F%E6%88%90ppt&utm_account=SS-bingtg104&msclkid=6fc9142f01691134d6f77311f7ea2f49&login_type=weixin"
@@ -13876,26 +13868,25 @@
                                 "url": "https://www.doubao.com/chat/"
                             },
                             {
-                                "dateAdded": 1735610226759,
-                                "dateLastUsed": 1735625072032,
-                                "id": "166087",
-                                "index": 3,
-                                "parentId": "166094",
-                                "title": "文心一言",
-                                "url": "https://yiyan.baidu.com/chat/MjE2NTc0Njk1Mzo0ODE3NjAwMDU1"
-                            },
-                            {
                                 "dateAdded": 1735609210754,
                                 "dateLastUsed": 1735610282160,
                                 "id": "166086",
-                                "index": 4,
+                                "index": 3,
                                 "parentId": "166094",
                                 "title": "DeepSeek | 深度求索",
                                 "url": "https://www.deepseek.com/"
+                            },
+                            {
+                                "dateAdded": 1732779772760,
+                                "id": "165466",
+                                "index": 4,
+                                "parentId": "166094",
+                                "title": "AI-文心一言",
+                                "url": "https://yiyan.baidu.com/"
                             }
                         ],
                         "dateAdded": 1736305319978,
-                        "dateGroupModified": 1736324846252,
+                        "dateGroupModified": 1736392951630,
                         "id": "166094",
                         "index": 0,
                         "parentId": "166085",
