@@ -12089,10 +12089,18 @@
                         "parentId": "164370",
                         "title": "前端-可视化工具",
                         "url": "https://blog.csdn.net/wbsoso/article/details/122871315?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~Ctr-3-122871315-blog-143937560.235%5Ev43%5Epc_blog_bottom_relevance_base4&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~Ctr-3-122871315-blog-143937560.235%5Ev43%5Epc_blog_bottom_relevance_base4&utm_relevant_index=6"
+                    },
+                    {
+                        "dateAdded": 1736478705628,
+                        "id": "166098",
+                        "index": 876,
+                        "parentId": "164370",
+                        "title": "前端-聊聊前端技术调研到底应该怎么做？",
+                        "url": "https://mp.weixin.qq.com/s/327CVt6HPp2-Hkl9ROSP4A?from=industrynews&nwr_flag=1#wechat_redirect"
                     }
                 ],
                 "dateAdded": 1732779772565,
-                "dateGroupModified": 1735883638266,
+                "dateGroupModified": 1736478716063,
                 "id": "164370",
                 "index": 7,
                 "parentId": "1",
@@ -13887,7 +13895,7 @@
                             }
                         ],
                         "dateAdded": 1736305319978,
-                        "dateGroupModified": 1736392951630,
+                        "dateGroupModified": 1736478705628,
                         "id": "166094",
                         "index": 0,
                         "parentId": "166085",
