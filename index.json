@@ -12098,10 +12098,18 @@
                         "parentId": "164370",
                         "title": "前端-聊聊前端技术调研到底应该怎么做？",
                         "url": "https://mp.weixin.qq.com/s/327CVt6HPp2-Hkl9ROSP4A?from=industrynews&nwr_flag=1#wechat_redirect"
+                    },
+                    {
+                        "dateAdded": 1736843101209,
+                        "id": "166099",
+                        "index": 877,
+                        "parentId": "164370",
+                        "title": "浏览器-打开 txt 文本文件乱码解决方案，亲测有效！",
+                        "url": "https://zhuanlan.zhihu.com/p/700842950"
                     }
                 ],
                 "dateAdded": 1732779772565,
-                "dateGroupModified": 1736478716063,
+                "dateGroupModified": 1736843101209,
                 "id": "164370",
                 "index": 7,
                 "parentId": "1",
