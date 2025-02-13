@@ -3682,10 +3682,18 @@
                                 "parentId": "164383",
                                 "title": "微信小程序-开发中文件上传与下载的实现方法",
                                 "url": "https://blog.csdn.net/qq_67153941/article/details/140160327"
+                            },
+                            {
+                                "dateAdded": 1739430948454,
+                                "id": "166102",
+                                "index": 279,
+                                "parentId": "164383",
+                                "title": "wx.getFileSystemManager().readFile | 微信开放社区",
+                                "url": "https://developers.weixin.qq.com/community/develop/doc/000cc2daf34060bc1e12135a066800"
                             }
                         ],
                         "dateAdded": 1732779772566,
-                        "dateGroupModified": 1739429757733,
+                        "dateGroupModified": 1739430948454,
                         "id": "164383",
                         "index": 6,
                         "parentId": "164363",
