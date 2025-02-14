@@ -825,10 +825,18 @@
                                 "parentId": "164379",
                                 "title": "RuoYi-Vue-Plus: 多租户后台管理系统",
                                 "url": "https://gitee.com/dromara/RuoYi-Vue-Plus"
+                            },
+                            {
+                                "dateAdded": 1739504628427,
+                                "id": "166103",
+                                "index": 48,
+                                "parentId": "164379",
+                                "title": "GitHub - fly8888/cursor_machine_id: 一键修改cursor 设备ID，解除设备锁定状态",
+                                "url": "https://github.com/fly8888/cursor_machine_id"
                             }
                         ],
                         "dateAdded": 1732779772566,
-                        "dateGroupModified": 1732779772774,
+                        "dateGroupModified": 1739504647715,
                         "id": "164379",
                         "index": 2,
                         "parentId": "164363",
@@ -3693,7 +3701,7 @@
                             }
                         ],
                         "dateAdded": 1732779772566,
-                        "dateGroupModified": 1739430948454,
+                        "dateGroupModified": 1739504628427,
                         "id": "164383",
                         "index": 6,
                         "parentId": "164363",
