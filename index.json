@@ -836,7 +836,7 @@
                             }
                         ],
                         "dateAdded": 1732779772566,
-                        "dateGroupModified": 1739504647715,
+                        "dateGroupModified": 1739698570108,
                         "id": "164379",
                         "index": 2,
                         "parentId": "164363",
@@ -13902,7 +13902,7 @@
                                 "id": "166090",
                                 "index": 1,
                                 "parentId": "166094",
-                                "title": "Kimi.ai",
+                                "title": "Kimi.ai-自动生成PPT",
                                 "url": "https://kimi.moonshot.cn/?data_source=tracer&utm_campaign=TR_D0pcUf08&utm_content=&utm_medium=%E7%99%BE%E5%BA%A6&utm_source=baidu_search&utm_term="
                             },
                             {
@@ -13911,7 +13911,7 @@
                                 "id": "166089",
                                 "index": 2,
                                 "parentId": "166094",
-                                "title": "豆包 - 字节跳动",
+                                "title": "豆包 - 字节跳动-快速创作图文内容",
                                 "url": "https://www.doubao.com/chat/"
                             },
                             {
@@ -13931,10 +13931,26 @@
                                 "parentId": "166094",
                                 "title": "AI-文心一言",
                                 "url": "https://yiyan.baidu.com/"
+                            },
+                            {
+                                "dateAdded": 1739698570108,
+                                "id": "166105",
+                                "index": 5,
+                                "parentId": "166094",
+                                "title": "开拍-创作自己的数字人短视频",
+                                "url": "https://www.kaipai.com/home"
+                            },
+                            {
+                                "dateAdded": 1739698662706,
+                                "id": "166106",
+                                "index": 6,
+                                "parentId": "166094",
+                                "title": "即梦AI-一键生成短视频",
+                                "url": "https://jimeng.jianying.com/ai-tool/home?utm_medium=jyweb&utm_source=header"
                             }
                         ],
                         "dateAdded": 1736305319978,
-                        "dateGroupModified": 1736478705628,
+                        "dateGroupModified": 1739698662706,
                         "id": "166094",
                         "index": 0,
                         "parentId": "166085",
