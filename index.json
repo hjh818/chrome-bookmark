@@ -13947,10 +13947,18 @@
                                 "parentId": "166094",
                                 "title": "即梦AI-一键生成短视频",
                                 "url": "https://jimeng.jianying.com/ai-tool/home?utm_medium=jyweb&utm_source=header"
+                            },
+                            {
+                                "dateAdded": 1739698716033,
+                                "id": "166107",
+                                "index": 7,
+                                "parentId": "166094",
+                                "title": "MJ-设计师的王炸组合",
+                                "url": "https://www.midjourny.cn/home/?from=TBMJ14&strategy=drawing6&bd_vid=13225979854883172441#/mj"
                             }
                         ],
                         "dateAdded": 1736305319978,
-                        "dateGroupModified": 1739698662706,
+                        "dateGroupModified": 1739698716033,
                         "id": "166094",
                         "index": 0,
                         "parentId": "166085",
