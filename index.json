@@ -13966,7 +13966,7 @@
                             }
                         ],
                         "dateAdded": 1736305319978,
-                        "dateGroupModified": 1739698776952,
+                        "dateGroupModified": 1739698809579,
                         "id": "166094",
                         "index": 0,
                         "parentId": "166085",
@@ -13981,10 +13981,18 @@
                                 "parentId": "166095",
                                 "title": "cursor教程-给0代码基础小白的Cursor使用教程",
                                 "url": "https://zhuanlan.zhihu.com/p/7831511667"
+                            },
+                            {
+                                "dateAdded": 1739698809579,
+                                "id": "166109",
+                                "index": 1,
+                                "parentId": "166095",
+                                "title": "如何利用Deepseek搞钱？3种思维8套搭配，堪称王炸组合 - 知乎",
+                                "url": "https://zhuanlan.zhihu.com/p/22366565990"
                             }
                         ],
                         "dateAdded": 1736305338375,
-                        "dateGroupModified": 1736324860410,
+                        "dateGroupModified": 1739698814714,
                         "id": "166095",
                         "index": 1,
                         "parentId": "166085",
