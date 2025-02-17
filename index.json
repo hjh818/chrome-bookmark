@@ -4334,9 +4334,17 @@
                         "url": "https://developers.weixin.qq.com/doc/"
                     },
                     {
+                        "dateAdded": 1739771770038,
+                        "id": "166111",
+                        "index": 16,
+                        "parentId": "164364",
+                        "title": "DCloud - 微信小程序插件等开发服务",
+                        "url": "https://dcloud.io/"
+                    },
+                    {
                         "dateAdded": 1732779772569,
                         "id": "164405",
-                        "index": 16,
+                        "index": 17,
                         "parentId": "164364",
                         "title": "书栈网-各类开发的线上书籍",
                         "url": "https://www.bookstack.cn/"
@@ -4344,7 +4352,7 @@
                     {
                         "dateAdded": 1732779772569,
                         "id": "164406",
-                        "index": 17,
+                        "index": 18,
                         "parentId": "164364",
                         "title": "华为开发者联盟-鸿蒙系统",
                         "url": "https://developer.huawei.com/consumer/cn/"
@@ -4352,7 +4360,7 @@
                     {
                         "dateAdded": 1732779772575,
                         "id": "164407",
-                        "index": 18,
+                        "index": 19,
                         "parentId": "164364",
                         "title": "Can I use-外部-浏览器对于CSS/HTML/JS等支持版本",
                         "url": "https://caniuse.com/"
@@ -4360,7 +4368,7 @@
                     {
                         "dateAdded": 1732779772575,
                         "id": "164408",
-                        "index": 19,
+                        "index": 20,
                         "parentId": "164364",
                         "title": "MDN-知识点搜索库",
                         "url": "https://developer.mozilla.org/zh-CN/"
@@ -4368,7 +4376,7 @@
                     {
                         "dateAdded": 1732779772575,
                         "id": "164409",
-                        "index": 20,
+                        "index": 21,
                         "parentId": "164364",
                         "title": "鸠摩搜索-开发图书搜索和下载",
                         "url": "https://www.jiumodiary.com/"
@@ -4376,7 +4384,7 @@
                     {
                         "dateAdded": 1732779772576,
                         "id": "164410",
-                        "index": 21,
+                        "index": 22,
                         "parentId": "164364",
                         "title": "CODELF-变量名查询",
                         "url": "https://unbug.github.io/codelf/"
@@ -4384,7 +4392,7 @@
                     {
                         "dateAdded": 1732779772576,
                         "id": "164411",
-                        "index": 22,
+                        "index": 23,
                         "parentId": "164364",
                         "title": "Stack Overflow-IT问题解答查询网站",
                         "url": "https://stackoverflow.com/"
@@ -4392,7 +4400,7 @@
                     {
                         "dateAdded": 1732779772576,
                         "id": "164412",
-                        "index": 23,
+                        "index": 24,
                         "parentId": "164364",
                         "title": "腾讯云-开发者手册-前后端知识和教程",
                         "url": "https://cloud.tencent.com/developer/devdocs"
@@ -4400,7 +4408,7 @@
                     {
                         "dateAdded": 1732779772576,
                         "id": "164413",
-                        "index": 24,
+                        "index": 25,
                         "parentId": "164364",
                         "title": "BootCDN-前端开源项目包cdn引入",
                         "url": "https://www.bootcdn.cn/"
@@ -4408,7 +4416,7 @@
                     {
                         "dateAdded": 1732779772576,
                         "id": "164414",
-                        "index": 25,
+                        "index": 26,
                         "parentId": "164364",
                         "title": "Quick Reference-面向开发人员速查知识",
                         "url": "https://quickref.cn/"
@@ -4416,7 +4424,7 @@
                     {
                         "dateAdded": 1732779772576,
                         "id": "164415",
-                        "index": 26,
+                        "index": 27,
                         "parentId": "164364",
                         "title": "CSS-标准颜色参考表",
                         "url": "http://www.zhongguosou.com/computer_question_tools/color_standard_web.html"
@@ -4424,7 +4432,7 @@
                     {
                         "dateAdded": 1732779772577,
                         "id": "164416",
-                        "index": 27,
+                        "index": 28,
                         "parentId": "164364",
                         "title": "Git Explorer-git命令在线查询工具",
                         "url": "https://gitexplorer.com/"
@@ -4432,7 +4440,7 @@
                     {
                         "dateAdded": 1732779772577,
                         "id": "164417",
-                        "index": 28,
+                        "index": 29,
                         "parentId": "164364",
                         "title": "cdnjs-插件cdn下载网址",
                         "url": "https://cdnjs.com/"
@@ -4440,7 +4448,7 @@
                     {
                         "dateAdded": 1732779772577,
                         "id": "164418",
-                        "index": 29,
+                        "index": 30,
                         "parentId": "164364",
                         "title": "椰子办公-ppt/简历等模板",
                         "url": "https://www.yespik.com/"
@@ -4448,14 +4456,14 @@
                     {
                         "dateAdded": 1732779772577,
                         "id": "164419",
-                        "index": 30,
+                        "index": 31,
                         "parentId": "164364",
                         "title": "All Bootstrap CSS classes list-bootstrap样式查询",
                         "url": "https://bootstrapshuffle.com/classes"
                     }
                 ],
                 "dateAdded": 1732779772564,
-                "dateGroupModified": 1732779772577,
+                "dateGroupModified": 1739771802369,
                 "id": "164364",
                 "index": 1,
                 "parentId": "1",
@@ -13986,7 +13994,7 @@
                             }
                         ],
                         "dateAdded": 1736305338375,
-                        "dateGroupModified": 1739698814714,
+                        "dateGroupModified": 1739771770038,
                         "id": "166095",
                         "index": 1,
                         "parentId": "166085",
