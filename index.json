@@ -4976,7 +4976,7 @@
                     }
                 ],
                 "dateAdded": 1732779772564,
-                "dateGroupModified": 1739860422551,
+                "dateGroupModified": 1739948424886,
                 "id": "164367",
                 "index": 4,
                 "parentId": "1",
@@ -13286,10 +13286,18 @@
                         "parentId": "164374",
                         "title": "百度文库-PPT生成工具",
                         "url": "https://wenku.baidu.com/ndlaunch/browse/chat?isppt=1&fr=launch_ad&utm_source=bingss-WD&utm_medium=cpc&keyword=ai%E8%BD%AF%E4%BB%B6%E7%94%9F%E6%88%90ppt&utm_account=SS-bingtg104&msclkid=6fc9142f01691134d6f77311f7ea2f49&login_type=weixin"
+                    },
+                    {
+                        "dateAdded": 1739948424886,
+                        "id": "166114",
+                        "index": 92,
+                        "parentId": "164374",
+                        "title": "标贝科技_AI训练数据集_AI数据标注平台_AI数据服务_数据采集标注",
+                        "url": "https://www.data-baker.com/"
                     }
                 ],
                 "dateAdded": 1732779772565,
-                "dateGroupModified": 1734075826811,
+                "dateGroupModified": 1739948437101,
                 "id": "164374",
                 "index": 11,
                 "parentId": "1",
