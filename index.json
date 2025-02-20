@@ -4981,10 +4981,18 @@
                         "parentId": "164367",
                         "title": "前端-如何接收EventStream中的数据？ ",
                         "url": "https://www.cnblogs.com/jzm2842688813/p/18297929"
+                    },
+                    {
+                        "dateAdded": 1740020542442,
+                        "id": "166116",
+                        "index": 18,
+                        "parentId": "164367",
+                        "title": "微信小程序-中使用Server-Sent Events（SSE）_微信小程序 sse",
+                        "url": "https://blog.csdn.net/aurawing/article/details/141940513"
                     }
                 ],
                 "dateAdded": 1732779772564,
-                "dateGroupModified": 1739959491226,
+                "dateGroupModified": 1740020542442,
                 "id": "164367",
                 "index": 4,
                 "parentId": "1",
