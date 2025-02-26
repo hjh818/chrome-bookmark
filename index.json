@@ -5085,7 +5085,7 @@
                     }
                 ],
                 "dateAdded": 1732779772564,
-                "dateGroupModified": 1740467596863,
+                "dateGroupModified": 1740565730051,
                 "id": "164368",
                 "index": 5,
                 "parentId": "1",
@@ -12192,10 +12192,18 @@
                         "parentId": "164370",
                         "title": "微信小程序-中使用Server-Sent Events（SSE）_微信小程序 sse",
                         "url": "https://blog.csdn.net/aurawing/article/details/141940513"
+                    },
+                    {
+                        "dateAdded": 1740565730051,
+                        "id": "166121",
+                        "index": 882,
+                        "parentId": "164370",
+                        "title": "微信小程序聊天室页面开发教程：自定义导航栏与键盘弹出适配问题解决_小程序 position:fixed 键盘-CSDN博客",
+                        "url": "https://blog.csdn.net/weixin_65816912/article/details/145788045"
                     }
                 ],
                 "dateAdded": 1732779772565,
-                "dateGroupModified": 1740375170511,
+                "dateGroupModified": 1740565735195,
                 "id": "164370",
                 "index": 7,
                 "parentId": "1",
