@@ -12200,10 +12200,18 @@
                         "parentId": "164370",
                         "title": "微信小程序聊天室页面开发教程：自定义导航栏与键盘弹出适配问题解决_小程序 position:fixed 键盘-CSDN博客",
                         "url": "https://blog.csdn.net/weixin_65816912/article/details/145788045"
+                    },
+                    {
+                        "dateAdded": 1741573542301,
+                        "id": "166123",
+                        "index": 883,
+                        "parentId": "164370",
+                        "title": "微信小程序-请求大模型监听数据块onChunkReceived方法把数据解析成json",
+                        "url": "https://blog.csdn.net/u011189027/article/details/145604696"
                     }
                 ],
                 "dateAdded": 1732779772565,
-                "dateGroupModified": 1740565735195,
+                "dateGroupModified": 1741573542301,
                 "id": "164370",
                 "index": 7,
                 "parentId": "1",
@@ -12636,7 +12644,7 @@
                     },
                     {
                         "dateAdded": 1732779772749,
-                        "dateLastUsed": 1741341882379,
+                        "dateLastUsed": 1741572921030,
                         "id": "165384",
                         "index": 5,
                         "parentId": "164374",
