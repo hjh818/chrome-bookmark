@@ -4612,7 +4612,7 @@
                         "children": [
                             {
                                 "dateAdded": 1732779772832,
-                                "dateLastUsed": 1741683997734,
+                                "dateLastUsed": 1741859142243,
                                 "id": "165966",
                                 "index": 0,
                                 "parentId": "164388",
@@ -4696,17 +4696,26 @@
                             },
                             {
                                 "dateAdded": 1732779772833,
-                                "dateLastUsed": 1741686032032,
+                                "dateLastUsed": 1741859145870,
                                 "id": "165975",
                                 "index": 9,
                                 "parentId": "164388",
                                 "syncing": true,
                                 "title": "腾讯文档",
                                 "url": "https://docs.qq.com/s/_fjlsedP5vHO_L33yvBkYW?&u=f59a1fb33a8d49f4a726e79e2cc8bae7"
+                            },
+                            {
+                                "dateAdded": 1741861042769,
+                                "id": "166125",
+                                "index": 10,
+                                "parentId": "164388",
+                                "syncing": true,
+                                "title": "货代管理系统2",
+                                "url": "https://cargo-ci.sics-tech.com/"
                             }
                         ],
                         "dateAdded": 1732779772566,
-                        "dateGroupModified": 1732779772833,
+                        "dateGroupModified": 1741861051476,
                         "id": "164388",
                         "index": 11,
                         "parentId": "164363",
@@ -5027,7 +5036,7 @@
                 "children": [
                     {
                         "dateAdded": 1732779772577,
-                        "dateLastUsed": 1741829710670,
+                        "dateLastUsed": 1741859388574,
                         "id": "164420",
                         "index": 0,
                         "parentId": "164365",
@@ -13730,7 +13739,7 @@
                     }
                 ],
                 "dateAdded": 1732779772565,
-                "dateGroupModified": 1741573542301,
+                "dateGroupModified": 1741861042769,
                 "id": "164370",
                 "index": 7,
                 "parentId": "1",
