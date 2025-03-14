@@ -13745,10 +13745,19 @@
                         "syncing": true,
                         "title": "微信小程序-scroll-view 滚动到页面底部",
                         "url": "https://blog.csdn.net/weixin_51878863/article/details/146047119"
+                    },
+                    {
+                        "dateAdded": 1741947100246,
+                        "id": "166127",
+                        "index": 885,
+                        "parentId": "164370",
+                        "syncing": true,
+                        "title": "微信小程序-踩坑之textarea软键盘遮挡解决方案（兼容安卓iOS）",
+                        "url": "https://blog.csdn.net/qq_41594043/article/details/109803832"
                     }
                 ],
                 "dateAdded": 1732779772565,
-                "dateGroupModified": 1741944591617,
+                "dateGroupModified": 1741947100246,
                 "id": "164370",
                 "index": 7,
                 "parentId": "1",
