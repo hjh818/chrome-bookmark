@@ -4697,7 +4697,7 @@
                             },
                             {
                                 "dateAdded": 1732779772833,
-                                "dateLastUsed": 1742261771171,
+                                "dateLastUsed": 1742535539502,
                                 "id": "165975",
                                 "index": 9,
                                 "parentId": "164388",
@@ -4717,7 +4717,7 @@
                             },
                             {
                                 "dateAdded": 1742196712776,
-                                "dateLastUsed": 1742521819723,
+                                "dateLastUsed": 1742541699911,
                                 "id": "166129",
                                 "index": 11,
                                 "parentId": "164388",
@@ -13775,10 +13775,19 @@
                         "syncing": true,
                         "title": "前端-发版后浏览器缓存问题",
                         "url": "https://www.cnblogs.com/zhyp/p/17991236"
+                    },
+                    {
+                        "dateAdded": 1742544420617,
+                        "id": "166132",
+                        "index": 887,
+                        "parentId": "164370",
+                        "syncing": true,
+                        "title": "小程序-html2canvas（将dom元素转为canvas），wxml2canvas（微信小程序）_小程序 html2canvas-CSDN博客",
+                        "url": "https://blog.csdn.net/weixin_45536315/article/details/131051457"
                     }
                 ],
                 "dateAdded": 1732779772565,
-                "dateGroupModified": 1742265546910,
+                "dateGroupModified": 1742544420617,
                 "id": "164370",
                 "index": 7,
                 "parentId": "1",
@@ -14262,7 +14271,7 @@
                     },
                     {
                         "dateAdded": 1732779772749,
-                        "dateLastUsed": 1741586036130,
+                        "dateLastUsed": 1742541760276,
                         "id": "165384",
                         "index": 5,
                         "parentId": "164374",
