@@ -15637,10 +15637,20 @@
                                         "url": "http://172.16.88.204/zentao/my/"
                                     },
                                     {
-                                        "dateAdded": 1732779772866,
-                                        "dateLastUsed": 1742556758820,
-                                        "id": "166067",
+                                        "dateAdded": 1742783091794,
+                                        "dateLastUsed": 1742866179577,
+                                        "id": "166134",
                                         "index": 2,
+                                        "parentId": "166012",
+                                        "syncing": true,
+                                        "title": "禅道3",
+                                        "url": "http://172.16.88.204/zentao/bug-browse-58-89.html"
+                                    },
+                                    {
+                                        "dateAdded": 1732779772866,
+                                        "dateLastUsed": 1742796320746,
+                                        "id": "166067",
+                                        "index": 3,
                                         "parentId": "166012",
                                         "syncing": true,
                                         "title": "GitLab-项目代码",
@@ -15650,7 +15660,7 @@
                                         "dateAdded": 1732779772866,
                                         "dateLastUsed": 1741744903697,
                                         "id": "166068",
-                                        "index": 3,
+                                        "index": 4,
                                         "parentId": "166012",
                                         "syncing": true,
                                         "title": "wiki-研发中心文档",
@@ -15659,7 +15669,7 @@
                                     {
                                         "dateAdded": 1732779772866,
                                         "id": "166069",
-                                        "index": 4,
+                                        "index": 5,
                                         "parentId": "166012",
                                         "syncing": true,
                                         "title": "泰首智能前端开发项目",
@@ -15668,7 +15678,7 @@
                                     {
                                         "dateAdded": 1732779772866,
                                         "id": "166070",
-                                        "index": 5,
+                                        "index": 6,
                                         "parentId": "166012",
                                         "syncing": true,
                                         "title": "Pixso-项目UI设计稿",
@@ -15677,7 +15687,7 @@
                                     {
                                         "dateAdded": 1732779772866,
                                         "id": "166071",
-                                        "index": 6,
+                                        "index": 7,
                                         "parentId": "166012",
                                         "syncing": true,
                                         "title": "CoDesign-项目UI设计稿",
@@ -15686,7 +15696,7 @@
                                     {
                                         "dateAdded": 1732779772866,
                                         "id": "166072",
-                                        "index": 7,
+                                        "index": 8,
                                         "parentId": "166012",
                                         "syncing": true,
                                         "title": "菁优网",
@@ -15695,7 +15705,7 @@
                                     {
                                         "dateAdded": 1732779772867,
                                         "id": "166073",
-                                        "index": 8,
+                                        "index": 9,
                                         "parentId": "166012",
                                         "syncing": true,
                                         "title": "Jenkins-开发环境构建工具",
@@ -15705,7 +15715,7 @@
                                         "dateAdded": 1732779772867,
                                         "dateLastUsed": 1733714497658,
                                         "id": "166074",
-                                        "index": 9,
+                                        "index": 10,
                                         "parentId": "166012",
                                         "syncing": true,
                                         "title": "Jpom项目运维系统",
@@ -15715,24 +15725,15 @@
                                         "dateAdded": 1733283785156,
                                         "dateLastUsed": 1742782533773,
                                         "id": "166077",
-                                        "index": 10,
+                                        "index": 11,
                                         "parentId": "166012",
                                         "syncing": true,
                                         "title": "泰首设计兼职项目-UI",
                                         "url": "https://www.figma.com/design/BEqqySMrhgoWvqeIpWavBR/%E6%B3%B0%E9%A6%96%E8%AE%BE%E8%AE%A1%E5%85%BC%E8%81%8C%E9%A1%B9%E7%9B%AE?node-id=171-2&node-type=canvas&t=nPC1kt3ICk2jSNEI-0"
-                                    },
-                                    {
-                                        "dateAdded": 1742783091794,
-                                        "id": "166134",
-                                        "index": 11,
-                                        "parentId": "166012",
-                                        "syncing": true,
-                                        "title": "禅道3",
-                                        "url": "http://172.16.88.204/zentao/bug-browse-58-89.html"
                                     }
                                 ],
                                 "dateAdded": 1732779772850,
-                                "dateGroupModified": 1742783108022,
+                                "dateGroupModified": 1742866173115,
                                 "id": "166012",
                                 "index": 2,
                                 "parentId": "165473",
