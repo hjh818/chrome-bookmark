@@ -13784,10 +13784,19 @@
                         "syncing": true,
                         "title": "小程序-html2canvas（将dom元素转为canvas），wxml2canvas（微信小程序）_小程序 html2canvas-CSDN博客",
                         "url": "https://blog.csdn.net/weixin_45536315/article/details/131051457"
+                    },
+                    {
+                        "dateAdded": 1743663887780,
+                        "id": "166136",
+                        "index": 888,
+                        "parentId": "164370",
+                        "syncing": true,
+                        "title": "nuxt3-真正可行的vue3迁移到nuxt3方法",
+                        "url": "https://blog.csdn.net/jiaohuizhuang6019/article/details/135029171"
                     }
                 ],
                 "dateAdded": 1732779772565,
-                "dateGroupModified": 1742783091794,
+                "dateGroupModified": 1743663908559,
                 "id": "164370",
                 "index": 7,
                 "parentId": "1",
@@ -15733,7 +15742,7 @@
                                     }
                                 ],
                                 "dateAdded": 1732779772850,
-                                "dateGroupModified": 1742866173115,
+                                "dateGroupModified": 1743663887780,
                                 "id": "166012",
                                 "index": 2,
                                 "parentId": "165473",
