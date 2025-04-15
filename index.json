@@ -13794,10 +13794,19 @@
                         "syncing": true,
                         "title": "nuxt3-真正可行的vue3迁移到nuxt3方法",
                         "url": "https://blog.csdn.net/jiaohuizhuang6019/article/details/135029171"
+                    },
+                    {
+                        "dateAdded": 1744685351550,
+                        "id": "166138",
+                        "index": 889,
+                        "parentId": "164370",
+                        "syncing": true,
+                        "title": "VUE-项目打包部署后刷新浏览器不是最新代码-CSDN博客",
+                        "url": "https://blog.csdn.net/CharisJIM/article/details/125102716"
                     }
                 ],
                 "dateAdded": 1732779772565,
-                "dateGroupModified": 1743663908559,
+                "dateGroupModified": 1744685351550,
                 "id": "164370",
                 "index": 7,
                 "parentId": "1",
