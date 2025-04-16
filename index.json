@@ -13812,10 +13812,19 @@
                         "syncing": true,
                         "title": "vue-如何导出pdf可复制内容",
                         "url": "https://worktile.com/kb/p/3684663"
+                    },
+                    {
+                        "dateAdded": 1744799229511,
+                        "id": "166140",
+                        "index": 891,
+                        "parentId": "164370",
+                        "syncing": true,
+                        "title": "前端-html生成pdf的两种办法 以及 引入中文字体",
+                        "url": "https://blog.51cto.com/u_15997490/6537005"
                     }
                 ],
                 "dateAdded": 1732779772565,
-                "dateGroupModified": 1744712756114,
+                "dateGroupModified": 1744799229511,
                 "id": "164370",
                 "index": 7,
                 "parentId": "1",
