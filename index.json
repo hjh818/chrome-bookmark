@@ -13821,10 +13821,19 @@
                         "syncing": true,
                         "title": "前端-html生成pdf的两种办法 以及 引入中文字体",
                         "url": "https://blog.51cto.com/u_15997490/6537005"
+                    },
+                    {
+                        "dateAdded": 1744799595887,
+                        "id": "166141",
+                        "index": 892,
+                        "parentId": "164370",
+                        "syncing": true,
+                        "title": "vue-html2canvas+jspdf实现下载pdf文件并添加水印",
+                        "url": "https://www.jb51.net/javascript/329607r9r.htm"
                     }
                 ],
                 "dateAdded": 1732779772565,
-                "dateGroupModified": 1744799229511,
+                "dateGroupModified": 1744799595887,
                 "id": "164370",
                 "index": 7,
                 "parentId": "1",
