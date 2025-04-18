@@ -13830,10 +13830,19 @@
                         "syncing": true,
                         "title": "vue-html2canvas+jspdf实现下载pdf文件并添加水印",
                         "url": "https://www.jb51.net/javascript/329607r9r.htm"
+                    },
+                    {
+                        "dateAdded": 1744948218915,
+                        "id": "166142",
+                        "index": 893,
+                        "parentId": "164370",
+                        "syncing": true,
+                        "title": "pdf-在线预览、修改和导出pdf",
+                        "url": "http://119.23.255.139:8989/scp/reportEdit/file/print.jsp?rp=1709691321791_81433600.raq&b=30382082384&u=667802237&code=%E4%BC%9F%E6%80%9D%E8%BE%BE%E6%8F%90%E5%8D%95%E6%AD%A3%E9%9D%A2-TELEX_00&nodetail=false&hblrptcheck=&language=ch&hblattrows=20&jobno=WSDS24040809&hblno=WSDS24040809&mblno=AMIGL240175629A#"
                     }
                 ],
                 "dateAdded": 1732779772565,
-                "dateGroupModified": 1744799595887,
+                "dateGroupModified": 1744948218915,
                 "id": "164370",
                 "index": 7,
                 "parentId": "1",
