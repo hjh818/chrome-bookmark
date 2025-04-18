@@ -4873,7 +4873,7 @@
                     },
                     {
                         "dateAdded": 1732779772568,
-                        "dateLastUsed": 1744688091033,
+                        "dateLastUsed": 1744965851711,
                         "id": "164403",
                         "index": 14,
                         "parentId": "164364",
@@ -13839,10 +13839,19 @@
                         "syncing": true,
                         "title": "pdf-在线预览、修改和导出pdf",
                         "url": "http://119.23.255.139:8989/scp/reportEdit/file/print.jsp?rp=1709691321791_81433600.raq&b=30382082384&u=667802237&code=%E4%BC%9F%E6%80%9D%E8%BE%BE%E6%8F%90%E5%8D%95%E6%AD%A3%E9%9D%A2-TELEX_00&nodetail=false&hblrptcheck=&language=ch&hblattrows=20&jobno=WSDS24040809&hblno=WSDS24040809&mblno=AMIGL240175629A#"
+                    },
+                    {
+                        "dateAdded": 1744966653963,
+                        "id": "166143",
+                        "index": 894,
+                        "parentId": "164370",
+                        "syncing": true,
+                        "title": "前端-实现导出pdf文件（服务端不参与）",
+                        "url": "https://blog.csdn.net/weixin_56663184/article/details/136481051"
                     }
                 ],
                 "dateAdded": 1732779772565,
-                "dateGroupModified": 1744948218915,
+                "dateGroupModified": 1744966653963,
                 "id": "164370",
                 "index": 7,
                 "parentId": "1",
