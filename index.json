@@ -1011,24 +1011,6 @@
                                 "syncing": true,
                                 "title": "Linux-常用命令大全",
                                 "url": "https://blog.csdn.net/tianzongnihao/article/details/80539264"
-                            },
-                            {
-                                "dateAdded": 1745374495983,
-                                "id": "166145",
-                                "index": 7,
-                                "parentId": "164380",
-                                "syncing": true,
-                                "title": "Javascript-w3cschool-文档和手册",
-                                "url": "https://www.w3cschool.cn/javascript/dict"
-                            },
-                            {
-                                "dateAdded": 1745374702662,
-                                "id": "166146",
-                                "index": 8,
-                                "parentId": "164380",
-                                "syncing": true,
-                                "title": "JavaScript-MDN",
-                                "url": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript"
                             }
                         ],
                         "dateAdded": 1732779772566,
@@ -1476,9 +1458,27 @@
                     {
                         "children": [
                             {
+                                "dateAdded": 1745374495983,
+                                "id": "166145",
+                                "index": 0,
+                                "parentId": "164382",
+                                "syncing": true,
+                                "title": "Javascript-w3cschool-文档和手册",
+                                "url": "https://www.w3cschool.cn/javascript/dict"
+                            },
+                            {
+                                "dateAdded": 1745374702662,
+                                "id": "166146",
+                                "index": 1,
+                                "parentId": "164382",
+                                "syncing": true,
+                                "title": "JavaScript-MDN",
+                                "url": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript"
+                            },
+                            {
                                 "dateAdded": 1732779772781,
                                 "id": "165628",
-                                "index": 0,
+                                "index": 2,
                                 "parentId": "164382",
                                 "syncing": true,
                                 "title": "HTML教程",
@@ -1487,7 +1487,7 @@
                             {
                                 "dateAdded": 1732779772781,
                                 "id": "165629",
-                                "index": 1,
+                                "index": 3,
                                 "parentId": "164382",
                                 "syncing": true,
                                 "title": "CSS教程",
@@ -1496,7 +1496,7 @@
                             {
                                 "dateAdded": 1732779772781,
                                 "id": "165630",
-                                "index": 2,
+                                "index": 4,
                                 "parentId": "164382",
                                 "syncing": true,
                                 "title": "入门篇-JavaScript 教程-阮一峰",
@@ -1505,7 +1505,7 @@
                             {
                                 "dateAdded": 1732779772781,
                                 "id": "165631",
-                                "index": 3,
+                                "index": 5,
                                 "parentId": "164382",
                                 "syncing": true,
                                 "title": "ES6 入门-阮一峰",
@@ -1514,7 +1514,7 @@
                             {
                                 "dateAdded": 1732779772781,
                                 "id": "165632",
-                                "index": 4,
+                                "index": 6,
                                 "parentId": "164382",
                                 "syncing": true,
                                 "title": "TypeScript-阮一峰",
@@ -1523,7 +1523,7 @@
                             {
                                 "dateAdded": 1732779772782,
                                 "id": "165633",
-                                "index": 5,
+                                "index": 7,
                                 "parentId": "164382",
                                 "syncing": true,
                                 "title": "深入理解 TypeScript-阮一峰",
@@ -1532,7 +1532,7 @@
                             {
                                 "dateAdded": 1732779772782,
                                 "id": "165634",
-                                "index": 6,
+                                "index": 8,
                                 "parentId": "164382",
                                 "syncing": true,
                                 "title": "TypeScript-学习教程",
@@ -1541,7 +1541,7 @@
                             {
                                 "dateAdded": 1732779772782,
                                 "id": "165635",
-                                "index": 7,
+                                "index": 9,
                                 "parentId": "164382",
                                 "syncing": true,
                                 "title": "Node.js-文档操作和数据库连接",
@@ -1550,7 +1550,7 @@
                             {
                                 "dateAdded": 1732779772782,
                                 "id": "165636",
-                                "index": 8,
+                                "index": 10,
                                 "parentId": "164382",
                                 "syncing": true,
                                 "title": "Git - 廖雪峰",
@@ -1559,7 +1559,7 @@
                             {
                                 "dateAdded": 1732779772782,
                                 "id": "165637",
-                                "index": 9,
+                                "index": 11,
                                 "parentId": "164382",
                                 "syncing": true,
                                 "title": "EJS-嵌入式 JavaScript 模板引擎",
@@ -1568,7 +1568,7 @@
                             {
                                 "dateAdded": 1732779772782,
                                 "id": "165638",
-                                "index": 10,
+                                "index": 12,
                                 "parentId": "164382",
                                 "syncing": true,
                                 "title": "Linux和shell命令大全",
@@ -1577,7 +1577,7 @@
                             {
                                 "dateAdded": 1732779772782,
                                 "id": "165639",
-                                "index": 11,
+                                "index": 13,
                                 "parentId": "164382",
                                 "syncing": true,
                                 "title": "鸟哥的Linux 私房菜",
@@ -1586,7 +1586,7 @@
                             {
                                 "dateAdded": 1732779772782,
                                 "id": "165640",
-                                "index": 12,
+                                "index": 14,
                                 "parentId": "164382",
                                 "syncing": true,
                                 "title": "Html/Javascript/Es6/Wen Api/C语言/Bash/Ssh-阮一峰",
@@ -1595,7 +1595,7 @@
                             {
                                 "dateAdded": 1732779772783,
                                 "id": "165641",
-                                "index": 13,
+                                "index": 15,
                                 "parentId": "164382",
                                 "syncing": true,
                                 "title": "ECMASCRIPT-ECMAScript5.1中文版 + ECMAScript3 + ECMAScript（合集）",
@@ -1604,7 +1604,7 @@
                             {
                                 "dateAdded": 1732779772783,
                                 "id": "165642",
-                                "index": 14,
+                                "index": 16,
                                 "parentId": "164382",
                                 "syncing": true,
                                 "title": "大圣前端编程自学网",
@@ -1613,7 +1613,7 @@
                             {
                                 "dateAdded": 1732779772783,
                                 "id": "165643",
-                                "index": 15,
+                                "index": 17,
                                 "parentId": "164382",
                                 "syncing": true,
                                 "title": "人工智能教程",
@@ -1622,7 +1622,7 @@
                             {
                                 "dateAdded": 1732779772783,
                                 "id": "165644",
-                                "index": 16,
+                                "index": 18,
                                 "parentId": "164382",
                                 "syncing": true,
                                 "title": "Markdown教程",
@@ -1631,7 +1631,7 @@
                             {
                                 "dateAdded": 1732779772783,
                                 "id": "165645",
-                                "index": 17,
+                                "index": 19,
                                 "parentId": "164382",
                                 "syncing": true,
                                 "title": "WebSocket-网络通信协议-双向通信",
@@ -1640,7 +1640,7 @@
                             {
                                 "dateAdded": 1732779772783,
                                 "id": "165646",
-                                "index": 18,
+                                "index": 20,
                                 "parentId": "164382",
                                 "syncing": true,
                                 "title": "BookAI.top-chatgpt教程",
@@ -1648,7 +1648,7 @@
                             }
                         ],
                         "dateAdded": 1732779772566,
-                        "dateGroupModified": 1732779772783,
+                        "dateGroupModified": 1745374750296,
                         "id": "164382",
                         "index": 5,
                         "parentId": "164363",
