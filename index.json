@@ -1011,10 +1011,28 @@
                                 "syncing": true,
                                 "title": "Linux-常用命令大全",
                                 "url": "https://blog.csdn.net/tianzongnihao/article/details/80539264"
+                            },
+                            {
+                                "dateAdded": 1745374495983,
+                                "id": "166145",
+                                "index": 7,
+                                "parentId": "164380",
+                                "syncing": true,
+                                "title": "Javascript-w3cschool-文档和手册",
+                                "url": "https://www.w3cschool.cn/javascript/dict"
+                            },
+                            {
+                                "dateAdded": 1745374702662,
+                                "id": "166146",
+                                "index": 8,
+                                "parentId": "164380",
+                                "syncing": true,
+                                "title": "JavaScript-MDN",
+                                "url": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript"
                             }
                         ],
                         "dateAdded": 1732779772566,
-                        "dateGroupModified": 1732779772775,
+                        "dateGroupModified": 1745374702662,
                         "id": "164380",
                         "index": 3,
                         "parentId": "164363",
@@ -13852,7 +13870,7 @@
                     }
                 ],
                 "dateAdded": 1732779772565,
-                "dateGroupModified": 1744966653963,
+                "dateGroupModified": 1745374495983,
                 "id": "164370",
                 "index": 7,
                 "parentId": "1",
