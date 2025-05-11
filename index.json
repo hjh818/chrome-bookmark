@@ -4771,10 +4771,19 @@
                                 "syncing": true,
                                 "title": "HomeiLiving 二期项目文档-资料地址",
                                 "url": "https://www.kdocs.cn/l/cqeH8qraSS70"
+                            },
+                            {
+                                "dateAdded": 1746973609080,
+                                "id": "521962",
+                                "index": 2,
+                                "parentId": "520223",
+                                "syncing": true,
+                                "title": "git-前端项目",
+                                "url": "http://120.79.141.255:3000/admin/repos"
                             }
                         ],
                         "dateAdded": 1746969543823,
-                        "dateGroupModified": 1746971153383,
+                        "dateGroupModified": 1746973609080,
                         "id": "520223",
                         "index": 12,
                         "parentId": "520196",
