@@ -4765,6 +4765,7 @@
                             },
                             {
                                 "dateAdded": 1747405725909,
+                                "dateLastUsed": 1747490982277,
                                 "id": "534220",
                                 "index": 1,
                                 "parentId": "532593",
@@ -4783,6 +4784,7 @@
                             },
                             {
                                 "dateAdded": 1747406245025,
+                                "dateLastUsed": 1747490996129,
                                 "id": "534334",
                                 "index": 3,
                                 "parentId": "532593",
@@ -4825,10 +4827,19 @@
                                 "syncing": true,
                                 "title": "platform-请求文档",
                                 "url": "http://120.79.141.255/platform/doc.html#/home"
+                            },
+                            {
+                                "dateAdded": 1747491063152,
+                                "id": "534342",
+                                "index": 8,
+                                "parentId": "532593",
+                                "syncing": true,
+                                "title": "需求工时评估",
+                                "url": "https://www.kdocs.cn/l/cjGsOIF2f7qf"
                             }
                         ],
                         "dateAdded": 1747405724997,
-                        "dateGroupModified": 1747408319358,
+                        "dateGroupModified": 1747491105205,
                         "id": "532593",
                         "index": 12,
                         "parentId": "532566",
@@ -5837,7 +5848,7 @@
                     }
                 ],
                 "dateAdded": 1747405724992,
-                "dateGroupModified": 1747408323727,
+                "dateGroupModified": 1747491063152,
                 "id": "532571",
                 "index": 5,
                 "parentId": "1",
