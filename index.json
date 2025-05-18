@@ -4755,9 +4755,18 @@
                     {
                         "children": [
                             {
+                                "dateAdded": 1747574147037,
+                                "id": "537898",
+                                "index": 0,
+                                "parentId": "536137",
+                                "syncing": true,
+                                "title": "nuxt-vue3学习资料",
+                                "url": "https://www.yuque.com/bernilin21/nhkh0x/wdnp6ua56fgcq4s7?singleDoc"
+                            },
+                            {
                                 "dateAdded": 1747492161996,
                                 "id": "537764",
-                                "index": 0,
+                                "index": 1,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "Figma-四期-UI",
@@ -4767,7 +4776,7 @@
                                 "dateAdded": 1747492161997,
                                 "dateLastUsed": 1747574117056,
                                 "id": "537765",
-                                "index": 1,
+                                "index": 2,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "HomeiLiving 二期项目文档-资料地址",
@@ -4776,7 +4785,7 @@
                             {
                                 "dateAdded": 1747492161997,
                                 "id": "537766",
-                                "index": 2,
+                                "index": 3,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "git-前端项目",
@@ -4785,7 +4794,7 @@
                             {
                                 "dateAdded": 1747492161997,
                                 "id": "537767",
-                                "index": 3,
+                                "index": 4,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "Homei Living-客户验收问题反馈表",
@@ -4794,7 +4803,7 @@
                             {
                                 "dateAdded": 1747492161997,
                                 "id": "537768",
-                                "index": 4,
+                                "index": 5,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "登录-TAPD-测试问题反馈",
@@ -4803,7 +4812,7 @@
                             {
                                 "dateAdded": 1747492161997,
                                 "id": "537769",
-                                "index": 5,
+                                "index": 6,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "前端-请求文档",
@@ -4812,7 +4821,7 @@
                             {
                                 "dateAdded": 1747492161998,
                                 "id": "537770",
-                                "index": 6,
+                                "index": 7,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "后端-请求文档",
@@ -4821,7 +4830,7 @@
                             {
                                 "dateAdded": 1747492161998,
                                 "id": "537771",
-                                "index": 7,
+                                "index": 8,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "platform-请求文档",
@@ -4830,7 +4839,7 @@
                             {
                                 "dateAdded": 1747492161999,
                                 "id": "537772",
-                                "index": 8,
+                                "index": 9,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "需求工时评估",
@@ -4839,7 +4848,7 @@
                             {
                                 "dateAdded": 1747534367743,
                                 "id": "537896",
-                                "index": 9,
+                                "index": 10,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "录制文件-例会",
@@ -4848,7 +4857,7 @@
                             {
                                 "dateAdded": 1747533669459,
                                 "id": "537884",
-                                "index": 10,
+                                "index": 11,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "Homei-测试环境-后台管理系统",
@@ -4857,7 +4866,7 @@
                             {
                                 "dateAdded": 1747533711277,
                                 "id": "537885",
-                                "index": 11,
+                                "index": 12,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "business-测试环境-pro界面-供应商",
@@ -4866,7 +4875,7 @@
                             {
                                 "dateAdded": 1747533772588,
                                 "id": "537886",
-                                "index": 12,
+                                "index": 13,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "Homei Living-测试环境-pc界面",
@@ -4875,7 +4884,7 @@
                             {
                                 "dateAdded": 1747533877406,
                                 "id": "537887",
-                                "index": 13,
+                                "index": 14,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "Homei Living-测试环境-wap界面",
@@ -4884,7 +4893,7 @@
                             {
                                 "dateAdded": 1747533953953,
                                 "id": "537888",
-                                "index": 14,
+                                "index": 15,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "Homei-预发环境-后台管理系统",
@@ -4894,7 +4903,7 @@
                                 "dateAdded": 1747533980991,
                                 "dateLastUsed": 1747537904379,
                                 "id": "537889",
-                                "index": 15,
+                                "index": 16,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "business-预发环境-pro界面-供应商",
@@ -4904,7 +4913,7 @@
                                 "dateAdded": 1747534017455,
                                 "dateLastUsed": 1747537847305,
                                 "id": "537890",
-                                "index": 16,
+                                "index": 17,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "Homei Living-预发环境-pc界面",
@@ -4913,7 +4922,7 @@
                             {
                                 "dateAdded": 1747534068953,
                                 "id": "537891",
-                                "index": 17,
+                                "index": 18,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "Homei Living-预发环境-wap界面",
@@ -4922,7 +4931,7 @@
                             {
                                 "dateAdded": 1747534214984,
                                 "id": "537895",
-                                "index": 18,
+                                "index": 19,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "Homei-正式环境-后台管理系统",
@@ -4931,7 +4940,7 @@
                             {
                                 "dateAdded": 1747534152433,
                                 "id": "537893",
-                                "index": 19,
+                                "index": 20,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "business-正式环境-pro界面-供应商",
@@ -4941,7 +4950,7 @@
                                 "dateAdded": 1747534114473,
                                 "dateLastUsed": 1747534573905,
                                 "id": "537892",
-                                "index": 20,
+                                "index": 21,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "Homei Living-正式环境-pc界面",
@@ -4950,7 +4959,7 @@
                             {
                                 "dateAdded": 1747534182476,
                                 "id": "537894",
-                                "index": 21,
+                                "index": 22,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "Homei Living-正式环境-wap界面",
@@ -4959,20 +4968,11 @@
                             {
                                 "dateAdded": 1747574086017,
                                 "id": "537897",
-                                "index": 22,
+                                "index": 23,
                                 "parentId": "536137",
                                 "syncing": true,
                                 "title": "宜家-参考官网",
                                 "url": "https://www.ikea.cn/cn/zh/?mz_ca=2091663&mz_sp=7H6C2&utm_campaign=Brandzone&utm_content=bdbz_pc&utm_medium=paidsearch&utm_source=baidu&utm_term=Title"
-                            },
-                            {
-                                "dateAdded": 1747574147037,
-                                "id": "537898",
-                                "index": 23,
-                                "parentId": "536137",
-                                "syncing": true,
-                                "title": "nuxt-vue3学习资料",
-                                "url": "https://www.yuque.com/bernilin21/nhkh0x/wdnp6ua56fgcq4s7?singleDoc"
                             },
                             {
                                 "dateAdded": 1747574276548,
@@ -4991,10 +4991,19 @@
                                 "syncing": true,
                                 "title": "Houzz-参考官网",
                                 "url": "https://www.houzz.com/"
+                            },
+                            {
+                                "dateAdded": 1747574365458,
+                                "id": "537901",
+                                "index": 26,
+                                "parentId": "536137",
+                                "syncing": true,
+                                "title": "Wayfair.com-参考官网",
+                                "url": "https://www.wayfair.com/"
                             }
                         ],
                         "dateAdded": 1747492161402,
-                        "dateGroupModified": 1747574306980,
+                        "dateGroupModified": 1747574390912,
                         "id": "536137",
                         "index": 12,
                         "parentId": "536110",
