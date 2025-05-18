@@ -4862,10 +4862,19 @@
                                 "syncing": true,
                                 "title": "Homei Living-测试环境-pc界面",
                                 "url": "http://120.79.141.255/pc/"
+                            },
+                            {
+                                "dateAdded": 1747533877406,
+                                "id": "537887",
+                                "index": 12,
+                                "parentId": "536137",
+                                "syncing": true,
+                                "title": "Homei Living-测试环境-wap界面",
+                                "url": "http://120.79.141.255/wap/"
                             }
                         ],
                         "dateAdded": 1747492161402,
-                        "dateGroupModified": 1747533772588,
+                        "dateGroupModified": 1747533877406,
                         "id": "536137",
                         "index": 12,
                         "parentId": "536110",
