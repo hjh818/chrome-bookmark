@@ -4765,7 +4765,7 @@
                             },
                             {
                                 "dateAdded": 1747492161997,
-                                "dateLastUsed": 1747533440916,
+                                "dateLastUsed": 1747574117056,
                                 "id": "537765",
                                 "index": 1,
                                 "parentId": "536137",
@@ -4964,10 +4964,19 @@
                                 "syncing": true,
                                 "title": "宜家-参考官网",
                                 "url": "https://www.ikea.cn/cn/zh/?mz_ca=2091663&mz_sp=7H6C2&utm_campaign=Brandzone&utm_content=bdbz_pc&utm_medium=paidsearch&utm_source=baidu&utm_term=Title"
+                            },
+                            {
+                                "dateAdded": 1747574147037,
+                                "id": "537898",
+                                "index": 23,
+                                "parentId": "536137",
+                                "syncing": true,
+                                "title": "nuxt-vue3学习资料",
+                                "url": "https://www.yuque.com/bernilin21/nhkh0x/wdnp6ua56fgcq4s7?singleDoc"
                             }
                         ],
                         "dateAdded": 1747492161402,
-                        "dateGroupModified": 1747574086017,
+                        "dateGroupModified": 1747574147037,
                         "id": "536137",
                         "index": 12,
                         "parentId": "536110",
