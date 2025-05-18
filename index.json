@@ -4973,10 +4973,28 @@
                                 "syncing": true,
                                 "title": "nuxt-vue3学习资料",
                                 "url": "https://www.yuque.com/bernilin21/nhkh0x/wdnp6ua56fgcq4s7?singleDoc"
+                            },
+                            {
+                                "dateAdded": 1747574276548,
+                                "id": "537899",
+                                "index": 24,
+                                "parentId": "536137",
+                                "syncing": true,
+                                "title": "Shopify-参考官网",
+                                "url": "https://www.shopify.com/sg"
+                            },
+                            {
+                                "dateAdded": 1747574306980,
+                                "id": "537900",
+                                "index": 25,
+                                "parentId": "536137",
+                                "syncing": true,
+                                "title": "Houzz-参考官网",
+                                "url": "https://www.houzz.com/"
                             }
                         ],
                         "dateAdded": 1747492161402,
-                        "dateGroupModified": 1747574147037,
+                        "dateGroupModified": 1747574306980,
                         "id": "536137",
                         "index": 12,
                         "parentId": "536110",
