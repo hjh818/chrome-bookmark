@@ -4838,7 +4838,7 @@
                             },
                             {
                                 "dateAdded": 1747626215559,
-                                "dateLastUsed": 1747635844296,
+                                "dateLastUsed": 1747636720697,
                                 "id": "183788",
                                 "index": 9,
                                 "parentId": "182152",
@@ -5774,7 +5774,7 @@
                     },
                     {
                         "dateAdded": 1747626215348,
-                        "dateLastUsed": 1747635277708,
+                        "dateLastUsed": 1747636555715,
                         "id": "182233",
                         "index": 5,
                         "parentId": "182129",
@@ -14130,10 +14130,19 @@
                         "syncing": true,
                         "title": "vue3-在前端vue3 开发媒体查询代码 实现 响应式布局（js 和css 方式）",
                         "url": "https://blog.csdn.net/lele66688888/article/details/140466989"
+                    },
+                    {
+                        "dateAdded": 1747637665252,
+                        "id": "183918",
+                        "index": 896,
+                        "parentId": "182132",
+                        "syncing": true,
+                        "title": "nuxt-vue-基于NUXT.JS搭建一款VUE版SSR前端框架（解决SPA应用的SEO优化优化问题） ",
+                        "url": "https://zhuanlan.zhihu.com/p/612358991"
                     }
                 ],
                 "dateAdded": 1747626215329,
-                "dateGroupModified": 1747626296276,
+                "dateGroupModified": 1747637665252,
                 "id": "182132",
                 "index": 7,
                 "parentId": "1",
