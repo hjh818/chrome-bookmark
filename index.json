@@ -4174,10 +4174,19 @@
                                 "syncing": true,
                                 "title": "wx.getFileSystemManager().readFile | 微信开放社区",
                                 "url": "https://developers.weixin.qq.com/community/develop/doc/000cc2daf34060bc1e12135a066800"
+                            },
+                            {
+                                "dateAdded": 1747645853736,
+                                "id": "183919",
+                                "index": 280,
+                                "parentId": "182146",
+                                "syncing": true,
+                                "title": "前端-性能优化全面指南",
+                                "url": "https://blog.csdn.net/qq_49596922/article/details/146605725"
                             }
                         ],
                         "dateAdded": 1747626215331,
-                        "dateGroupModified": 1747626215550,
+                        "dateGroupModified": 1747645866480,
                         "id": "182146",
                         "index": 6,
                         "parentId": "182125",
@@ -14148,7 +14157,7 @@
                     }
                 ],
                 "dateAdded": 1747626215329,
-                "dateGroupModified": 1747637665252,
+                "dateGroupModified": 1747645853736,
                 "id": "182132",
                 "index": 7,
                 "parentId": "1",
