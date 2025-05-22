@@ -5106,9 +5106,18 @@
                         "url": "https://m.runoob.com/"
                     },
                     {
+                        "dateAdded": 1747893367175,
+                        "id": "185719",
+                        "index": 6,
+                        "parentId": "183922",
+                        "syncing": true,
+                        "title": "前端-知识笔记整理",
+                        "url": "https://www.123fe.net/index.html"
+                    },
+                    {
                         "dateAdded": 1747791188195,
                         "id": "183955",
-                        "index": 6,
+                        "index": 7,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "HTML-参考手册-使用和属性",
@@ -5117,7 +5126,7 @@
                     {
                         "dateAdded": 1747791188196,
                         "id": "183956",
-                        "index": 7,
+                        "index": 8,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "CSS-参考手册-查询选择器和样式",
@@ -5126,7 +5135,7 @@
                     {
                         "dateAdded": 1747791188196,
                         "id": "183957",
-                        "index": 8,
+                        "index": 9,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "JavaScript-教程-事件/对象...",
@@ -5135,7 +5144,7 @@
                     {
                         "dateAdded": 1747791188196,
                         "id": "183958",
-                        "index": 9,
+                        "index": 10,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "TypeScript-使用手册",
@@ -5144,7 +5153,7 @@
                     {
                         "dateAdded": 1747791188196,
                         "id": "183959",
-                        "index": 10,
+                        "index": 11,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "Node.js-使用手册",
@@ -5153,7 +5162,7 @@
                     {
                         "dateAdded": 1747791188197,
                         "id": "183960",
-                        "index": 11,
+                        "index": 12,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "npm-使用手册",
@@ -5162,7 +5171,7 @@
                     {
                         "dateAdded": 1747791188197,
                         "id": "183961",
-                        "index": 12,
+                        "index": 13,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "Git-中文文档",
@@ -5171,7 +5180,7 @@
                     {
                         "dateAdded": 1747791188197,
                         "id": "183962",
-                        "index": 13,
+                        "index": 14,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "npm-查询包",
@@ -5180,7 +5189,7 @@
                     {
                         "dateAdded": 1747892479841,
                         "id": "185718",
-                        "index": 14,
+                        "index": 15,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "Hello-算法",
@@ -5190,7 +5199,7 @@
                         "dateAdded": 1747791188197,
                         "dateLastUsed": 1747812522947,
                         "id": "183963",
-                        "index": 15,
+                        "index": 16,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "微信公众平台-文档查询和发布入口网站",
@@ -5199,7 +5208,7 @@
                     {
                         "dateAdded": 1747791188197,
                         "id": "183964",
-                        "index": 16,
+                        "index": 17,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "微信-官方文档入口",
@@ -5208,7 +5217,7 @@
                     {
                         "dateAdded": 1747791188197,
                         "id": "183965",
-                        "index": 17,
+                        "index": 18,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "DCloud - 微信小程序插件等开发服务",
@@ -5217,7 +5226,7 @@
                     {
                         "dateAdded": 1747791188198,
                         "id": "183966",
-                        "index": 18,
+                        "index": 19,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "书栈网-各类开发的线上书籍",
@@ -5226,7 +5235,7 @@
                     {
                         "dateAdded": 1747791188198,
                         "id": "183967",
-                        "index": 19,
+                        "index": 20,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "华为开发者联盟-鸿蒙系统",
@@ -5235,7 +5244,7 @@
                     {
                         "dateAdded": 1747791188198,
                         "id": "183968",
-                        "index": 20,
+                        "index": 21,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "Can I use-外部-浏览器对于CSS/HTML/JS等支持版本",
@@ -5244,7 +5253,7 @@
                     {
                         "dateAdded": 1747791188198,
                         "id": "183969",
-                        "index": 21,
+                        "index": 22,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "MDN-知识点搜索库",
@@ -5253,7 +5262,7 @@
                     {
                         "dateAdded": 1747791188199,
                         "id": "183970",
-                        "index": 22,
+                        "index": 23,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "鸠摩搜索-开发图书搜索和下载",
@@ -5262,7 +5271,7 @@
                     {
                         "dateAdded": 1747791188199,
                         "id": "183971",
-                        "index": 23,
+                        "index": 24,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "CODELF-变量名查询",
@@ -5271,7 +5280,7 @@
                     {
                         "dateAdded": 1747791188199,
                         "id": "183972",
-                        "index": 24,
+                        "index": 25,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "Stack Overflow-IT问题解答查询网站",
@@ -5280,7 +5289,7 @@
                     {
                         "dateAdded": 1747791188199,
                         "id": "183973",
-                        "index": 25,
+                        "index": 26,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "腾讯云-开发者手册-前后端知识和教程",
@@ -5289,7 +5298,7 @@
                     {
                         "dateAdded": 1747791188199,
                         "id": "183974",
-                        "index": 26,
+                        "index": 27,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "BootCDN-前端开源项目包cdn引入",
@@ -5298,7 +5307,7 @@
                     {
                         "dateAdded": 1747791188199,
                         "id": "183975",
-                        "index": 27,
+                        "index": 28,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "Quick Reference-面向开发人员速查知识",
@@ -5307,7 +5316,7 @@
                     {
                         "dateAdded": 1747791188199,
                         "id": "183976",
-                        "index": 28,
+                        "index": 29,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "CSS-标准颜色参考表",
@@ -5316,7 +5325,7 @@
                     {
                         "dateAdded": 1747791188200,
                         "id": "183977",
-                        "index": 29,
+                        "index": 30,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "Git Explorer-git命令在线查询工具",
@@ -5325,7 +5334,7 @@
                     {
                         "dateAdded": 1747791188200,
                         "id": "183978",
-                        "index": 30,
+                        "index": 31,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "cdnjs-插件cdn下载网址",
@@ -5334,7 +5343,7 @@
                     {
                         "dateAdded": 1747791188200,
                         "id": "183979",
-                        "index": 31,
+                        "index": 32,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "椰子办公-ppt/简历等模板",
@@ -5343,7 +5352,7 @@
                     {
                         "dateAdded": 1747791188200,
                         "id": "183980",
-                        "index": 32,
+                        "index": 33,
                         "parentId": "183922",
                         "syncing": true,
                         "title": "All Bootstrap CSS classes list-bootstrap样式查询",
@@ -5351,7 +5360,7 @@
                     }
                 ],
                 "dateAdded": 1747791188155,
-                "dateGroupModified": 1747892500671,
+                "dateGroupModified": 1747893384559,
                 "id": "183922",
                 "index": 1,
                 "parentId": "1",
