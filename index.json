@@ -5360,7 +5360,7 @@
                     }
                 ],
                 "dateAdded": 1747791188155,
-                "dateGroupModified": 1747893384559,
+                "dateGroupModified": 1747897335867,
                 "id": "183922",
                 "index": 1,
                 "parentId": "1",
@@ -14192,10 +14192,19 @@
                         "syncing": true,
                         "title": "nuxt-vue-基于NUXT.JS搭建一款VUE版SSR前端框架（解决SPA应用的SEO优化优化问题） ",
                         "url": "https://zhuanlan.zhihu.com/p/612358991"
+                    },
+                    {
+                        "dateAdded": 1747897335867,
+                        "id": "185721",
+                        "index": 897,
+                        "parentId": "183928",
+                        "syncing": true,
+                        "title": "前端工具-模式选对，效率翻倍：Cursor 的 3 种内置模式指南",
+                        "url": "https://zhuanlan.zhihu.com/p/1899940397310018060"
                     }
                 ],
                 "dateAdded": 1747791188156,
-                "dateGroupModified": 1747791188361,
+                "dateGroupModified": 1747897355671,
                 "id": "183928",
                 "index": 7,
                 "parentId": "1",
