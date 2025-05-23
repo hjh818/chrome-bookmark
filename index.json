@@ -14201,10 +14201,19 @@
                         "syncing": true,
                         "title": "前端工具-模式选对，效率翻倍：Cursor 的 3 种内置模式指南",
                         "url": "https://zhuanlan.zhihu.com/p/1899940397310018060"
+                    },
+                    {
+                        "dateAdded": 1747992355730,
+                        "id": "185723",
+                        "index": 898,
+                        "parentId": "183928",
+                        "syncing": true,
+                        "title": "微信小程序-实现手写签名全攻略，看这一篇就够了！",
+                        "url": "https://blog.csdn.net/Jiaberrr/article/details/144999405"
                     }
                 ],
                 "dateAdded": 1747791188156,
-                "dateGroupModified": 1747897355671,
+                "dateGroupModified": 1747992355730,
                 "id": "183928",
                 "index": 7,
                 "parentId": "1",
@@ -15918,7 +15927,7 @@
                                 "children": [
                                     {
                                         "dateAdded": 1747791188489,
-                                        "dateLastUsed": 1747904173913,
+                                        "dateLastUsed": 1747978826816,
                                         "id": "185695",
                                         "index": 0,
                                         "parentId": "185640",
@@ -16058,7 +16067,7 @@
                                     },
                                     {
                                         "dateAdded": 1747791188492,
-                                        "dateLastUsed": 1747814300435,
+                                        "dateLastUsed": 1747966501555,
                                         "id": "185708",
                                         "index": 3,
                                         "parentId": "185642",
@@ -16131,6 +16140,7 @@
                                     },
                                     {
                                         "dateAdded": 1747791188493,
+                                        "dateLastUsed": 1747983384894,
                                         "id": "185716",
                                         "index": 11,
                                         "parentId": "185642",
