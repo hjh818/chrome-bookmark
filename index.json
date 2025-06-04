@@ -493,10 +493,19 @@
                                 "syncing": true,
                                 "title": "Tailwind-原子css框架",
                                 "url": "https://tailwind.nodejs.cn/#google_vignette"
+                            },
+                            {
+                                "dateAdded": 1749021732351,
+                                "id": "196542",
+                                "index": 24,
+                                "parentId": "194753",
+                                "syncing": true,
+                                "title": "Windi CSS-原子css框架",
+                                "url": "https://windicss.org/"
                             }
                         ],
                         "dateAdded": 1748920250657,
-                        "dateGroupModified": 1749021652198,
+                        "dateGroupModified": 1749021732351,
                         "id": "194753",
                         "index": 1,
                         "parentId": "194737",
