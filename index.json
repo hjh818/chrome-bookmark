@@ -4890,9 +4890,18 @@
                                 "url": "http://120.79.141.255/platform/doc.html#/home"
                             },
                             {
+                                "dateAdded": 1750252903057,
+                                "id": "579393",
+                                "index": 11,
+                                "parentId": "577613",
+                                "syncing": true,
+                                "title": "homei项目的开发日志-四期-前端",
+                                "url": "https://docs.qq.com/sheet/DTFJiVGVhU0NuWWtW?tab=BB08J2"
+                            },
+                            {
                                 "dateAdded": 1750236904401,
                                 "id": "579263",
-                                "index": 11,
+                                "index": 12,
                                 "parentId": "577613",
                                 "syncing": true,
                                 "title": "需求工时评估",
@@ -4901,7 +4910,7 @@
                             {
                                 "dateAdded": 1750236904402,
                                 "id": "579264",
-                                "index": 12,
+                                "index": 13,
                                 "parentId": "577613",
                                 "syncing": true,
                                 "title": "录制文件-例会",
@@ -4910,7 +4919,7 @@
                             {
                                 "dateAdded": 1750236904402,
                                 "id": "579265",
-                                "index": 13,
+                                "index": 14,
                                 "parentId": "577613",
                                 "syncing": true,
                                 "title": "Homei-测试环境-后台管理系统",
@@ -4919,7 +4928,7 @@
                             {
                                 "dateAdded": 1750236904402,
                                 "id": "579266",
-                                "index": 14,
+                                "index": 15,
                                 "parentId": "577613",
                                 "syncing": true,
                                 "title": "business-测试环境-pro界面-供应商",
@@ -4928,7 +4937,7 @@
                             {
                                 "dateAdded": 1750236904402,
                                 "id": "579267",
-                                "index": 15,
+                                "index": 16,
                                 "parentId": "577613",
                                 "syncing": true,
                                 "title": "Homei Living-测试环境-pc界面",
@@ -4937,7 +4946,7 @@
                             {
                                 "dateAdded": 1750236904402,
                                 "id": "579268",
-                                "index": 16,
+                                "index": 17,
                                 "parentId": "577613",
                                 "syncing": true,
                                 "title": "Homei Living-测试环境-wap界面",
@@ -4946,7 +4955,7 @@
                             {
                                 "dateAdded": 1750236904403,
                                 "id": "579269",
-                                "index": 17,
+                                "index": 18,
                                 "parentId": "577613",
                                 "syncing": true,
                                 "title": "Homei-预发环境-后台管理系统",
@@ -4955,7 +4964,7 @@
                             {
                                 "dateAdded": 1750236904403,
                                 "id": "579270",
-                                "index": 18,
+                                "index": 19,
                                 "parentId": "577613",
                                 "syncing": true,
                                 "title": "business-预发环境-pro界面-供应商",
@@ -4964,7 +4973,7 @@
                             {
                                 "dateAdded": 1750236904403,
                                 "id": "579271",
-                                "index": 19,
+                                "index": 20,
                                 "parentId": "577613",
                                 "syncing": true,
                                 "title": "Homei Living-预发环境-pc界面",
@@ -4973,7 +4982,7 @@
                             {
                                 "dateAdded": 1750236904403,
                                 "id": "579272",
-                                "index": 20,
+                                "index": 21,
                                 "parentId": "577613",
                                 "syncing": true,
                                 "title": "Homei Living-预发环境-wap界面",
@@ -4982,7 +4991,7 @@
                             {
                                 "dateAdded": 1750236904403,
                                 "id": "579273",
-                                "index": 21,
+                                "index": 22,
                                 "parentId": "577613",
                                 "syncing": true,
                                 "title": "Homei-正式环境-后台管理系统",
@@ -4991,7 +5000,7 @@
                             {
                                 "dateAdded": 1750236904404,
                                 "id": "579274",
-                                "index": 22,
+                                "index": 23,
                                 "parentId": "577613",
                                 "syncing": true,
                                 "title": "business-正式环境-pro界面-供应商",
@@ -5000,7 +5009,7 @@
                             {
                                 "dateAdded": 1750236904404,
                                 "id": "579275",
-                                "index": 23,
+                                "index": 24,
                                 "parentId": "577613",
                                 "syncing": true,
                                 "title": "Homei Living-正式环境-pc界面",
@@ -5009,7 +5018,7 @@
                             {
                                 "dateAdded": 1750236904404,
                                 "id": "579276",
-                                "index": 24,
+                                "index": 25,
                                 "parentId": "577613",
                                 "syncing": true,
                                 "title": "Homei Living-正式环境-wap界面",
@@ -5018,7 +5027,7 @@
                             {
                                 "dateAdded": 1750236904404,
                                 "id": "579277",
-                                "index": 25,
+                                "index": 26,
                                 "parentId": "577613",
                                 "syncing": true,
                                 "title": "宜家-参考官网",
@@ -5027,7 +5036,7 @@
                             {
                                 "dateAdded": 1750236904404,
                                 "id": "579278",
-                                "index": 26,
+                                "index": 27,
                                 "parentId": "577613",
                                 "syncing": true,
                                 "title": "Shopify-参考官网",
@@ -5036,7 +5045,7 @@
                             {
                                 "dateAdded": 1750236904404,
                                 "id": "579279",
-                                "index": 27,
+                                "index": 28,
                                 "parentId": "577613",
                                 "syncing": true,
                                 "title": "Houzz-参考官网",
@@ -5045,7 +5054,7 @@
                             {
                                 "dateAdded": 1750236904405,
                                 "id": "579280",
-                                "index": 28,
+                                "index": 29,
                                 "parentId": "577613",
                                 "syncing": true,
                                 "title": "Wayfair.com-参考官网",
@@ -5053,7 +5062,7 @@
                             }
                         ],
                         "dateAdded": 1750236904047,
-                        "dateGroupModified": 1750236904405,
+                        "dateGroupModified": 1750252949760,
                         "id": "577613",
                         "index": 12,
                         "parentId": "577586",
@@ -16190,7 +16199,7 @@
                                     }
                                 ],
                                 "dateAdded": 1750236904423,
-                                "dateGroupModified": 1750236904450,
+                                "dateGroupModified": 1750252903057,
                                 "id": "579317",
                                 "index": 2,
                                 "parentId": "578732",
