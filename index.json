@@ -341,9 +341,18 @@
                                 "url": "https://vant-ui.github.io/vant-weapp/#/radio"
                             },
                             {
+                                "dateAdded": 1750760677533,
+                                "id": "212821",
+                                "index": 7,
+                                "parentId": "211027",
+                                "syncing": true,
+                                "title": "iView Weapp-小程序开发组件",
+                                "url": "https://weapp.iviewui.com/docs/guide/start"
+                            },
+                            {
                                 "dateAdded": 1750665884426,
                                 "id": "212196",
-                                "index": 7,
+                                "index": 8,
                                 "parentId": "211027",
                                 "syncing": true,
                                 "title": "uni-ui-Uni App 移动端",
@@ -352,7 +361,7 @@
                             {
                                 "dateAdded": 1750665884427,
                                 "id": "212197",
-                                "index": 8,
+                                "index": 9,
                                 "parentId": "211027",
                                 "syncing": true,
                                 "title": "ANNAR-适配多端H5 UI",
@@ -361,7 +370,7 @@
                             {
                                 "dateAdded": 1750665884427,
                                 "id": "212198",
-                                "index": 9,
+                                "index": 10,
                                 "parentId": "211027",
                                 "syncing": true,
                                 "title": "Taro-适配多端H5 UI",
@@ -370,7 +379,7 @@
                             {
                                 "dateAdded": 1750665884427,
                                 "id": "212199",
-                                "index": 10,
+                                "index": 11,
                                 "parentId": "211027",
                                 "syncing": true,
                                 "title": "Bootstrap-JQ组件库",
@@ -379,7 +388,7 @@
                             {
                                 "dateAdded": 1750665884427,
                                 "id": "212200",
-                                "index": 11,
+                                "index": 12,
                                 "parentId": "211027",
                                 "syncing": true,
                                 "title": "Layui-前端模块化代码",
@@ -388,7 +397,7 @@
                             {
                                 "dateAdded": 1750665884427,
                                 "id": "212201",
-                                "index": 12,
+                                "index": 13,
                                 "parentId": "211027",
                                 "syncing": true,
                                 "title": "VUX移动端 UI 组件库-Vue",
@@ -397,7 +406,7 @@
                             {
                                 "dateAdded": 1750665884427,
                                 "id": "212202",
-                                "index": 13,
+                                "index": 14,
                                 "parentId": "211027",
                                 "syncing": true,
                                 "title": "uni-DCloud插件市场",
@@ -406,7 +415,7 @@
                             {
                                 "dateAdded": 1750665884427,
                                 "id": "212203",
-                                "index": 14,
+                                "index": 15,
                                 "parentId": "211027",
                                 "syncing": true,
                                 "title": "uView-uni-app移动端",
@@ -415,7 +424,7 @@
                             {
                                 "dateAdded": 1750665884428,
                                 "id": "212204",
-                                "index": 15,
+                                "index": 16,
                                 "parentId": "211027",
                                 "syncing": true,
                                 "title": "jQuery-插件库",
@@ -424,7 +433,7 @@
                             {
                                 "dateAdded": 1750665884428,
                                 "id": "212205",
-                                "index": 16,
+                                "index": 17,
                                 "parentId": "211027",
                                 "syncing": true,
                                 "title": "WordPress-大型博客插件库",
@@ -433,7 +442,7 @@
                             {
                                 "dateAdded": 1750665884428,
                                 "id": "212206",
-                                "index": 17,
+                                "index": 18,
                                 "parentId": "211027",
                                 "syncing": true,
                                 "title": "Formily-react项目表单库",
@@ -442,7 +451,7 @@
                             {
                                 "dateAdded": 1750665884428,
                                 "id": "212207",
-                                "index": 18,
+                                "index": 19,
                                 "parentId": "211027",
                                 "syncing": true,
                                 "title": "Bizcharts-react-通用图标组件库",
@@ -451,7 +460,7 @@
                             {
                                 "dateAdded": 1750665884428,
                                 "id": "212208",
-                                "index": 19,
+                                "index": 20,
                                 "parentId": "211027",
                                 "syncing": true,
                                 "title": "better-scroll-移动端列表设计方案",
@@ -460,7 +469,7 @@
                             {
                                 "dateAdded": 1750665884428,
                                 "id": "212209",
-                                "index": 20,
+                                "index": 21,
                                 "parentId": "211027",
                                 "syncing": true,
                                 "title": "vuepress-theme-hope-博客主题库",
@@ -469,7 +478,7 @@
                             {
                                 "dateAdded": 1750665884428,
                                 "id": "212210",
-                                "index": 21,
+                                "index": 22,
                                 "parentId": "211027",
                                 "syncing": true,
                                 "title": "PlusProComponents-vue3组件库",
@@ -478,7 +487,7 @@
                             {
                                 "dateAdded": 1750665884429,
                                 "id": "212211",
-                                "index": 22,
+                                "index": 23,
                                 "parentId": "211027",
                                 "syncing": true,
                                 "title": "Tailwind-原子css框架",
@@ -487,7 +496,7 @@
                             {
                                 "dateAdded": 1750665884429,
                                 "id": "212212",
-                                "index": 23,
+                                "index": 24,
                                 "parentId": "211027",
                                 "syncing": true,
                                 "title": "UnoCSS-原子css框架",
@@ -496,24 +505,15 @@
                             {
                                 "dateAdded": 1750665884429,
                                 "id": "212213",
-                                "index": 24,
+                                "index": 25,
                                 "parentId": "211027",
                                 "syncing": true,
                                 "title": "Windi CSS-原子css框架",
                                 "url": "https://cn.windicss.org/"
-                            },
-                            {
-                                "dateAdded": 1750760677533,
-                                "id": "212821",
-                                "index": 25,
-                                "parentId": "211027",
-                                "syncing": true,
-                                "title": "iView Weapp-小程序开发组件",
-                                "url": "https://weapp.iviewui.com/docs/guide/start"
                             }
                         ],
                         "dateAdded": 1750665884280,
-                        "dateGroupModified": 1750760698938,
+                        "dateGroupModified": 1750760942866,
                         "id": "211027",
                         "index": 1,
                         "parentId": "211011",
