@@ -1463,10 +1463,19 @@
                                         "syncing": true,
                                         "title": "TinyMCE-富文本编辑器",
                                         "url": "http://tinymce.ax-z.cn/"
+                                    },
+                                    {
+                                        "dateAdded": 1751698120810,
+                                        "id": "653771",
+                                        "index": 46,
+                                        "parentId": "651972",
+                                        "syncing": true,
+                                        "title": "HTML5产业联盟-移动端协议",
+                                        "url": "https://www.html5plus.org/#home"
                                     }
                                 ],
                                 "dateAdded": 1751525066744,
-                                "dateGroupModified": 1751525067390,
+                                "dateGroupModified": 1751698152021,
                                 "id": "651972",
                                 "index": 4,
                                 "parentId": "651953",
@@ -4251,7 +4260,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066744,
-                                "dateGroupModified": 1751683888462,
+                                "dateGroupModified": 1751698120810,
                                 "id": "651974",
                                 "index": 6,
                                 "parentId": "651953",
