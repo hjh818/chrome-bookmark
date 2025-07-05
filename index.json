@@ -4239,10 +4239,19 @@
                                         "syncing": true,
                                         "title": "html-script 标签中 crossorigin 属性说明",
                                         "url": "https://blog.csdn.net/kill370354/article/details/133379313"
+                                    },
+                                    {
+                                        "dateAdded": 1751683888462,
+                                        "id": "653770",
+                                        "index": 285,
+                                        "parentId": "651974",
+                                        "syncing": true,
+                                        "title": "CSS-选择器全面详解",
+                                        "url": "https://www.cnblogs.com/itcq1024/p/18668438"
                                     }
                                 ],
                                 "dateAdded": 1751525066744,
-                                "dateGroupModified": 1751682898694,
+                                "dateGroupModified": 1751683888462,
                                 "id": "651974",
                                 "index": 6,
                                 "parentId": "651953",
