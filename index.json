@@ -4221,10 +4221,19 @@
                                         "syncing": true,
                                         "title": "npm-npm install 安装包时，常用的-S 、-D 、-g 、什么都不加、有什么区别？",
                                         "url": "https://blog.csdn.net/2301_76676960/article/details/131001905"
+                                    },
+                                    {
+                                        "dateAdded": 1751682639096,
+                                        "id": "653768",
+                                        "index": 283,
+                                        "parentId": "651974",
+                                        "syncing": true,
+                                        "title": "html-script的defer和async区别",
+                                        "url": "https://blog.csdn.net/terrychinaz/article/details/113725453"
                                     }
                                 ],
                                 "dateAdded": 1751525066744,
-                                "dateGroupModified": 1751525067541,
+                                "dateGroupModified": 1751682656547,
                                 "id": "651974",
                                 "index": 6,
                                 "parentId": "651953",
@@ -5459,7 +5468,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066768,
-                                "dateGroupModified": 1751527150564,
+                                "dateGroupModified": 1751682639096,
                                 "id": "652018",
                                 "index": 1,
                                 "parentId": "651955",
