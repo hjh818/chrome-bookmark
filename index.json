@@ -5071,7 +5071,7 @@
                             }
                         ],
                         "dateAdded": 1751525066738,
-                        "dateGroupModified": 1751812411106,
+                        "dateGroupModified": 1751850562176,
                         "id": "651954",
                         "index": 1,
                         "parentId": "651951",
@@ -16474,10 +16474,19 @@
                                 "syncing": true,
                                 "title": "前端-三大主流地图厂商商用授权接口对比",
                                 "url": "https://blog.csdn.net/TTTT1213/article/details/147964658"
+                            },
+                            {
+                                "dateAdded": 1751850562176,
+                                "id": "653773",
+                                "index": 903,
+                                "parentId": "651967",
+                                "syncing": true,
+                                "title": "HTML-script标签中的defer和async的区别主要决定了脚本加载的方式 一、核心区别对比表",
+                                "url": "https://juejin.cn/post/7473303204153245705"
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1751525067333,
+                        "dateGroupModified": 1751850582003,
                         "id": "651967",
                         "index": 14,
                         "parentId": "651951",
