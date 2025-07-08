@@ -4268,17 +4268,17 @@
                                         "url": "https://cloud.tencent.com/developer/article/2367505"
                                     },
                                     {
-                                        "dateAdded": 1751978518682,
-                                        "id": "653782",
+                                        "dateAdded": 1751978832404,
+                                        "id": "653783",
                                         "index": 287,
                                         "parentId": "651974",
                                         "syncing": true,
-                                        "title": "React18-Hooks初识（一）：useEffect执行机制+清理副作用������������学子不才，初学useEffect ",
-                                        "url": "https://juejin.cn/post/7454024890220724260"
+                                        "title": "React-`useEffect` 详解：副作用的管理与性能优化useEffect 详解：副作用的管理与性能优化 什么是副作用？",
+                                        "url": "https://juejin.cn/post/7438621747363119104"
                                     }
                                 ],
                                 "dateAdded": 1751525066744,
-                                "dateGroupModified": 1751978536486,
+                                "dateGroupModified": 1751978832404,
                                 "id": "651974",
                                 "index": 6,
                                 "parentId": "651953",
