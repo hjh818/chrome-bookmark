@@ -4269,7 +4269,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066744,
-                                "dateGroupModified": 1751957533097,
+                                "dateGroupModified": 1751958817027,
                                 "id": "651974",
                                 "index": 6,
                                 "parentId": "651953",
@@ -8337,10 +8337,19 @@
                                         "syncing": true,
                                         "title": "如何利用Deepseek搞钱？3种思维8套搭配，堪称王炸组合 - 知乎",
                                         "url": "https://zhuanlan.zhihu.com/p/22366565990"
+                                    },
+                                    {
+                                        "dateAdded": 1751958817027,
+                                        "id": "653780",
+                                        "index": 2,
+                                        "parentId": "652202",
+                                        "syncing": true,
+                                        "title": "DeepSeek-原理介绍",
+                                        "url": "https://cloud.tencent.com/developer/news/2123499"
                                     }
                                 ],
                                 "dateAdded": 1751525066868,
-                                "dateGroupModified": 1751525067603,
+                                "dateGroupModified": 1751958839654,
                                 "id": "652202",
                                 "index": 1,
                                 "parentId": "651966",
