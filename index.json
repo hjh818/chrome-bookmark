@@ -4275,10 +4275,19 @@
                                         "syncing": true,
                                         "title": "React-`useEffect` 详解：副作用的管理与性能优化useEffect 详解：副作用的管理与性能优化 什么是副作用？",
                                         "url": "https://juejin.cn/post/7438621747363119104"
+                                    },
+                                    {
+                                        "dateAdded": 1751978976090,
+                                        "id": "653784",
+                                        "index": 288,
+                                        "parentId": "651974",
+                                        "syncing": true,
+                                        "title": "『React』组件副作用，useEffect讲解_useeffect中什么是副作用",
+                                        "url": "https://blog.csdn.net/weixin_39415598/article/details/148404099"
                                     }
                                 ],
                                 "dateAdded": 1751525066744,
-                                "dateGroupModified": 1751978832404,
+                                "dateGroupModified": 1751978976090,
                                 "id": "651974",
                                 "index": 6,
                                 "parentId": "651953",
