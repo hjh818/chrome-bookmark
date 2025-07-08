@@ -4259,17 +4259,17 @@
                                         "url": "https://www.cnblogs.com/itcq1024/p/18668438"
                                     },
                                     {
-                                        "dateAdded": 1751957448480,
-                                        "id": "653778",
+                                        "dateAdded": 1751957533097,
+                                        "id": "653779",
                                         "index": 286,
                                         "parentId": "651974",
                                         "syncing": true,
-                                        "title": "MVC MVP MVVM原理和区别_mvc、mvp、 mvvm原理",
-                                        "url": "https://blog.csdn.net/w517272812/article/details/88739585"
+                                        "title": "一文搞懂MVC、MVP、MVVM架构模式",
+                                        "url": "https://cloud.tencent.com/developer/article/2367505"
                                     }
                                 ],
                                 "dateAdded": 1751525066744,
-                                "dateGroupModified": 1751957463296,
+                                "dateGroupModified": 1751957533097,
                                 "id": "651974",
                                 "index": 6,
                                 "parentId": "651953",
