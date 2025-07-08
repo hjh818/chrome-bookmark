@@ -4266,10 +4266,19 @@
                                         "syncing": true,
                                         "title": "一文搞懂MVC、MVP、MVVM架构模式",
                                         "url": "https://cloud.tencent.com/developer/article/2367505"
+                                    },
+                                    {
+                                        "dateAdded": 1751978518682,
+                                        "id": "653782",
+                                        "index": 287,
+                                        "parentId": "651974",
+                                        "syncing": true,
+                                        "title": "React18-Hooks初识（一）：useEffect执行机制+清理副作用������������学子不才，初学useEffect ",
+                                        "url": "https://juejin.cn/post/7454024890220724260"
                                     }
                                 ],
                                 "dateAdded": 1751525066744,
-                                "dateGroupModified": 1751958817027,
+                                "dateGroupModified": 1751978536486,
                                 "id": "651974",
                                 "index": 6,
                                 "parentId": "651953",
@@ -8322,7 +8331,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066868,
-                                "dateGroupModified": 1751959185273,
+                                "dateGroupModified": 1751978518682,
                                 "id": "652201",
                                 "index": 0,
                                 "parentId": "651966",
