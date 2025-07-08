@@ -8266,6 +8266,7 @@
                                     },
                                     {
                                         "dateAdded": 1751525067602,
+                                        "dateLastUsed": 1751958919808,
                                         "id": "653697",
                                         "index": 3,
                                         "parentId": "652201",
@@ -8308,10 +8309,19 @@
                                         "syncing": true,
                                         "title": "MJ-设计师的王炸组合",
                                         "url": "https://www.midjourny.cn/home/?from=TBMJ14&strategy=drawing6&bd_vid=13225979854883172441#/mj"
+                                    },
+                                    {
+                                        "dateAdded": 1751959177222,
+                                        "id": "653781",
+                                        "index": 8,
+                                        "parentId": "652201",
+                                        "syncing": true,
+                                        "title": "千帆大模型平台-百度智能云千帆",
+                                        "url": "https://cloud.baidu.com/product-s/qianfan_home?track=5bd394dd4585d9edae067dc496da787b576defb63a21fdee"
                                     }
                                 ],
                                 "dateAdded": 1751525066868,
-                                "dateGroupModified": 1751525067603,
+                                "dateGroupModified": 1751959185273,
                                 "id": "652201",
                                 "index": 0,
                                 "parentId": "651966",
@@ -8349,7 +8359,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066868,
-                                "dateGroupModified": 1751958839654,
+                                "dateGroupModified": 1751959177222,
                                 "id": "652202",
                                 "index": 1,
                                 "parentId": "651966",
