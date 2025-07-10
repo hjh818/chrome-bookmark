@@ -5544,7 +5544,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066768,
-                                "dateGroupModified": 1752024791442,
+                                "dateGroupModified": 1752160260421,
                                 "id": "652018",
                                 "index": 1,
                                 "parentId": "651955",
@@ -16569,10 +16569,19 @@
                                 "syncing": true,
                                 "title": "JS类型判断全解析：typeof、instanceof、toString、Array.isArray",
                                 "url": "https://juejin.cn/post/7519768837819301900"
+                            },
+                            {
+                                "dateAdded": 1752160260421,
+                                "id": "653786",
+                                "index": 907,
+                                "parentId": "651967",
+                                "syncing": true,
+                                "title": "git-删除某次提交",
+                                "url": "https://blog.csdn.net/m0_58834334/article/details/145038966"
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1751957448480,
+                        "dateGroupModified": 1752160281716,
                         "id": "651967",
                         "index": 14,
                         "parentId": "651951",
