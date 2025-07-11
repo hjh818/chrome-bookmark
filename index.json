@@ -5238,10 +5238,19 @@
                                         "syncing": true,
                                         "title": "自助密码修改服务",
                                         "url": "https://ssp.sics.ld/ssp/"
+                                    },
+                                    {
+                                        "dateAdded": 1752206633272,
+                                        "id": "653789",
+                                        "index": 14,
+                                        "parentId": "652017",
+                                        "syncing": true,
+                                        "title": "货代-账号信息",
+                                        "url": "https://docs.qq.com/doc/DS2xaSmtTdXBERkhn"
                                     }
                                 ],
                                 "dateAdded": 1751525066768,
-                                "dateGroupModified": 1752202652616,
+                                "dateGroupModified": 1752206645210,
                                 "id": "652017",
                                 "index": 0,
                                 "parentId": "651955",
@@ -16600,7 +16609,7 @@
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1752202665070,
+                        "dateGroupModified": 1752206633272,
                         "id": "651967",
                         "index": 14,
                         "parentId": "651951",
