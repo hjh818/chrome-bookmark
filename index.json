@@ -16727,6 +16727,7 @@
                             },
                             {
                                 "dateAdded": 1753171931057,
+                                "dateLastUsed": 1753173655158,
                                 "id": "653811",
                                 "index": 3,
                                 "parentId": "653799",
@@ -16736,6 +16737,7 @@
                             },
                             {
                                 "dateAdded": 1753171978905,
+                                "dateLastUsed": 1753173795323,
                                 "id": "653812",
                                 "index": 4,
                                 "parentId": "653799",
@@ -16745,16 +16747,46 @@
                             },
                             {
                                 "dateAdded": 1753172050211,
+                                "dateLastUsed": 1753173827900,
                                 "id": "653813",
                                 "index": 5,
                                 "parentId": "653799",
                                 "syncing": true,
                                 "title": "小智-客户端PC-正式",
                                 "url": "https://smartxiaozhi-pc.freshgood.cn/login"
+                            },
+                            {
+                                "dateAdded": 1753173672154,
+                                "id": "653816",
+                                "index": 6,
+                                "parentId": "653799",
+                                "syncing": true,
+                                "title": "小智-场地端mobile-测试",
+                                "url": "https://smartxiaozhi-mobile.test.freshgood.cn/login"
+                            },
+                            {
+                                "dateAdded": 1753173803527,
+                                "dateLastUsed": 1753173875740,
+                                "id": "653817",
+                                "index": 7,
+                                "parentId": "653799",
+                                "syncing": true,
+                                "title": "小智-场地端mobile-开发",
+                                "url": "https://smartxiaozhi-mobile.dev.freshgood.cn/login"
+                            },
+                            {
+                                "dateAdded": 1753173849021,
+                                "dateLastUsed": 1753173886280,
+                                "id": "653818",
+                                "index": 8,
+                                "parentId": "653799",
+                                "syncing": true,
+                                "title": "小智-场地端mobile-正式",
+                                "url": "https://smartxiaozhi-mobile.freshgood.cn/login"
                             }
                         ],
                         "dateAdded": 1753148292863,
-                        "dateGroupModified": 1753172924466,
+                        "dateGroupModified": 1753173849021,
                         "id": "653799",
                         "index": 0,
                         "parentId": "653798",
@@ -16814,7 +16846,7 @@
                             }
                         ],
                         "dateAdded": 1753148320600,
-                        "dateGroupModified": 1753173110760,
+                        "dateGroupModified": 1753173672154,
                         "id": "653801",
                         "index": 2,
                         "parentId": "653798",
