@@ -514,10 +514,19 @@
                                         "syncing": true,
                                         "title": "Windi CSS-原子css框架",
                                         "url": "https://cn.windicss.org/"
+                                    },
+                                    {
+                                        "dateAdded": 1753174786290,
+                                        "id": "653819",
+                                        "index": 26,
+                                        "parentId": "651969",
+                                        "syncing": true,
+                                        "title": "AntV-X6 图编辑引擎-前端流程图",
+                                        "url": "https://x6.antv.antgroup.com/"
                                     }
                                 ],
                                 "dateAdded": 1751525066741,
-                                "dateGroupModified": 1751525067349,
+                                "dateGroupModified": 1753174821083,
                                 "id": "651969",
                                 "index": 1,
                                 "parentId": "651953",
@@ -16843,7 +16852,7 @@
                     }
                 ],
                 "dateAdded": 1753148256576,
-                "dateGroupModified": 1753174416208,
+                "dateGroupModified": 1753174786290,
                 "id": "653798",
                 "index": 1,
                 "parentId": "1",
