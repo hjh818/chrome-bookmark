@@ -16695,10 +16695,28 @@
                                 "syncing": true,
                                 "title": "巡检员小智-官网-正式",
                                 "url": "https://aixzhi.com/"
+                            },
+                            {
+                                "dateAdded": 1753156393294,
+                                "id": "653808",
+                                "index": 1,
+                                "parentId": "653799",
+                                "syncing": true,
+                                "title": "巡检员小智-官网-开发",
+                                "url": "https://smartxiaozhi-website.dev.freshgood.cn/index"
+                            },
+                            {
+                                "dateAdded": 1753156417523,
+                                "id": "653809",
+                                "index": 2,
+                                "parentId": "653799",
+                                "syncing": true,
+                                "title": "巡检员小智-官网-测试",
+                                "url": "https://smartxiaozhi-website.test.freshgood.cn/"
                             }
                         ],
                         "dateAdded": 1753148292863,
-                        "dateGroupModified": 1753156214483,
+                        "dateGroupModified": 1753156417523,
                         "id": "653799",
                         "index": 0,
                         "parentId": "653798",
