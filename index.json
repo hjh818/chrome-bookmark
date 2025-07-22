@@ -16734,7 +16734,7 @@
                                 "index": 1,
                                 "parentId": "653802",
                                 "syncing": true,
-                                "title": "公司员工操作平台",
+                                "title": "公司员工-操作平台",
                                 "url": "https://pagoda.italent.cn/portal/iTalentHome/?_userSpecialType=1&xpuid=712694456&_qsrcapp=Italent&_qrt=html&quark_s=fac40b0e587566d59529c27e0a8de22b715a13fc37737f1df1019ac51a979deb"
                             },
                             {
@@ -16744,7 +16744,7 @@
                                 "index": 2,
                                 "parentId": "653802",
                                 "syncing": true,
-                                "title": "项目管理",
+                                "title": "项目代码管理-coding",
                                 "url": "https://xie-tong.coding.net/user/projects"
                             },
                             {
@@ -16754,7 +16754,7 @@
                                 "index": 3,
                                 "parentId": "653802",
                                 "syncing": true,
-                                "title": "语雀-优鲜互联需求",
+                                "title": "项目需求管理-语雀",
                                 "url": "https://paas-teamwork.yuque.com/dashboard/collections"
                             }
                         ],
