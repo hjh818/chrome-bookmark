@@ -16744,10 +16744,19 @@
                                 "syncing": true,
                                 "title": "项目管理",
                                 "url": "https://xie-tong.coding.net/user/projects"
+                            },
+                            {
+                                "dateAdded": 1753153625674,
+                                "id": "653806",
+                                "index": 3,
+                                "parentId": "653802",
+                                "syncing": true,
+                                "title": "语雀-优鲜互联知识库",
+                                "url": "https://paas-teamwork.yuque.com/dashboard/collections"
                             }
                         ],
                         "dateAdded": 1753148363398,
-                        "dateGroupModified": 1753153011441,
+                        "dateGroupModified": 1753153625674,
                         "id": "653802",
                         "index": 3,
                         "parentId": "653798",
