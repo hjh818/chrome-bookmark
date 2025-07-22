@@ -16664,10 +16664,19 @@
                                 "syncing": true,
                                 "title": "vue3-index.html缓存解决",
                                 "url": "https://www.cnblogs.com/Fooo/p/17984065"
+                            },
+                            {
+                                "dateAdded": 1753167450919,
+                                "id": "653810",
+                                "index": 911,
+                                "parentId": "651967",
+                                "syncing": true,
+                                "title": "企微-如何将Vue3开发的项目，接入企业微信工作台中（前端）_前端接入企业微信工作台应用,授权用户id",
+                                "url": "https://blog.csdn.net/TESJackeyLove1/article/details/146153272"
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1753149247201,
+                        "dateGroupModified": 1753167477935,
                         "id": "651967",
                         "index": 14,
                         "parentId": "651951",
@@ -16758,7 +16767,7 @@
                             }
                         ],
                         "dateAdded": 1753148320600,
-                        "dateGroupModified": 1753161556299,
+                        "dateGroupModified": 1753167450919,
                         "id": "653801",
                         "index": 2,
                         "parentId": "653798",
