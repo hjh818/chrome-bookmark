@@ -16741,7 +16741,7 @@
                         "index": 4,
                         "parentId": "653798",
                         "syncing": true,
-                        "title": "工作台 [Jenkins]-测试环境-构建",
+                        "title": "Jenkins-构建-测试环境",
                         "url": "https://jenkins.test.freshgood.cn/"
                     },
                     {
