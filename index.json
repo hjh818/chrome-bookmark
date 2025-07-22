@@ -16754,7 +16754,7 @@
                             }
                         ],
                         "dateAdded": 1753148292863,
-                        "dateGroupModified": 1753172050211,
+                        "dateGroupModified": 1753172924466,
                         "id": "653799",
                         "index": 0,
                         "parentId": "653798",
@@ -16795,7 +16795,7 @@
                             }
                         ],
                         "dateAdded": 1753148320600,
-                        "dateGroupModified": 1753167450919,
+                        "dateGroupModified": 1753172938824,
                         "id": "653801",
                         "index": 2,
                         "parentId": "653798",
@@ -16823,10 +16823,20 @@
                                 "syncing": true,
                                 "title": "公司员工-操作平台",
                                 "url": "https://pagoda.italent.cn/portal/iTalentHome/?_userSpecialType=1&xpuid=712694456&_qsrcapp=Italent&_qrt=html&quark_s=fac40b0e587566d59529c27e0a8de22b715a13fc37737f1df1019ac51a979deb"
+                            },
+                            {
+                                "dateAdded": 1753172924466,
+                                "dateLastUsed": 1753172952918,
+                                "id": "653814",
+                                "index": 2,
+                                "parentId": "653802",
+                                "syncing": true,
+                                "title": "代码分支管理规范",
+                                "url": "https://paas-teamwork.yuque.com/nv6co0/gggg57/wxcweu33olhrl3za"
                             }
                         ],
                         "dateAdded": 1753148363398,
-                        "dateGroupModified": 1753156203047,
+                        "dateGroupModified": 1753172949947,
                         "id": "653802",
                         "index": 3,
                         "parentId": "653798",
