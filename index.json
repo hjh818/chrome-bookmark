@@ -16676,7 +16676,7 @@
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1753167477935,
+                        "dateGroupModified": 1753171931057,
                         "id": "651967",
                         "index": 14,
                         "parentId": "651951",
@@ -16723,10 +16723,37 @@
                                 "syncing": true,
                                 "title": "巡检员小智-官网-测试",
                                 "url": "https://smartxiaozhi-website.test.freshgood.cn/"
+                            },
+                            {
+                                "dateAdded": 1753171931057,
+                                "id": "653811",
+                                "index": 3,
+                                "parentId": "653799",
+                                "syncing": true,
+                                "title": "小智-客户端PC-测试",
+                                "url": "https://smartxiaozhi-pc.test.freshgood.cn/login"
+                            },
+                            {
+                                "dateAdded": 1753171978905,
+                                "id": "653812",
+                                "index": 4,
+                                "parentId": "653799",
+                                "syncing": true,
+                                "title": "小智-客户端PC-开发",
+                                "url": "https://smartxiaozhi-pc.dev.freshgood.cn/login"
+                            },
+                            {
+                                "dateAdded": 1753172050211,
+                                "id": "653813",
+                                "index": 5,
+                                "parentId": "653799",
+                                "syncing": true,
+                                "title": "小智-客户端PC-正式",
+                                "url": "https://smartxiaozhi-pc.freshgood.cn/login"
                             }
                         ],
                         "dateAdded": 1753148292863,
-                        "dateGroupModified": 1753156417523,
+                        "dateGroupModified": 1753172050211,
                         "id": "653799",
                         "index": 0,
                         "parentId": "653798",
@@ -16778,7 +16805,7 @@
                         "children": [
                             {
                                 "dateAdded": 1753149247201,
-                                "dateLastUsed": 1753149717258,
+                                "dateLastUsed": 1753171840958,
                                 "id": "653803",
                                 "index": 0,
                                 "parentId": "653802",
