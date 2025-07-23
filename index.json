@@ -16687,10 +16687,19 @@
                                 "syncing": true,
                                 "title": "企微-如何将Vue3开发的项目，接入企业微信工作台中（前端）_前端接入企业微信工作台应用,授权用户id",
                                 "url": "https://blog.csdn.net/TESJackeyLove1/article/details/146153272"
+                            },
+                            {
+                                "dateAdded": 1753256454414,
+                                "id": "653823",
+                                "index": 912,
+                                "parentId": "651967",
+                                "syncing": true,
+                                "title": "vue3-通过canvas实现图片圈选通过canvas实现图片的拖拽，放大缩小，区域圈选以及选中删除的功能，通过拖动绘制",
+                                "url": "https://juejin.cn/post/7309455584096370699"
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1753171931057,
+                        "dateGroupModified": 1753256474416,
                         "id": "651967",
                         "index": 14,
                         "parentId": "651951",
@@ -16768,6 +16777,7 @@
                     },
                     {
                         "dateAdded": 1753233447868,
+                        "dateLastUsed": 1753256088794,
                         "id": "653821",
                         "index": 6,
                         "parentId": "653798",
@@ -16875,7 +16885,7 @@
                     }
                 ],
                 "dateAdded": 1753148256576,
-                "dateGroupModified": 1753249084372,
+                "dateGroupModified": 1753256454414,
                 "id": "653798",
                 "index": 1,
                 "parentId": "1",
