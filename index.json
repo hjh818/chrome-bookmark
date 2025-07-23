@@ -16800,7 +16800,7 @@
                         "index": 9,
                         "parentId": "653798",
                         "syncing": true,
-                        "title": "小智-客户端PC-测试",
+                        "title": "小智-管理端PC-测试",
                         "url": "https://smartxiaozhi-pc.test.freshgood.cn/login"
                     },
                     {
@@ -16810,7 +16810,7 @@
                         "index": 10,
                         "parentId": "653798",
                         "syncing": true,
-                        "title": "小智-客户端PC-开发",
+                        "title": "小智-管理端PC-开发",
                         "url": "https://smartxiaozhi-pc.dev.freshgood.cn/login"
                     },
                     {
@@ -16820,7 +16820,7 @@
                         "index": 11,
                         "parentId": "653798",
                         "syncing": true,
-                        "title": "小智-客户端PC-正式",
+                        "title": "小智-管理端PC-正式",
                         "url": "https://smartxiaozhi-pc.freshgood.cn/login"
                     },
                     {
@@ -16858,7 +16858,7 @@
                         "index": 15,
                         "parentId": "653798",
                         "syncing": true,
-                        "title": "研发反述参考-梁锦豪",
+                        "title": "前端反述-参考-梁锦豪",
                         "url": "https://paas-teamwork.yuque.com/nv6co0/gg8rbh/ri906asr0hnmg0vs"
                     }
                 ],
