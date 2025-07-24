@@ -309,7 +309,7 @@
                                     },
                                     {
                                         "dateAdded": 1751525067340,
-                                        "dateLastUsed": 1753172366777,
+                                        "dateLastUsed": 1753341683713,
                                         "id": "653138",
                                         "index": 3,
                                         "parentId": "651969",
@@ -16718,7 +16718,7 @@
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1753325803555,
+                        "dateGroupModified": 1753342091525,
                         "id": "651967",
                         "index": 14,
                         "parentId": "651951",
@@ -16738,7 +16738,7 @@
                 "children": [
                     {
                         "dateAdded": 1753149247201,
-                        "dateLastUsed": 1753172134977,
+                        "dateLastUsed": 1753341491862,
                         "id": "653803",
                         "index": 0,
                         "parentId": "653798",
@@ -16768,6 +16768,7 @@
                     },
                     {
                         "dateAdded": 1753180501382,
+                        "dateLastUsed": 1753341268866,
                         "id": "653820",
                         "index": 3,
                         "parentId": "653798",
@@ -16901,10 +16902,19 @@
                         "syncing": true,
                         "title": "小智-场地端mobile-正式",
                         "url": "https://smartxiaozhi-mobile.freshgood.cn/login"
+                    },
+                    {
+                        "dateAdded": 1753342091525,
+                        "id": "653827",
+                        "index": 17,
+                        "parentId": "653798",
+                        "syncing": true,
+                        "title": "巡检员小智-UI",
+                        "url": "https://codesign.qq.com/app/s/572036217076423"
                     }
                 ],
                 "dateAdded": 1753148256576,
-                "dateGroupModified": 1753256454414,
+                "dateGroupModified": 1753342107946,
                 "id": "653798",
                 "index": 1,
                 "parentId": "1",
