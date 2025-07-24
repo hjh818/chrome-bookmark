@@ -5606,7 +5606,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066768,
-                                "dateGroupModified": 1753321635324,
+                                "dateGroupModified": 1753325790467,
                                 "id": "652018",
                                 "index": 1,
                                 "parentId": "651955",
@@ -16706,10 +16706,19 @@
                                 "syncing": true,
                                 "title": "vue3-通过canvas实现图片圈选通过canvas实现图片的拖拽，放大缩小，区域圈选以及选中删除的功能，通过拖动绘制",
                                 "url": "https://juejin.cn/post/7309455584096370699"
+                            },
+                            {
+                                "dateAdded": 1753325790467,
+                                "id": "653825",
+                                "index": 913,
+                                "parentId": "651967",
+                                "syncing": true,
+                                "title": "vue-vue2,vue3的v-model_vue2 组件 v-model",
+                                "url": "https://blog.csdn.net/m0_51429350/article/details/148693202"
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1753321619315,
+                        "dateGroupModified": 1753325803555,
                         "id": "651967",
                         "index": 14,
                         "parentId": "651951",
