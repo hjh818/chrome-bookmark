@@ -16738,7 +16738,7 @@
                     }
                 ],
                 "dateAdded": 1751525066734,
-                "dateGroupModified": 1751525066740,
+                "dateGroupModified": 1753435092081,
                 "id": "651951",
                 "index": 0,
                 "parentId": "1",
@@ -16943,9 +16943,29 @@
                 "title": "优鲜互联"
             },
             {
+                "children": [
+                    {
+                        "dateAdded": 1753435099817,
+                        "id": "653832",
+                        "index": 0,
+                        "parentId": "653831",
+                        "syncing": true,
+                        "title": "流程组件-Logic-Flow-滴滴",
+                        "url": "https://juejin.cn/post/7507982656685441050"
+                    }
+                ],
+                "dateAdded": 1753435092066,
+                "dateGroupModified": 1753435123592,
+                "id": "653831",
+                "index": 2,
+                "parentId": "1",
+                "syncing": true,
+                "title": "低代码"
+            },
+            {
                 "dateAdded": 1751525066734,
                 "id": "651952",
-                "index": 2,
+                "index": 3,
                 "parentId": "1",
                 "syncing": true,
                 "title": "百度",
@@ -16953,7 +16973,7 @@
             }
         ],
         "dateAdded": 1647932752666,
-        "dateGroupModified": 1753148371467,
+        "dateGroupModified": 1753435099817,
         "folderType": "bookmarks-bar",
         "id": "1",
         "index": 0,
