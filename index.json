@@ -327,13 +327,13 @@
                                         "url": "https://ant.design/index-cn"
                                     },
                                     {
-                                        "dateAdded": 1751525067341,
-                                        "id": "653140",
+                                        "dateAdded": 1753421551397,
+                                        "id": "653830",
                                         "index": 5,
                                         "parentId": "651969",
                                         "syncing": true,
-                                        "title": "Vant-Vue 移动端",
-                                        "url": "https://vant-contrib.gitee.io/vant/#/zh-CN/"
+                                        "title": "Vant 4-vue3-移动端",
+                                        "url": "https://vant-ui.github.io/vant/#/zh-CN"
                                     },
                                     {
                                         "dateAdded": 1751525067341,
@@ -526,7 +526,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066741,
-                                "dateGroupModified": 1753180501382,
+                                "dateGroupModified": 1753421571945,
                                 "id": "651969",
                                 "index": 1,
                                 "parentId": "651953",
@@ -16935,7 +16935,7 @@
                     }
                 ],
                 "dateAdded": 1753148256576,
-                "dateGroupModified": 1753358873923,
+                "dateGroupModified": 1753421551397,
                 "id": "653798",
                 "index": 1,
                 "parentId": "1",
