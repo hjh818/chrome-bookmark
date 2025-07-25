@@ -16932,10 +16932,19 @@
                         "syncing": true,
                         "title": "小智-场地端mobile-正式",
                         "url": "https://smartxiaozhi-mobile.freshgood.cn/login"
+                    },
+                    {
+                        "dateAdded": 1753440564495,
+                        "id": "653833",
+                        "index": 19,
+                        "parentId": "653798",
+                        "syncing": true,
+                        "title": "蜜蜂微搭-PC-测试",
+                        "url": "https://paas-teamwork.test.freshgood.cn/frame/frame_homePage"
                     }
                 ],
                 "dateAdded": 1753148256576,
-                "dateGroupModified": 1753421551397,
+                "dateGroupModified": 1753440584203,
                 "id": "653798",
                 "index": 1,
                 "parentId": "1",
@@ -16955,7 +16964,7 @@
                     }
                 ],
                 "dateAdded": 1753435092066,
-                "dateGroupModified": 1753435123592,
+                "dateGroupModified": 1753440564495,
                 "id": "653831",
                 "index": 2,
                 "parentId": "1",
