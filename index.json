@@ -514,15 +514,6 @@
                                         "syncing": true,
                                         "title": "Windi CSS-原子css框架",
                                         "url": "https://cn.windicss.org/"
-                                    },
-                                    {
-                                        "dateAdded": 1753174786290,
-                                        "id": "653819",
-                                        "index": 26,
-                                        "parentId": "651969",
-                                        "syncing": true,
-                                        "title": "AntV-X6 图编辑引擎-前端流程图",
-                                        "url": "https://x6.antv.antgroup.com/"
                                     }
                                 ],
                                 "dateAdded": 1751525066741,
@@ -16964,9 +16955,18 @@
                         "url": "https://docs.logic-flow.cn/docs/#/zh/guide/start"
                     },
                     {
+                        "dateAdded": 1753174786290,
+                        "id": "653819",
+                        "index": 1,
+                        "parentId": "653831",
+                        "syncing": true,
+                        "title": "AntV-X6 图编辑引擎-前端流程图",
+                        "url": "https://x6.antv.antgroup.com/"
+                    },
+                    {
                         "dateAdded": 1753435099817,
                         "id": "653832",
-                        "index": 1,
+                        "index": 2,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "流程组件-Logic-Flow-滴滴",
@@ -16974,7 +16974,7 @@
                     }
                 ],
                 "dateAdded": 1753435092066,
-                "dateGroupModified": 1753491228400,
+                "dateGroupModified": 1753491945138,
                 "id": "653831",
                 "index": 2,
                 "parentId": "1",
