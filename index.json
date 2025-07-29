@@ -16950,13 +16950,13 @@
             {
                 "children": [
                     {
-                        "dateAdded": 1753491200538,
-                        "id": "653834",
+                        "dateAdded": 1753785665427,
+                        "id": "653837",
                         "index": 0,
                         "parentId": "653831",
                         "syncing": true,
-                        "title": "logic-flow-流程引擎工具",
-                        "url": "https://docs.logic-flow.cn/docs/#/zh/guide/start"
+                        "title": "LogicFlow·业务流程图编辑框架",
+                        "url": "https://site.logic-flow.cn/"
                     },
                     {
                         "dateAdded": 1753174786290,
@@ -16987,7 +16987,7 @@
                     }
                 ],
                 "dateAdded": 1753435092066,
-                "dateGroupModified": 1753498408795,
+                "dateGroupModified": 1753785683420,
                 "id": "653831",
                 "index": 2,
                 "parentId": "1",
