@@ -5294,7 +5294,7 @@
                                     },
                                     {
                                         "dateAdded": 1751525067569,
-                                        "dateLastUsed": 1753710519667,
+                                        "dateLastUsed": 1753795760024,
                                         "id": "653625",
                                         "index": 2,
                                         "parentId": "652018",
@@ -5313,6 +5313,7 @@
                                     },
                                     {
                                         "dateAdded": 1751525067570,
+                                        "dateLastUsed": 1753798424815,
                                         "id": "653627",
                                         "index": 4,
                                         "parentId": "652018",
@@ -5322,7 +5323,7 @@
                                     },
                                     {
                                         "dateAdded": 1752420614406,
-                                        "dateLastUsed": 1753621062518,
+                                        "dateLastUsed": 1753795748906,
                                         "id": "653794",
                                         "index": 5,
                                         "parentId": "652018",
@@ -5386,7 +5387,7 @@
                                     },
                                     {
                                         "dateAdded": 1751525067572,
-                                        "dateLastUsed": 1753621105799,
+                                        "dateLastUsed": 1753795767871,
                                         "id": "653633",
                                         "index": 12,
                                         "parentId": "652018",
@@ -16950,9 +16951,19 @@
             {
                 "children": [
                     {
-                        "dateAdded": 1753785665427,
-                        "id": "653837",
+                        "dateAdded": 1753840264545,
+                        "id": "653839",
                         "index": 0,
+                        "parentId": "653831",
+                        "syncing": true,
+                        "title": "logicflow-学习",
+                        "url": "https://docs.qq.com/doc/DS3N0Y1JKYXpRWWxN?no_promotion=1"
+                    },
+                    {
+                        "dateAdded": 1753785665427,
+                        "dateLastUsed": 1753795638977,
+                        "id": "653837",
+                        "index": 1,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "LogicFlow·业务流程图编辑框架",
@@ -16961,7 +16972,7 @@
                     {
                         "dateAdded": 1753174786290,
                         "id": "653819",
-                        "index": 1,
+                        "index": 2,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "AntV-X6 图编辑引擎-前端流程图",
@@ -16970,7 +16981,7 @@
                     {
                         "dateAdded": 1753435099817,
                         "id": "653832",
-                        "index": 2,
+                        "index": 3,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "流程组件-Logic-Flow-滴滴",
@@ -16979,7 +16990,7 @@
                     {
                         "dateAdded": 1753498062773,
                         "id": "653835",
-                        "index": 3,
+                        "index": 4,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "Konva-画布工具-用于图片描绘区域",
@@ -16987,7 +16998,7 @@
                     }
                 ],
                 "dateAdded": 1753435092066,
-                "dateGroupModified": 1753785683420,
+                "dateGroupModified": 1753840270064,
                 "id": "653831",
                 "index": 2,
                 "parentId": "1",
