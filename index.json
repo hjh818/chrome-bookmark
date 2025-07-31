@@ -17006,10 +17006,19 @@
                         "syncing": true,
                         "title": "interact.js-拖拽插件",
                         "url": "https://interactjs.io/"
+                    },
+                    {
+                        "dateAdded": 1753929023362,
+                        "id": "653841",
+                        "index": 6,
+                        "parentId": "653831",
+                        "syncing": true,
+                        "title": "AntV X6 常用方法AntV X6 常用方法 1. Graph 相关方法 1.1 创建 Graph 使用场景：初始化 ",
+                        "url": "https://juejin.cn/post/7488613811700662323"
                     }
                 ],
                 "dateAdded": 1753435092066,
-                "dateGroupModified": 1753924159025,
+                "dateGroupModified": 1753929023362,
                 "id": "653831",
                 "index": 2,
                 "parentId": "1",
