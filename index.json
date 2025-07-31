@@ -16997,10 +16997,19 @@
                         "syncing": true,
                         "title": "Konva-画布工具-用于图片描绘区域",
                         "url": "http://konvajs-doc.bluehymn.com/docs/"
+                    },
+                    {
+                        "dateAdded": 1753924159025,
+                        "id": "653840",
+                        "index": 5,
+                        "parentId": "653831",
+                        "syncing": true,
+                        "title": "interact.js-拖拽插件",
+                        "url": "https://interactjs.io/"
                     }
                 ],
                 "dateAdded": 1753435092066,
-                "dateGroupModified": 1753840270064,
+                "dateGroupModified": 1753924159025,
                 "id": "653831",
                 "index": 2,
                 "parentId": "1",
