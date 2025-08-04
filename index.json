@@ -267,10 +267,20 @@
                                         "syncing": true,
                                         "title": "Taro-小程序跨平台统一开发解决方案",
                                         "url": "https://taro.jd.com/home/in.html"
+                                    },
+                                    {
+                                        "dateAdded": 1751698120810,
+                                        "dateLastUsed": 1754317663140,
+                                        "id": "653771",
+                                        "index": 29,
+                                        "parentId": "651968",
+                                        "syncing": true,
+                                        "title": "HTML5产业联盟-移动端协议",
+                                        "url": "https://www.html5plus.org/#home"
                                     }
                                 ],
                                 "dateAdded": 1751525066741,
-                                "dateGroupModified": 1751525067339,
+                                "dateGroupModified": 1754317694967,
                                 "id": "651968",
                                 "index": 0,
                                 "parentId": "651953",
@@ -1474,15 +1484,6 @@
                                         "syncing": true,
                                         "title": "TinyMCE-富文本编辑器",
                                         "url": "http://tinymce.ax-z.cn/"
-                                    },
-                                    {
-                                        "dateAdded": 1751698120810,
-                                        "id": "653771",
-                                        "index": 46,
-                                        "parentId": "651972",
-                                        "syncing": true,
-                                        "title": "HTML5产业联盟-移动端协议",
-                                        "url": "https://www.html5plus.org/#home"
                                     }
                                 ],
                                 "dateAdded": 1751525066744,
