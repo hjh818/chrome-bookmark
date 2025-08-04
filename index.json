@@ -514,10 +514,19 @@
                                         "syncing": true,
                                         "title": "Windi CSS-原子css框架",
                                         "url": "https://cn.windicss.org/"
+                                    },
+                                    {
+                                        "dateAdded": 1754313378477,
+                                        "id": "653845",
+                                        "index": 26,
+                                        "parentId": "651969",
+                                        "syncing": true,
+                                        "title": "Pure Admin-基于element再封装的组件库",
+                                        "url": "https://pure-admin.cn/"
                                     }
                                 ],
                                 "dateAdded": 1751525066741,
-                                "dateGroupModified": 1753421571945,
+                                "dateGroupModified": 1754313404173,
                                 "id": "651969",
                                 "index": 1,
                                 "parentId": "651953",
@@ -5234,7 +5243,7 @@
                                     },
                                     {
                                         "dateAdded": 1751525067569,
-                                        "dateLastUsed": 1754123428896,
+                                        "dateLastUsed": 1754311829753,
                                         "id": "653623",
                                         "index": 12,
                                         "parentId": "652017",
@@ -6340,7 +6349,7 @@
                         "children": [
                             {
                                 "dateAdded": 1751525066769,
-                                "dateLastUsed": 1754207575750,
+                                "dateLastUsed": 1754292288824,
                                 "id": "652021",
                                 "index": 0,
                                 "parentId": "651957",
@@ -16885,7 +16894,7 @@
                     },
                     {
                         "dateAdded": 1753171931057,
-                        "dateLastUsed": 1753248514508,
+                        "dateLastUsed": 1754294552120,
                         "id": "653811",
                         "index": 13,
                         "parentId": "653798",
@@ -17038,7 +17047,7 @@
                     }
                 ],
                 "dateAdded": 1753435092066,
-                "dateGroupModified": 1754286604052,
+                "dateGroupModified": 1754313378477,
                 "id": "653831",
                 "index": 2,
                 "parentId": "1",
