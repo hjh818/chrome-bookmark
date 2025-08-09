@@ -987,10 +987,19 @@
                                         "syncing": true,
                                         "title": "GitHub - fly8888/cursor_machine_id: 一键修改cursor 设备ID，解除设备锁定状态",
                                         "url": "https://github.com/fly8888/cursor_machine_id"
+                                    },
+                                    {
+                                        "dateAdded": 1754713480557,
+                                        "id": "653851",
+                                        "index": 49,
+                                        "parentId": "651970",
+                                        "syncing": true,
+                                        "title": "vue-office: 支持word(.docx)、excel(.xlsx,.xls)、pdf、pptx等各类型",
+                                        "url": "https://github.com/501351981/vue-office"
                                     }
                                 ],
                                 "dateAdded": 1751525066742,
-                                "dateGroupModified": 1751525067367,
+                                "dateGroupModified": 1754713504562,
                                 "id": "651970",
                                 "index": 2,
                                 "parentId": "651953",
@@ -7769,7 +7778,7 @@
                             }
                         ],
                         "dateAdded": 1751525066739,
-                        "dateGroupModified": 1754704850696,
+                        "dateGroupModified": 1754713480557,
                         "id": "651960",
                         "index": 7,
                         "parentId": "651951",
