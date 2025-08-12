@@ -999,7 +999,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066742,
-                                "dateGroupModified": 1754713504562,
+                                "dateGroupModified": 1754986838265,
                                 "id": "651970",
                                 "index": 2,
                                 "parentId": "651953",
@@ -17087,10 +17087,19 @@
                         "syncing": true,
                         "title": "无界-极致的微前端框架",
                         "url": "https://wujie-micro.github.io/doc/"
+                    },
+                    {
+                        "dateAdded": 1754986838265,
+                        "id": "653852",
+                        "index": 8,
+                        "parentId": "653831",
+                        "syncing": true,
+                        "title": "低代码平台-思路与方向",
+                        "url": "https://juejin.cn/post/7326432875955437579"
                     }
                 ],
                 "dateAdded": 1753435092066,
-                "dateGroupModified": 1754313378477,
+                "dateGroupModified": 1754986863069,
                 "id": "653831",
                 "index": 2,
                 "parentId": "1",
