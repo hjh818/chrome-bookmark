@@ -16769,7 +16769,7 @@
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1754990654225,
+                        "dateGroupModified": 1754996869415,
                         "id": "651967",
                         "index": 14,
                         "parentId": "651951",
@@ -16984,10 +16984,19 @@
                         "syncing": true,
                         "title": "蜜蜂微搭-PC-测试",
                         "url": "https://paas-teamwork.test.freshgood.cn/frame/frame_homePage"
+                    },
+                    {
+                        "dateAdded": 1754996869415,
+                        "id": "653855",
+                        "index": 20,
+                        "parentId": "653798",
+                        "syncing": true,
+                        "title": "smartxiaozhi-pc.prod-正式环境发布",
+                        "url": "https://jenkins.freshgood.cn/job/smartxiaozhi-pc.prod/configure"
                     }
                 ],
                 "dateAdded": 1753148256576,
-                "dateGroupModified": 1753491200538,
+                "dateGroupModified": 1754996888493,
                 "id": "653798",
                 "index": 1,
                 "parentId": "1",
