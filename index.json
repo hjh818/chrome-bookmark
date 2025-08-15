@@ -16991,7 +16991,7 @@
                     }
                 ],
                 "dateAdded": 1753148256576,
-                "dateGroupModified": 1755242853268,
+                "dateGroupModified": 1755252584595,
                 "id": "653798",
                 "index": 1,
                 "parentId": "1",
@@ -17140,10 +17140,19 @@
                         "syncing": true,
                         "title": "Chart.js-图表",
                         "url": "https://chartjs.cn/"
+                    },
+                    {
+                        "dateAdded": 1755252584595,
+                        "id": "653858",
+                        "index": 15,
+                        "parentId": "653831",
+                        "syncing": true,
+                        "title": "D3-用于定制数据可视化的 JavaScript 库",
+                        "url": "https://d3js.cn/"
                     }
                 ],
                 "dateAdded": 1753435092066,
-                "dateGroupModified": 1755180149140,
+                "dateGroupModified": 1755252603053,
                 "id": "653831",
                 "index": 2,
                 "parentId": "1",
