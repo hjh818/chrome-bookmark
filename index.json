@@ -17030,18 +17030,9 @@
                         "url": "https://x6.antv.antgroup.com/"
                     },
                     {
-                        "dateAdded": 1753435099817,
-                        "id": "653832",
-                        "index": 3,
-                        "parentId": "653831",
-                        "syncing": true,
-                        "title": "流程组件-Logic-Flow-滴滴",
-                        "url": "https://juejin.cn/post/7507982656685441050"
-                    },
-                    {
                         "dateAdded": 1753498062773,
                         "id": "653835",
-                        "index": 4,
+                        "index": 3,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "Konva-画布工具-用于图片描绘区域",
@@ -17050,44 +17041,26 @@
                     {
                         "dateAdded": 1753924159025,
                         "id": "653840",
-                        "index": 5,
+                        "index": 4,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "interact.js-拖拽插件",
                         "url": "https://interactjs.io/"
                     },
                     {
-                        "dateAdded": 1753929023362,
-                        "id": "653841",
-                        "index": 6,
-                        "parentId": "653831",
-                        "syncing": true,
-                        "title": "AntV X6 常用方法AntV X6 常用方法 1. Graph 相关方法 1.1 创建 Graph 使用场景：初始化 ",
-                        "url": "https://juejin.cn/post/7488613811700662323"
-                    },
-                    {
                         "dateAdded": 1754286595725,
                         "id": "653843",
-                        "index": 7,
+                        "index": 5,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "无界-极致的微前端框架",
                         "url": "https://wujie-micro.github.io/doc/"
                     },
                     {
-                        "dateAdded": 1754986838265,
-                        "id": "653852",
-                        "index": 8,
-                        "parentId": "653831",
-                        "syncing": true,
-                        "title": "低代码平台-思路与方向",
-                        "url": "https://juejin.cn/post/7326432875955437579"
-                    },
-                    {
                         "dateAdded": 1751525067377,
                         "dateLastUsed": 1754988729703,
                         "id": "653232",
-                        "index": 9,
+                        "index": 6,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "ECharts-基于canvas实现的图表库",
@@ -17097,7 +17070,7 @@
                         "dateAdded": 1751525067216,
                         "dateLastUsed": 1754988738071,
                         "id": "652807",
-                        "index": 10,
+                        "index": 7,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "ECharts-中国地图（无敌详细）",
@@ -17107,52 +17080,90 @@
                         "dateAdded": 1751525067256,
                         "dateLastUsed": 1754988751689,
                         "id": "652910",
-                        "index": 11,
+                        "index": 8,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "小程序-Echarts使用（保姆式教程）",
                         "url": "https://blog.csdn.net/hh867308122/article/details/131222122"
                     },
                     {
-                        "dateAdded": 1751525067382,
-                        "id": "653238",
-                        "index": 12,
-                        "parentId": "653831",
-                        "syncing": true,
-                        "title": "three.js-VR物联网3D可视化",
-                        "url": "http://www.yanhuangxueyuan.com/threejs/docs/index.html#api/zh/animation/AnimationObjectGroup"
-                    },
-                    {
-                        "dateAdded": 1755180071166,
-                        "dateLastUsed": 1755252443471,
-                        "id": "653856",
-                        "index": 13,
-                        "parentId": "653831",
-                        "syncing": true,
-                        "title": "d3.js API -D3数据可视化",
-                        "url": "https://www.kancloud.cn/luponu/d3js-api-zh/886552"
-                    },
-                    {
                         "dateAdded": 1755180149140,
                         "id": "653857",
-                        "index": 14,
+                        "index": 9,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "Chart.js-图表",
                         "url": "https://chartjs.cn/"
                     },
                     {
+                        "dateAdded": 1751525067382,
+                        "id": "653238",
+                        "index": 10,
+                        "parentId": "653831",
+                        "syncing": true,
+                        "title": "three.js-VR物联网3D可视化",
+                        "url": "http://www.yanhuangxueyuan.com/threejs/docs/index.html#api/zh/animation/AnimationObjectGroup"
+                    },
+                    {
                         "dateAdded": 1755252584595,
                         "id": "653858",
-                        "index": 15,
+                        "index": 11,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "D3-用于定制数据可视化的 JavaScript 库",
                         "url": "https://d3js.cn/"
+                    },
+                    {
+                        "dateAdded": 1755180071166,
+                        "dateLastUsed": 1755252443471,
+                        "id": "653856",
+                        "index": 12,
+                        "parentId": "653831",
+                        "syncing": true,
+                        "title": "d3.js API -D3数据可视化",
+                        "url": "https://www.kancloud.cn/luponu/d3js-api-zh/886552"
+                    },
+                    {
+                        "children": [
+                            {
+                                "dateAdded": 1754986838265,
+                                "id": "653852",
+                                "index": 0,
+                                "parentId": "653859",
+                                "syncing": true,
+                                "title": "低代码平台-思路与方向",
+                                "url": "https://juejin.cn/post/7326432875955437579"
+                            },
+                            {
+                                "dateAdded": 1753435099817,
+                                "id": "653832",
+                                "index": 1,
+                                "parentId": "653859",
+                                "syncing": true,
+                                "title": "流程组件-Logic-Flow-滴滴",
+                                "url": "https://juejin.cn/post/7507982656685441050"
+                            },
+                            {
+                                "dateAdded": 1753929023362,
+                                "id": "653841",
+                                "index": 2,
+                                "parentId": "653859",
+                                "syncing": true,
+                                "title": "AntV X6 常用方法AntV X6 常用方法 1. Graph 相关方法 1.1 创建 Graph 使用场景：初始化 ",
+                                "url": "https://juejin.cn/post/7488613811700662323"
+                            }
+                        ],
+                        "dateAdded": 1755252705512,
+                        "dateGroupModified": 1755252727993,
+                        "id": "653859",
+                        "index": 13,
+                        "parentId": "653831",
+                        "syncing": true,
+                        "title": "了解"
                     }
                 ],
                 "dateAdded": 1753435092066,
-                "dateGroupModified": 1755252603053,
+                "dateGroupModified": 1755252746097,
                 "id": "653831",
                 "index": 2,
                 "parentId": "1",
