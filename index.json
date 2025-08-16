@@ -394,7 +394,7 @@
                                     },
                                     {
                                         "dateAdded": 1754384600375,
-                                        "dateLastUsed": 1754401736777,
+                                        "dateLastUsed": 1755272224016,
                                         "id": "653847",
                                         "index": 11,
                                         "parentId": "651969",
@@ -4555,10 +4555,19 @@
                                         "syncing": true,
                                         "title": "前端-面试题",
                                         "url": "https://mp.weixin.qq.com/s/Zr053hobdBJhxJwJbvLsrA"
+                                    },
+                                    {
+                                        "dateAdded": 1755307438189,
+                                        "id": "653862",
+                                        "index": 8,
+                                        "parentId": "651976",
+                                        "syncing": true,
+                                        "title": "Vue.js 挑战-一个 Vue.js 在线挑战平台",
+                                        "url": "https://cn-vuejs-challenges.netlify.app/"
                                     }
                                 ],
                                 "dateAdded": 1751525066746,
-                                "dateGroupModified": 1751525067553,
+                                "dateGroupModified": 1755307458600,
                                 "id": "651976",
                                 "index": 8,
                                 "parentId": "651953",
@@ -5228,7 +5237,7 @@
                                     },
                                     {
                                         "dateAdded": 1751525067568,
-                                        "dateLastUsed": 1755263825287,
+                                        "dateLastUsed": 1755270332541,
                                         "id": "653621",
                                         "index": 10,
                                         "parentId": "652017",
@@ -5238,7 +5247,7 @@
                                     },
                                     {
                                         "dateAdded": 1751525067568,
-                                        "dateLastUsed": 1752999149105,
+                                        "dateLastUsed": 1755269119247,
                                         "id": "653622",
                                         "index": 11,
                                         "parentId": "652017",
@@ -5308,7 +5317,7 @@
                                     },
                                     {
                                         "dateAdded": 1751525067569,
-                                        "dateLastUsed": 1754724304053,
+                                        "dateLastUsed": 1755265509033,
                                         "id": "653625",
                                         "index": 2,
                                         "parentId": "652018",
@@ -5551,7 +5560,7 @@
                                     },
                                     {
                                         "dateAdded": 1751525067581,
-                                        "dateLastUsed": 1751526126281,
+                                        "dateLastUsed": 1755268127880,
                                         "id": "653649",
                                         "index": 28,
                                         "parentId": "652018",
@@ -17172,7 +17181,7 @@
                     }
                 ],
                 "dateAdded": 1753435092066,
-                "dateGroupModified": 1755264066673,
+                "dateGroupModified": 1755307438189,
                 "id": "653831",
                 "index": 2,
                 "parentId": "1",
