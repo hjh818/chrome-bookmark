@@ -7780,10 +7780,19 @@
                                 "syncing": true,
                                 "title": "vue项目中实现表格的预览与编辑（luckysheet）",
                                 "url": "https://www.cnblogs.com/menxiaojin/p/18197953"
+                            },
+                            {
+                                "dateAdded": 1755417039400,
+                                "id": "653867",
+                                "index": 16,
+                                "parentId": "651960",
+                                "syncing": true,
+                                "title": "Nuxt3-中引入pinia+数据持久化储存（pinia-plugin-persistedstate）",
+                                "url": "https://juejin.cn/post/7216182763250581564"
                             }
                         ],
                         "dateAdded": 1751525066739,
-                        "dateGroupModified": 1754713480557,
+                        "dateGroupModified": 1755417055906,
                         "id": "651960",
                         "index": 7,
                         "parentId": "651951",
@@ -17181,19 +17190,10 @@
                                 "syncing": true,
                                 "title": "AntV X6 常用方法AntV X6 常用方法 1. Graph 相关方法 1.1 创建 Graph 使用场景：初始化 ",
                                 "url": "https://juejin.cn/post/7488613811700662323"
-                            },
-                            {
-                                "dateAdded": 1755415696846,
-                                "id": "653866",
-                                "index": 3,
-                                "parentId": "653859",
-                                "syncing": true,
-                                "title": "Nuxt 3-中使用 Pinia 配置持久化存储（兼容 SSR）",
-                                "url": "https://blog.csdn.net/m0_49726578/article/details/147753074"
                             }
                         ],
                         "dateAdded": 1755252705512,
-                        "dateGroupModified": 1755415709453,
+                        "dateGroupModified": 1755417039400,
                         "id": "653859",
                         "index": 14,
                         "parentId": "653831",
