@@ -17039,7 +17039,7 @@
                     }
                 ],
                 "dateAdded": 1753148256576,
-                "dateGroupModified": 1755481657755,
+                "dateGroupModified": 1755497373093,
                 "id": "653798",
                 "index": 1,
                 "parentId": "1",
@@ -17217,10 +17217,19 @@
                         "parentId": "653831",
                         "syncing": true,
                         "title": "了解"
+                    },
+                    {
+                        "dateAdded": 1755497373093,
+                        "id": "653871",
+                        "index": 15,
+                        "parentId": "653831",
+                        "syncing": true,
+                        "title": "腾讯位置服务-JS API",
+                        "url": "https://lbs.qq.com/webDemoCenter/javascriptV2/libraries/drawingLibrary"
                     }
                 ],
                 "dateAdded": 1753435092066,
-                "dateGroupModified": 1755307438189,
+                "dateGroupModified": 1755497392124,
                 "id": "653831",
                 "index": 2,
                 "parentId": "1",
