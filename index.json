@@ -16862,7 +16862,7 @@
                     },
                     {
                         "dateAdded": 1753180501382,
-                        "dateLastUsed": 1754568182244,
+                        "dateLastUsed": 1755479287560,
                         "id": "653820",
                         "index": 5,
                         "parentId": "653798",
@@ -17020,18 +17020,17 @@
                         "url": "https://jenkins.test.freshgood.cn/"
                     },
                     {
-                        "dateAdded": 1754996869415,
-                        "dateLastUsed": 1755001549312,
-                        "id": "653855",
+                        "dateAdded": 1755479568585,
+                        "id": "653869",
                         "index": 21,
                         "parentId": "653798",
                         "syncing": true,
-                        "title": "smartxiaozhi-pc.prod-正式环境发布",
-                        "url": "https://jenkins.freshgood.cn/job/smartxiaozhi-pc.prod/configure"
+                        "title": "Dashboard [Jenkins]-正式环境构建",
+                        "url": "https://jenkins.freshgood.cn/"
                     }
                 ],
                 "dateAdded": 1753148256576,
-                "dateGroupModified": 1755478952638,
+                "dateGroupModified": 1755479568585,
                 "id": "653798",
                 "index": 1,
                 "parentId": "1",
