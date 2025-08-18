@@ -17226,10 +17226,19 @@
                         "syncing": true,
                         "title": "腾讯位置服务-JS API",
                         "url": "https://lbs.qq.com/webDemoCenter/javascriptV2/libraries/drawingLibrary"
+                    },
+                    {
+                        "dateAdded": 1755497406651,
+                        "id": "653872",
+                        "index": 16,
+                        "parentId": "653831",
+                        "syncing": true,
+                        "title": "腾讯位置服务-首页",
+                        "url": "https://lbs.qq.com/"
                     }
                 ],
                 "dateAdded": 1753435092066,
-                "dateGroupModified": 1755497392124,
+                "dateGroupModified": 1755497406651,
                 "id": "653831",
                 "index": 2,
                 "parentId": "1",
