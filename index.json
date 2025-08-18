@@ -16910,136 +16910,169 @@
                         "url": "https://jenkins.freshgood.cn/"
                     },
                     {
-                        "dateAdded": 1753249056674,
-                        "dateLastUsed": 1753495235683,
-                        "id": "653822",
+                        "children": [
+                            {
+                                "dateAdded": 1753249056674,
+                                "dateLastUsed": 1753495235683,
+                                "id": "653822",
+                                "index": 0,
+                                "parentId": "653873",
+                                "syncing": true,
+                                "title": "巡检员小智-百度脑图",
+                                "url": "https://naotu.baidu.com/file/e6ff5e09107256e27fe21dcdbd8b427a"
+                            },
+                            {
+                                "dateAdded": 1753342091525,
+                                "id": "653827",
+                                "index": 1,
+                                "parentId": "653873",
+                                "syncing": true,
+                                "title": "巡检员小智-UI",
+                                "url": "https://codesign.qq.com/app/s/572036217076423"
+                            },
+                            {
+                                "dateAdded": 1753156203047,
+                                "dateLastUsed": 1753237425843,
+                                "id": "653807",
+                                "index": 2,
+                                "parentId": "653873",
+                                "syncing": true,
+                                "title": "巡检员小智-官网-正式",
+                                "url": "https://aixzhi.com/"
+                            },
+                            {
+                                "dateAdded": 1753156393294,
+                                "dateLastUsed": 1753237577231,
+                                "id": "653808",
+                                "index": 3,
+                                "parentId": "653873",
+                                "syncing": true,
+                                "title": "巡检员小智-官网-开发",
+                                "url": "https://smartxiaozhi-website.dev.freshgood.cn/index"
+                            },
+                            {
+                                "dateAdded": 1753156417523,
+                                "dateLastUsed": 1753237565828,
+                                "id": "653809",
+                                "index": 4,
+                                "parentId": "653873",
+                                "syncing": true,
+                                "title": "巡检员小智-官网-测试",
+                                "url": "https://smartxiaozhi-website.test.freshgood.cn/"
+                            },
+                            {
+                                "dateAdded": 1753171931057,
+                                "dateLastUsed": 1755220492457,
+                                "id": "653811",
+                                "index": 5,
+                                "parentId": "653873",
+                                "syncing": true,
+                                "title": "小智-管理端PC-测试",
+                                "url": "https://smartxiaozhi-pc.test.freshgood.cn/login"
+                            },
+                            {
+                                "dateAdded": 1753171978905,
+                                "dateLastUsed": 1753428111301,
+                                "id": "653812",
+                                "index": 6,
+                                "parentId": "653873",
+                                "syncing": true,
+                                "title": "小智-管理端PC-开发",
+                                "url": "https://smartxiaozhi-pc.dev.freshgood.cn/login"
+                            },
+                            {
+                                "dateAdded": 1753172050211,
+                                "dateLastUsed": 1754998204186,
+                                "id": "653813",
+                                "index": 7,
+                                "parentId": "653873",
+                                "syncing": true,
+                                "title": "小智-管理端PC-正式",
+                                "url": "https://smartxiaozhi-pc.freshgood.cn/login"
+                            },
+                            {
+                                "dateAdded": 1753173672154,
+                                "dateLastUsed": 1755075337892,
+                                "id": "653816",
+                                "index": 8,
+                                "parentId": "653873",
+                                "syncing": true,
+                                "title": "小智-场地端mobile-测试",
+                                "url": "https://smartxiaozhi-mobile.test.freshgood.cn/login"
+                            },
+                            {
+                                "dateAdded": 1753173803527,
+                                "dateLastUsed": 1753173875740,
+                                "id": "653817",
+                                "index": 9,
+                                "parentId": "653873",
+                                "syncing": true,
+                                "title": "小智-场地端mobile-开发",
+                                "url": "https://smartxiaozhi-mobile.dev.freshgood.cn/login"
+                            },
+                            {
+                                "dateAdded": 1753173849021,
+                                "dateLastUsed": 1753173886280,
+                                "id": "653818",
+                                "index": 10,
+                                "parentId": "653873",
+                                "syncing": true,
+                                "title": "小智-场地端mobile-正式",
+                                "url": "https://smartxiaozhi-mobile.freshgood.cn/login"
+                            }
+                        ],
+                        "dateAdded": 1755501174863,
+                        "dateGroupModified": 1755501229411,
+                        "id": "653873",
                         "index": 10,
                         "parentId": "653798",
                         "syncing": true,
-                        "title": "巡检员小智-百度脑图",
-                        "url": "https://naotu.baidu.com/file/e6ff5e09107256e27fe21dcdbd8b427a"
+                        "title": "巡检员小智"
                     },
                     {
-                        "dateAdded": 1753342091525,
-                        "id": "653827",
+                        "children": [
+                            {
+                                "dateAdded": 1753440564495,
+                                "dateLastUsed": 1754532345588,
+                                "id": "653833",
+                                "index": 0,
+                                "parentId": "653874",
+                                "syncing": true,
+                                "title": "蜜蜂微搭-PC-测试",
+                                "url": "https://paas-teamwork.test.freshgood.cn/frame/frame_homePage"
+                            }
+                        ],
+                        "dateAdded": 1755501187909,
+                        "dateGroupModified": 1755501232439,
+                        "id": "653874",
                         "index": 11,
                         "parentId": "653798",
                         "syncing": true,
-                        "title": "巡检员小智-UI",
-                        "url": "https://codesign.qq.com/app/s/572036217076423"
+                        "title": "蜜蜂微搭"
                     },
                     {
-                        "dateAdded": 1753156203047,
-                        "dateLastUsed": 1753237425843,
-                        "id": "653807",
+                        "children": [
+                            {
+                                "dateAdded": 1755481627041,
+                                "id": "653870",
+                                "index": 0,
+                                "parentId": "653875",
+                                "syncing": true,
+                                "title": "低代码-木瓜云-开发环境",
+                                "url": "https://app-dev.imugua.cn/designer/started?menu=application"
+                            }
+                        ],
+                        "dateAdded": 1755501202798,
+                        "dateGroupModified": 1755501234407,
+                        "id": "653875",
                         "index": 12,
                         "parentId": "653798",
                         "syncing": true,
-                        "title": "巡检员小智-官网-正式",
-                        "url": "https://aixzhi.com/"
-                    },
-                    {
-                        "dateAdded": 1753156393294,
-                        "dateLastUsed": 1753237577231,
-                        "id": "653808",
-                        "index": 13,
-                        "parentId": "653798",
-                        "syncing": true,
-                        "title": "巡检员小智-官网-开发",
-                        "url": "https://smartxiaozhi-website.dev.freshgood.cn/index"
-                    },
-                    {
-                        "dateAdded": 1753156417523,
-                        "dateLastUsed": 1753237565828,
-                        "id": "653809",
-                        "index": 14,
-                        "parentId": "653798",
-                        "syncing": true,
-                        "title": "巡检员小智-官网-测试",
-                        "url": "https://smartxiaozhi-website.test.freshgood.cn/"
-                    },
-                    {
-                        "dateAdded": 1753171931057,
-                        "dateLastUsed": 1755220492457,
-                        "id": "653811",
-                        "index": 15,
-                        "parentId": "653798",
-                        "syncing": true,
-                        "title": "小智-管理端PC-测试",
-                        "url": "https://smartxiaozhi-pc.test.freshgood.cn/login"
-                    },
-                    {
-                        "dateAdded": 1753171978905,
-                        "dateLastUsed": 1753428111301,
-                        "id": "653812",
-                        "index": 16,
-                        "parentId": "653798",
-                        "syncing": true,
-                        "title": "小智-管理端PC-开发",
-                        "url": "https://smartxiaozhi-pc.dev.freshgood.cn/login"
-                    },
-                    {
-                        "dateAdded": 1753172050211,
-                        "dateLastUsed": 1754998204186,
-                        "id": "653813",
-                        "index": 17,
-                        "parentId": "653798",
-                        "syncing": true,
-                        "title": "小智-管理端PC-正式",
-                        "url": "https://smartxiaozhi-pc.freshgood.cn/login"
-                    },
-                    {
-                        "dateAdded": 1753173672154,
-                        "dateLastUsed": 1755075337892,
-                        "id": "653816",
-                        "index": 18,
-                        "parentId": "653798",
-                        "syncing": true,
-                        "title": "小智-场地端mobile-测试",
-                        "url": "https://smartxiaozhi-mobile.test.freshgood.cn/login"
-                    },
-                    {
-                        "dateAdded": 1753173803527,
-                        "dateLastUsed": 1753173875740,
-                        "id": "653817",
-                        "index": 19,
-                        "parentId": "653798",
-                        "syncing": true,
-                        "title": "小智-场地端mobile-开发",
-                        "url": "https://smartxiaozhi-mobile.dev.freshgood.cn/login"
-                    },
-                    {
-                        "dateAdded": 1753173849021,
-                        "dateLastUsed": 1753173886280,
-                        "id": "653818",
-                        "index": 20,
-                        "parentId": "653798",
-                        "syncing": true,
-                        "title": "小智-场地端mobile-正式",
-                        "url": "https://smartxiaozhi-mobile.freshgood.cn/login"
-                    },
-                    {
-                        "dateAdded": 1753440564495,
-                        "dateLastUsed": 1754532345588,
-                        "id": "653833",
-                        "index": 21,
-                        "parentId": "653798",
-                        "syncing": true,
-                        "title": "蜜蜂微搭-PC-测试",
-                        "url": "https://paas-teamwork.test.freshgood.cn/frame/frame_homePage"
-                    },
-                    {
-                        "dateAdded": 1755481627041,
-                        "id": "653870",
-                        "index": 22,
-                        "parentId": "653798",
-                        "syncing": true,
-                        "title": "低代码-木瓜云-开发环境",
-                        "url": "https://app-dev.imugua.cn/designer/started?menu=application"
+                        "title": "半天妖&网规"
                     }
                 ],
                 "dateAdded": 1753148256576,
-                "dateGroupModified": 1755497373093,
+                "dateGroupModified": 1755501202799,
                 "id": "653798",
                 "index": 1,
                 "parentId": "1",
