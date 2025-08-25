@@ -63,9 +63,18 @@
                                         "url": "https://uniapp.dcloud.io/"
                                     },
                                     {
+                                        "dateAdded": 1756103041482,
+                                        "id": "653894",
+                                        "index": 6,
+                                        "parentId": "651968",
+                                        "syncing": true,
+                                        "title": "uni-app官网",
+                                        "url": "https://uniapp.dcloud.net.cn/"
+                                    },
+                                    {
                                         "dateAdded": 1751525067335,
                                         "id": "653112",
-                                        "index": 6,
+                                        "index": 7,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "React",
@@ -74,7 +83,7 @@
                                     {
                                         "dateAdded": 1751525067335,
                                         "id": "653113",
-                                        "index": 7,
+                                        "index": 8,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "React Router-react路由实现文档",
@@ -83,7 +92,7 @@
                                     {
                                         "dateAdded": 1751525067335,
                                         "id": "653114",
-                                        "index": 8,
+                                        "index": 9,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "Redux-react常用状态容器",
@@ -92,7 +101,7 @@
                                     {
                                         "dateAdded": 1751525067336,
                                         "id": "653115",
-                                        "index": 9,
+                                        "index": 10,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "Angular",
@@ -101,7 +110,7 @@
                                     {
                                         "dateAdded": 1751525067336,
                                         "id": "653116",
-                                        "index": 10,
+                                        "index": 11,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "jQuery",
@@ -110,7 +119,7 @@
                                     {
                                         "dateAdded": 1751525067336,
                                         "id": "653117",
-                                        "index": 11,
+                                        "index": 12,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "jQuery-中文网",
@@ -119,7 +128,7 @@
                                     {
                                         "dateAdded": 1751525067336,
                                         "id": "653118",
-                                        "index": 12,
+                                        "index": 13,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "React Native",
@@ -128,7 +137,7 @@
                                     {
                                         "dateAdded": 1751525067336,
                                         "id": "653119",
-                                        "index": 13,
+                                        "index": 14,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "React Navigation-RN目前最主流的屏幕页面切换的导航方案",
@@ -137,7 +146,7 @@
                                     {
                                         "dateAdded": 1751525067337,
                                         "id": "653120",
-                                        "index": 14,
+                                        "index": 15,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "Vue Native",
@@ -146,7 +155,7 @@
                                     {
                                         "dateAdded": 1751525067337,
                                         "id": "653121",
-                                        "index": 15,
+                                        "index": 16,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "MobX-RN常用状态容器",
@@ -155,7 +164,7 @@
                                     {
                                         "dateAdded": 1751525067337,
                                         "id": "653122",
-                                        "index": 16,
+                                        "index": 17,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "Next.js - React-通用应用框架",
@@ -164,7 +173,7 @@
                                     {
                                         "dateAdded": 1751525067337,
                                         "id": "653123",
-                                        "index": 17,
+                                        "index": 18,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "Nuxt.js-Vue-通用应用框架",
@@ -173,7 +182,7 @@
                                     {
                                         "dateAdded": 1751525067337,
                                         "id": "653124",
-                                        "index": 18,
+                                        "index": 19,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "Nuxt 2",
@@ -182,7 +191,7 @@
                                     {
                                         "dateAdded": 1751525067338,
                                         "id": "653125",
-                                        "index": 19,
+                                        "index": 20,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "Nuxt3",
@@ -191,7 +200,7 @@
                                     {
                                         "dateAdded": 1751525067338,
                                         "id": "653126",
-                                        "index": 20,
+                                        "index": 21,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "Nuxt-Vue TypeScript-typeScript文档",
@@ -200,7 +209,7 @@
                                     {
                                         "dateAdded": 1751525067338,
                                         "id": "653127",
-                                        "index": 21,
+                                        "index": 22,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "mpvue-基于vue开发小程序的前端框架",
@@ -209,7 +218,7 @@
                                     {
                                         "dateAdded": 1751525067338,
                                         "id": "653128",
-                                        "index": 22,
+                                        "index": 23,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "Svelte-构建 web 应用程序的工具",
@@ -218,7 +227,7 @@
                                     {
                                         "dateAdded": 1751525067338,
                                         "id": "653129",
-                                        "index": 23,
+                                        "index": 24,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "Koa-基于 Node.js 平台的web 开发框架",
@@ -227,7 +236,7 @@
                                     {
                                         "dateAdded": 1751525067339,
                                         "id": "653130",
-                                        "index": 24,
+                                        "index": 25,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "Express-基于node生成服务器的框架",
@@ -236,7 +245,7 @@
                                     {
                                         "dateAdded": 1751525067339,
                                         "id": "653131",
-                                        "index": 25,
+                                        "index": 26,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "Midway-面向未来云端一体的Node.js框架",
@@ -245,7 +254,7 @@
                                     {
                                         "dateAdded": 1751525067339,
                                         "id": "653132",
-                                        "index": 26,
+                                        "index": 27,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "Flutter-Google 开源的应用开发框架",
@@ -254,7 +263,7 @@
                                     {
                                         "dateAdded": 1751525067339,
                                         "id": "653133",
-                                        "index": 27,
+                                        "index": 28,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "Dart-flutter编程开发语言",
@@ -263,7 +272,7 @@
                                     {
                                         "dateAdded": 1751525067339,
                                         "id": "653134",
-                                        "index": 28,
+                                        "index": 29,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "Taro-小程序跨平台统一开发解决方案",
@@ -273,7 +282,7 @@
                                         "dateAdded": 1751698120810,
                                         "dateLastUsed": 1755610907613,
                                         "id": "653771",
-                                        "index": 29,
+                                        "index": 30,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "HTML5产业联盟-移动端协议",
@@ -281,7 +290,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066741,
-                                "dateGroupModified": 1754384600375,
+                                "dateGroupModified": 1756103079387,
                                 "id": "651968",
                                 "index": 0,
                                 "parentId": "651953",
@@ -367,6 +376,7 @@
                                     },
                                     {
                                         "dateAdded": 1751525067343,
+                                        "dateLastUsed": 1756102965082,
                                         "id": "653143",
                                         "index": 8,
                                         "parentId": "651969",
@@ -1483,7 +1493,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066744,
-                                "dateGroupModified": 1753498159327,
+                                "dateGroupModified": 1756103061615,
                                 "id": "651972",
                                 "index": 4,
                                 "parentId": "651953",
@@ -17053,7 +17063,7 @@
                     }
                 ],
                 "dateAdded": 1753148256576,
-                "dateGroupModified": 1756083434369,
+                "dateGroupModified": 1756103041482,
                 "id": "653798",
                 "index": 1,
                 "parentId": "1",
