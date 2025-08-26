@@ -560,7 +560,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066741,
-                                "dateGroupModified": 1756104400613,
+                                "dateGroupModified": 1756177032364,
                                 "id": "651969",
                                 "index": 1,
                                 "parentId": "651953",
@@ -7848,10 +7848,28 @@
                                 "syncing": true,
                                 "title": "【笔记】移动端测试基础知识_gt性能工具",
                                 "url": "https://blog.csdn.net/qq_40794986/article/details/128893273"
+                            },
+                            {
+                                "dateAdded": 1756177032364,
+                                "id": "653896",
+                                "index": 18,
+                                "parentId": "651960",
+                                "syncing": true,
+                                "title": "微前端-如何在qiankun框架中父子传值",
+                                "url": "https://blog.csdn.net/m0_55861837/article/details/127686906"
+                            },
+                            {
+                                "dateAdded": 1756177074384,
+                                "id": "653897",
+                                "index": 19,
+                                "parentId": "651960",
+                                "syncing": true,
+                                "title": "qiankun-微前端框架子应用间通信方法详解",
+                                "url": "https://blog.csdn.net/qq_43592064/article/details/149179948"
                             }
                         ],
                         "dateAdded": 1751525066739,
-                        "dateGroupModified": 1755850536502,
+                        "dateGroupModified": 1756177074384,
                         "id": "651960",
                         "index": 7,
                         "parentId": "651951",
