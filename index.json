@@ -16381,6 +16381,35 @@
                         "url": "https://www.kancloud.cn/luponu/d3js-api-zh/886552"
                     },
                     {
+                        "dateAdded": 1755677730760,
+                        "dateLastUsed": 1755745203874,
+                        "id": "653886",
+                        "index": 15,
+                        "parentId": "653831",
+                        "syncing": true,
+                        "title": "腾讯位置服务-JavaScript API GL-功能说明",
+                        "url": "https://lbs.qq.com/webApi/javascriptGL/glGuide/glOverview"
+                    },
+                    {
+                        "dateAdded": 1755497373093,
+                        "dateLastUsed": 1755745968958,
+                        "id": "653871",
+                        "index": 16,
+                        "parentId": "653831",
+                        "syncing": true,
+                        "title": "腾讯位置服务-JS API-方法使用事例",
+                        "url": "https://lbs.qq.com/webDemoCenter/javascriptV2/libraries/drawingLibrary"
+                    },
+                    {
+                        "dateAdded": 1755497406651,
+                        "id": "653872",
+                        "index": 17,
+                        "parentId": "653831",
+                        "syncing": true,
+                        "title": "腾讯位置服务-首页",
+                        "url": "https://lbs.qq.com/"
+                    },
+                    {
                         "children": [
                             {
                                 "dateAdded": 1754986838265,
@@ -16413,43 +16442,14 @@
                         "dateAdded": 1755252705512,
                         "dateGroupModified": 1755417039400,
                         "id": "653859",
-                        "index": 15,
-                        "parentId": "653831",
-                        "syncing": true,
-                        "title": "了解"
-                    },
-                    {
-                        "dateAdded": 1755677730760,
-                        "dateLastUsed": 1755745203874,
-                        "id": "653886",
-                        "index": 16,
-                        "parentId": "653831",
-                        "syncing": true,
-                        "title": "腾讯位置服务-JavaScript API GL-功能说明",
-                        "url": "https://lbs.qq.com/webApi/javascriptGL/glGuide/glOverview"
-                    },
-                    {
-                        "dateAdded": 1755497373093,
-                        "dateLastUsed": 1755745968958,
-                        "id": "653871",
-                        "index": 17,
-                        "parentId": "653831",
-                        "syncing": true,
-                        "title": "腾讯位置服务-JS API-方法使用事例",
-                        "url": "https://lbs.qq.com/webDemoCenter/javascriptV2/libraries/drawingLibrary"
-                    },
-                    {
-                        "dateAdded": 1755497406651,
-                        "id": "653872",
                         "index": 18,
                         "parentId": "653831",
                         "syncing": true,
-                        "title": "腾讯位置服务-首页",
-                        "url": "https://lbs.qq.com/"
+                        "title": "了解"
                     }
                 ],
                 "dateAdded": 1753435092066,
-                "dateGroupModified": 1755789612976,
+                "dateGroupModified": 1756196608527,
                 "id": "653831",
                 "index": 2,
                 "parentId": "1",
@@ -16600,16 +16600,6 @@
                 "title": "AI"
             },
             {
-                "children": [],
-                "dateAdded": 1756179559285,
-                "dateGroupModified": 1756179559285,
-                "id": "653898",
-                "index": 4,
-                "parentId": "1",
-                "syncing": true,
-                "title": "开发问题"
-            },
-            {
                 "children": [
                     {
                         "dateAdded": 1751525066769,
@@ -16632,7 +16622,7 @@
                     },
                     {
                         "dateAdded": 1754646189289,
-                        "dateLastUsed": 1756193902819,
+                        "dateLastUsed": 1756196083060,
                         "id": "653849",
                         "index": 2,
                         "parentId": "651957",
@@ -17476,10 +17466,20 @@
                 "dateAdded": 1751525066738,
                 "dateGroupModified": 1755789995514,
                 "id": "651957",
-                "index": 5,
+                "index": 4,
                 "parentId": "1",
                 "syncing": true,
                 "title": "工具"
+            },
+            {
+                "children": [],
+                "dateAdded": 1756179559285,
+                "dateGroupModified": 1756179559285,
+                "id": "653898",
+                "index": 5,
+                "parentId": "1",
+                "syncing": true,
+                "title": "开发问题"
             },
             {
                 "dateAdded": 1751525066734,
@@ -17492,7 +17492,7 @@
             }
         ],
         "dateAdded": 1647932752666,
-        "dateGroupModified": 1756193900231,
+        "dateGroupModified": 1756196617525,
         "folderType": "bookmarks-bar",
         "id": "1",
         "index": 0,
