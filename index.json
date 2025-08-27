@@ -16003,7 +16003,7 @@
                     },
                     {
                         "dateAdded": 1755479568585,
-                        "dateLastUsed": 1755854366226,
+                        "dateLastUsed": 1756273206103,
                         "id": "653869",
                         "index": 12,
                         "parentId": "653798",
@@ -16183,7 +16183,7 @@
                             },
                             {
                                 "dateAdded": 1755501442827,
-                                "dateLastUsed": 1756262713246,
+                                "dateLastUsed": 1756272787131,
                                 "id": "653877",
                                 "index": 2,
                                 "parentId": "653875",
@@ -16193,7 +16193,7 @@
                             },
                             {
                                 "dateAdded": 1755501479450,
-                                "dateLastUsed": 1756260664607,
+                                "dateLastUsed": 1756273014076,
                                 "id": "653878",
                                 "index": 3,
                                 "parentId": "653875",
@@ -16250,7 +16250,7 @@
                     }
                 ],
                 "dateAdded": 1753148256576,
-                "dateGroupModified": 1756263404998,
+                "dateGroupModified": 1756281412510,
                 "id": "653798",
                 "index": 1,
                 "parentId": "1",
@@ -16457,10 +16457,19 @@
                                 "syncing": true,
                                 "title": "AntV X6 常用方法AntV X6 常用方法 1. Graph 相关方法 1.1 创建 Graph 使用场景：初始化 ",
                                 "url": "https://juejin.cn/post/7488613811700662323"
+                            },
+                            {
+                                "dateAdded": 1756281412510,
+                                "id": "653902",
+                                "index": 3,
+                                "parentId": "653859",
+                                "syncing": true,
+                                "title": "Coze-插件从使用到实战详解",
+                                "url": "https://developer.volcengine.com/articles/7537609955738648603"
                             }
                         ],
                         "dateAdded": 1755252705512,
-                        "dateGroupModified": 1755417039400,
+                        "dateGroupModified": 1756281422624,
                         "id": "653859",
                         "index": 18,
                         "parentId": "653831",
@@ -16469,7 +16478,7 @@
                     }
                 ],
                 "dateAdded": 1753435092066,
-                "dateGroupModified": 1756196608527,
+                "dateGroupModified": 1756281416200,
                 "id": "653831",
                 "index": 2,
                 "parentId": "1",
