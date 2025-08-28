@@ -16221,16 +16221,26 @@
                             },
                             {
                                 "dateAdded": 1756369934935,
+                                "dateLastUsed": 1756374725909,
                                 "id": "653905",
                                 "index": 5,
                                 "parentId": "653875",
                                 "syncing": true,
                                 "title": "木瓜OA-移动端",
                                 "url": "https://portal-h5.imugua.team/#/dingTalkWorkbench/landing?channel=dd&unifiedLogin=true&loginName=15821259172&pwd=Hxy74829_"
+                            },
+                            {
+                                "dateAdded": 1756374902747,
+                                "id": "653906",
+                                "index": 6,
+                                "parentId": "653875",
+                                "syncing": true,
+                                "title": "木瓜OA-网规-移动端",
+                                "url": "https://portal-h5.imugua.team/#/dingTalkWorkbench/landing?channel=dd&unifiedLogin=true&loginName=18218159797&pwd=123456"
                             }
                         ],
                         "dateAdded": 1755501202798,
-                        "dateGroupModified": 1756369963141,
+                        "dateGroupModified": 1756374902747,
                         "id": "653875",
                         "index": 14,
                         "parentId": "653798",
