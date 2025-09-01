@@ -4333,10 +4333,19 @@
                                         "syncing": true,
                                         "title": "React-原理说明",
                                         "url": "https://mp.weixin.qq.com/s/1tiC1Tpt0sUxTa-q29cZTQ"
+                                    },
+                                    {
+                                        "dateAdded": 1756688463175,
+                                        "id": "653908",
+                                        "index": 291,
+                                        "parentId": "651974",
+                                        "syncing": true,
+                                        "title": "前端-超级详细的手把手教你使用Lighthouse更好推动项目性能优化，性能指标详解，优化方法，需要关注指标分析",
+                                        "url": "https://blog.csdn.net/tangdou369098655/article/details/122531766"
                                     }
                                 ],
                                 "dateAdded": 1751525066744,
-                                "dateGroupModified": 1754314095822,
+                                "dateGroupModified": 1756688501320,
                                 "id": "651974",
                                 "index": 6,
                                 "parentId": "651953",
@@ -5332,7 +5341,7 @@
                                     },
                                     {
                                         "dateAdded": 1755335968416,
-                                        "dateLastUsed": 1756304766364,
+                                        "dateLastUsed": 1756630739930,
                                         "id": "653865",
                                         "index": 1,
                                         "parentId": "652018",
@@ -15894,7 +15903,7 @@
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1756629758575,
+                        "dateGroupModified": 1756688463175,
                         "id": "651967",
                         "index": 12,
                         "parentId": "651951",
@@ -16663,7 +16672,7 @@
                 "children": [
                     {
                         "dateAdded": 1751525066769,
-                        "dateLastUsed": 1755529641746,
+                        "dateLastUsed": 1756647580741,
                         "id": "652021",
                         "index": 0,
                         "parentId": "651957",
