@@ -4345,7 +4345,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066744,
-                                "dateGroupModified": 1756688501320,
+                                "dateGroupModified": 1756781994233,
                                 "id": "651974",
                                 "index": 6,
                                 "parentId": "651953",
@@ -16270,18 +16270,17 @@
                     {
                         "children": [
                             {
-                                "dateAdded": 1755598614590,
-                                "dateLastUsed": 1756352456926,
-                                "id": "653883",
+                                "dateAdded": 1756781994233,
+                                "id": "653910",
                                 "index": 0,
                                 "parentId": "653882",
                                 "syncing": true,
-                                "title": "2025年8月份-优鲜售前产研交付",
-                                "url": "https://doc.weixin.qq.com/smartsheet/s3_AToAGgbrAGkCNmbY71fa6ShGErc9r?scode=APEAlweLAA4UbpdWJkAQoApAYtAPE&version=4.1.10.6015&platform=win&tab=ss_ugzz9x&viewId=v3m9dx"
+                                "title": "2025优鲜产研交付团队OKR",
+                                "url": "https://doc.weixin.qq.com/smartsheet/s3_AToAGgbrAGklJCf0KvhRCu2wqRp14?scode=APEAlweLAA4anE5zd0AToAGgbrAGk&version=4.1.10.6015&platform=win&tab=6uLtex&viewId=vUcjvZ"
                             }
                         ],
                         "dateAdded": 1755598579398,
-                        "dateGroupModified": 1755612866055,
+                        "dateGroupModified": 1756782004882,
                         "id": "653882",
                         "index": 15,
                         "parentId": "653798",
