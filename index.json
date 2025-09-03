@@ -7043,10 +7043,19 @@
                                 "syncing": true,
                                 "title": "支付-URL schemes汇总",
                                 "url": "https://blog.csdn.net/Pursuitdreams/article/details/147148391"
+                            },
+                            {
+                                "dateAdded": 1756884653309,
+                                "id": "653912",
+                                "index": 21,
+                                "parentId": "651960",
+                                "syncing": true,
+                                "title": "前端-H5微信支付宝支付实现方法(uniapp为例)",
+                                "url": "https://www.jb51.net/javascript/319046afy.htm"
                             }
                         ],
                         "dateAdded": 1751525066739,
-                        "dateGroupModified": 1756882390166,
+                        "dateGroupModified": 1756884653309,
                         "id": "651960",
                         "index": 6,
                         "parentId": "651951",
