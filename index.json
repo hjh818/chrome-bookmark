@@ -16176,10 +16176,19 @@
                                 "syncing": true,
                                 "title": "小智-场地端mobile-正式",
                                 "url": "https://smartxiaozhi-mobile.freshgood.cn/login"
+                            },
+                            {
+                                "dateAdded": 1756892298821,
+                                "id": "653918",
+                                "index": 11,
+                                "parentId": "653873",
+                                "syncing": true,
+                                "title": "巡检员小智-文档",
+                                "url": "https://docs.qq.com/doc/DS3ZqanVqZHpMU1Rm?no_promotion=1"
                             }
                         ],
                         "dateAdded": 1755501174863,
-                        "dateGroupModified": 1755501229411,
+                        "dateGroupModified": 1756892303894,
                         "id": "653873",
                         "index": 13,
                         "parentId": "653798",
@@ -16228,7 +16237,7 @@
                             }
                         ],
                         "dateAdded": 1755501187909,
-                        "dateGroupModified": 1756892266269,
+                        "dateGroupModified": 1756892298821,
                         "id": "653874",
                         "index": 14,
                         "parentId": "653798",
