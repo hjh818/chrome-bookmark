@@ -5291,7 +5291,7 @@
                                     },
                                     {
                                         "dateAdded": 1751525067569,
-                                        "dateLastUsed": 1756732682975,
+                                        "dateLastUsed": 1756992281398,
                                         "id": "653623",
                                         "index": 12,
                                         "parentId": "652017",
@@ -16246,7 +16246,7 @@
                             }
                         ],
                         "dateAdded": 1755501187909,
-                        "dateGroupModified": 1756905529122,
+                        "dateGroupModified": 1757033629678,
                         "id": "653874",
                         "index": 14,
                         "parentId": "653798",
@@ -16591,10 +16591,19 @@
                         "parentId": "653831",
                         "syncing": true,
                         "title": "了解"
+                    },
+                    {
+                        "dateAdded": 1757033629678,
+                        "id": "653920",
+                        "index": 19,
+                        "parentId": "653831",
+                        "syncing": true,
+                        "title": "Fabric.js-自定义控件库",
+                        "url": "https://fabricjs.com/"
                     }
                 ],
                 "dateAdded": 1753435092066,
-                "dateGroupModified": 1756281416200,
+                "dateGroupModified": 1757033648591,
                 "id": "653831",
                 "index": 2,
                 "parentId": "1",
