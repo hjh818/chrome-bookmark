@@ -1502,10 +1502,19 @@
                                         "syncing": true,
                                         "title": "TinyMCE-富文本编辑器",
                                         "url": "http://tinymce.ax-z.cn/"
+                                    },
+                                    {
+                                        "dateAdded": 1757382795725,
+                                        "id": "653925",
+                                        "index": 44,
+                                        "parentId": "651972",
+                                        "syncing": true,
+                                        "title": "Rsbuild - 基于 Rspack 的构建工具",
+                                        "url": "https://v0.rsbuild.rs/zh/"
                                     }
                                 ],
                                 "dateAdded": 1751525066744,
-                                "dateGroupModified": 1756103061615,
+                                "dateGroupModified": 1757382848305,
                                 "id": "651972",
                                 "index": 4,
                                 "parentId": "651953",
@@ -15932,7 +15941,7 @@
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1757380377030,
+                        "dateGroupModified": 1757382795725,
                         "id": "651967",
                         "index": 12,
                         "parentId": "651951",
@@ -16009,7 +16018,7 @@
                     },
                     {
                         "dateAdded": 1756083410242,
-                        "dateLastUsed": 1756890794505,
+                        "dateLastUsed": 1757382091061,
                         "id": "653892",
                         "index": 6,
                         "parentId": "653798",
@@ -17651,7 +17660,7 @@
                     }
                 ],
                 "dateAdded": 1751525066738,
-                "dateGroupModified": 1757380352350,
+                "dateGroupModified": 1757382805315,
                 "id": "651957",
                 "index": 4,
                 "parentId": "1",
