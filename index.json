@@ -15920,10 +15920,19 @@
                                 "syncing": true,
                                 "title": "Nuxt3-项目部署【详细教程-亲测有效~！】",
                                 "url": "https://blog.csdn.net/qq_44776454/article/details/145547158"
+                            },
+                            {
+                                "dateAdded": 1757380352350,
+                                "id": "653924",
+                                "index": 915,
+                                "parentId": "651967",
+                                "syncing": true,
+                                "title": "vue-如何使用qrcodejs2-二维码，带logo",
+                                "url": "https://worktile.com/kb/p/3647424"
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1756688463175,
+                        "dateGroupModified": 1757380377030,
                         "id": "651967",
                         "index": 12,
                         "parentId": "651951",
@@ -17642,7 +17651,7 @@
                     }
                 ],
                 "dateAdded": 1751525066738,
-                "dateGroupModified": 1757317848801,
+                "dateGroupModified": 1757380352350,
                 "id": "651957",
                 "index": 4,
                 "parentId": "1",
