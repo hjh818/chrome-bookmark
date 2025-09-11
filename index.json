@@ -16502,14 +16502,13 @@
                         "url": "https://wujie-micro.github.io/doc/"
                     },
                     {
-                        "dateAdded": 1757033629678,
-                        "dateLastUsed": 1757561492001,
-                        "id": "653920",
+                        "dateAdded": 1757561545130,
+                        "id": "653930",
                         "index": 8,
                         "parentId": "653831",
                         "syncing": true,
-                        "title": "Fabric.js-自定义控件库",
-                        "url": "https://fabricjs.com/"
+                        "title": "FabricJS-html5 canvas插件库-自定义画图",
+                        "url": "https://fabricjs.cc/"
                     },
                     {
                         "dateAdded": 1751525067377,
@@ -16656,7 +16655,7 @@
                     }
                 ],
                 "dateAdded": 1753435092066,
-                "dateGroupModified": 1757561474740,
+                "dateGroupModified": 1757561586580,
                 "id": "653831",
                 "index": 2,
                 "parentId": "1",
