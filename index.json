@@ -5005,13 +5005,13 @@
                                 "url": "https://mp.weixin.qq.com/"
                             },
                             {
-                                "dateAdded": 1757921514281,
-                                "id": "653934",
+                                "dateAdded": 1757921704053,
+                                "id": "653935",
                                 "index": 18,
                                 "parentId": "651954",
                                 "syncing": true,
-                                "title": "微信支付文档",
-                                "url": "https://pay.weixin.qq.com/doc/v2/partner/4011987842"
+                                "title": "微信支付",
+                                "url": "https://pay.weixin.qq.com/"
                             },
                             {
                                 "dateAdded": 1751525066757,
@@ -5204,7 +5204,7 @@
                             }
                         ],
                         "dateAdded": 1751525066738,
-                        "dateGroupModified": 1757921540114,
+                        "dateGroupModified": 1757921719361,
                         "id": "651954",
                         "index": 1,
                         "parentId": "651951",
