@@ -1019,10 +1019,19 @@
                                         "syncing": true,
                                         "title": "vue-office: 支持word(.docx)、excel(.xlsx,.xls)、pdf、pptx等各类型",
                                         "url": "https://github.com/501351981/vue-office"
+                                    },
+                                    {
+                                        "dateAdded": 1758165377065,
+                                        "id": "653939",
+                                        "index": 50,
+                                        "parentId": "651970",
+                                        "syncing": true,
+                                        "title": "eruda-前端页面调试工具",
+                                        "url": "https://github.com/liriliri/eruda"
                                     }
                                 ],
                                 "dateAdded": 1751525066742,
-                                "dateGroupModified": 1754986838265,
+                                "dateGroupModified": 1758165411508,
                                 "id": "651970",
                                 "index": 2,
                                 "parentId": "651953",
@@ -16333,7 +16342,7 @@
                             }
                         ],
                         "dateAdded": 1755501187909,
-                        "dateGroupModified": 1758164603054,
+                        "dateGroupModified": 1758165377065,
                         "id": "653874",
                         "index": 14,
                         "parentId": "653798",
