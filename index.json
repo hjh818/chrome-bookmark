@@ -14159,9 +14159,19 @@
                                 "url": "https://jkchao.github.io/typescript-book-chinese/"
                             },
                             {
+                                "dateAdded": 1751525066756,
+                                "dateLastUsed": 1758259898009,
+                                "id": "651994",
+                                "index": 8,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "Hello-算法",
+                                "url": "https://www.hello-algo.com/chapter_hello_algo/"
+                            },
+                            {
                                 "dateAdded": 1751525067398,
                                 "id": "653271",
-                                "index": 8,
+                                "index": 9,
                                 "parentId": "651973",
                                 "syncing": true,
                                 "title": "TypeScript-学习教程",
@@ -14170,7 +14180,7 @@
                             {
                                 "dateAdded": 1751525067398,
                                 "id": "653272",
-                                "index": 9,
+                                "index": 10,
                                 "parentId": "651973",
                                 "syncing": true,
                                 "title": "Node.js-文档操作和数据库连接",
@@ -14179,7 +14189,7 @@
                             {
                                 "dateAdded": 1751525067398,
                                 "id": "653273",
-                                "index": 10,
+                                "index": 11,
                                 "parentId": "651973",
                                 "syncing": true,
                                 "title": "Git - 廖雪峰",
@@ -14188,7 +14198,7 @@
                             {
                                 "dateAdded": 1751525067399,
                                 "id": "653274",
-                                "index": 11,
+                                "index": 12,
                                 "parentId": "651973",
                                 "syncing": true,
                                 "title": "EJS-嵌入式 JavaScript 模板引擎",
@@ -14197,7 +14207,7 @@
                             {
                                 "dateAdded": 1751525067399,
                                 "id": "653275",
-                                "index": 12,
+                                "index": 13,
                                 "parentId": "651973",
                                 "syncing": true,
                                 "title": "Linux和shell命令大全",
@@ -14206,7 +14216,7 @@
                             {
                                 "dateAdded": 1751525067399,
                                 "id": "653276",
-                                "index": 13,
+                                "index": 14,
                                 "parentId": "651973",
                                 "syncing": true,
                                 "title": "鸟哥的Linux 私房菜",
@@ -14215,7 +14225,7 @@
                             {
                                 "dateAdded": 1751525067400,
                                 "id": "653277",
-                                "index": 14,
+                                "index": 15,
                                 "parentId": "651973",
                                 "syncing": true,
                                 "title": "Html/Javascript/Es6/Wen Api/C语言/Bash/Ssh-阮一峰",
@@ -14224,7 +14234,7 @@
                             {
                                 "dateAdded": 1751525067400,
                                 "id": "653278",
-                                "index": 15,
+                                "index": 16,
                                 "parentId": "651973",
                                 "syncing": true,
                                 "title": "ECMASCRIPT-ECMAScript5.1中文版 + ECMAScript3 + ECMAScript（合集）",
@@ -14233,7 +14243,7 @@
                             {
                                 "dateAdded": 1751525067400,
                                 "id": "653279",
-                                "index": 16,
+                                "index": 17,
                                 "parentId": "651973",
                                 "syncing": true,
                                 "title": "大圣前端编程自学网",
@@ -14242,7 +14252,7 @@
                             {
                                 "dateAdded": 1751525067401,
                                 "id": "653280",
-                                "index": 17,
+                                "index": 18,
                                 "parentId": "651973",
                                 "syncing": true,
                                 "title": "人工智能教程",
@@ -14251,7 +14261,7 @@
                             {
                                 "dateAdded": 1751525067401,
                                 "id": "653281",
-                                "index": 18,
+                                "index": 19,
                                 "parentId": "651973",
                                 "syncing": true,
                                 "title": "Markdown教程",
@@ -14260,7 +14270,7 @@
                             {
                                 "dateAdded": 1751525067401,
                                 "id": "653282",
-                                "index": 19,
+                                "index": 20,
                                 "parentId": "651973",
                                 "syncing": true,
                                 "title": "WebSocket-网络通信协议-双向通信",
@@ -14269,7 +14279,7 @@
                             {
                                 "dateAdded": 1751525067402,
                                 "id": "653283",
-                                "index": 20,
+                                "index": 21,
                                 "parentId": "651973",
                                 "syncing": true,
                                 "title": "BookAI.top-chatgpt教程",
@@ -14277,7 +14287,7 @@
                             }
                         ],
                         "dateAdded": 1751525066744,
-                        "dateGroupModified": 1757597974715,
+                        "dateGroupModified": 1758259920923,
                         "id": "651973",
                         "index": 5,
                         "parentId": "651953",
@@ -17395,7 +17405,7 @@
                     }
                 ],
                 "dateAdded": 1751525066737,
-                "dateGroupModified": 1751525066747,
+                "dateGroupModified": 1758259909691,
                 "id": "651953",
                 "index": 6,
                 "parentId": "1",
@@ -17540,18 +17550,10 @@
                         "url": "https://www.npmjs.com/"
                     },
                     {
-                        "dateAdded": 1751525066756,
-                        "id": "651994",
-                        "index": 15,
-                        "parentId": "651954",
-                        "syncing": true,
-                        "title": "Hello-算法",
-                        "url": "https://www.hello-algo.com/chapter_hello_algo/"
-                    },
-                    {
                         "dateAdded": 1751812342976,
+                        "dateLastUsed": 1758259884823,
                         "id": "653772",
-                        "index": 16,
+                        "index": 15,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "VUE-后台管理系统模板",
@@ -17561,7 +17563,7 @@
                         "dateAdded": 1751525066756,
                         "dateLastUsed": 1752542692421,
                         "id": "651995",
-                        "index": 17,
+                        "index": 16,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "微信公众平台-文档查询和发布入口网站",
@@ -17570,7 +17572,7 @@
                     {
                         "dateAdded": 1757921704053,
                         "id": "653935",
-                        "index": 18,
+                        "index": 17,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "微信支付",
@@ -17579,7 +17581,7 @@
                     {
                         "dateAdded": 1751525066757,
                         "id": "651996",
-                        "index": 19,
+                        "index": 18,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "微信-官方文档入口",
@@ -17588,7 +17590,7 @@
                     {
                         "dateAdded": 1751525066757,
                         "id": "651997",
-                        "index": 20,
+                        "index": 19,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "百度统计-领先的中文网站分析平台",
@@ -17597,7 +17599,7 @@
                     {
                         "dateAdded": 1751525066757,
                         "id": "651998",
-                        "index": 21,
+                        "index": 20,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "百度地图-前端开发地图工具",
@@ -17606,7 +17608,7 @@
                     {
                         "dateAdded": 1751525066757,
                         "id": "651999",
-                        "index": 22,
+                        "index": 21,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "高德开放平台",
@@ -17615,7 +17617,7 @@
                     {
                         "dateAdded": 1751525066758,
                         "id": "652000",
-                        "index": 23,
+                        "index": 22,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "腾讯位置服务",
@@ -17624,7 +17626,7 @@
                     {
                         "dateAdded": 1758027749569,
                         "id": "653936",
-                        "index": 24,
+                        "index": 23,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "AI工具导航",
@@ -17633,7 +17635,7 @@
                     {
                         "dateAdded": 1751525066758,
                         "id": "652001",
-                        "index": 25,
+                        "index": 24,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "DCloud - 微信小程序插件等开发服务",
@@ -17642,7 +17644,7 @@
                     {
                         "dateAdded": 1751525066761,
                         "id": "652002",
-                        "index": 26,
+                        "index": 25,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "书栈网-各类开发的线上书籍",
@@ -17651,7 +17653,7 @@
                     {
                         "dateAdded": 1751525066762,
                         "id": "652003",
-                        "index": 27,
+                        "index": 26,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "华为开发者联盟-鸿蒙系统",
@@ -17660,7 +17662,7 @@
                     {
                         "dateAdded": 1751525066763,
                         "id": "652004",
-                        "index": 28,
+                        "index": 27,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "Can I use-外部-浏览器对于CSS/HTML/JS等支持版本",
@@ -17669,7 +17671,7 @@
                     {
                         "dateAdded": 1751525066764,
                         "id": "652005",
-                        "index": 29,
+                        "index": 28,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "MDN-知识点搜索库",
@@ -17678,7 +17680,7 @@
                     {
                         "dateAdded": 1751525066765,
                         "id": "652006",
-                        "index": 30,
+                        "index": 29,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "鸠摩搜索-开发图书搜索和下载",
@@ -17687,7 +17689,7 @@
                     {
                         "dateAdded": 1751525066765,
                         "id": "652007",
-                        "index": 31,
+                        "index": 30,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "CODELF-变量名查询",
@@ -17696,7 +17698,7 @@
                     {
                         "dateAdded": 1751525066765,
                         "id": "652008",
-                        "index": 32,
+                        "index": 31,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "Stack Overflow-IT问题解答查询网站",
@@ -17705,7 +17707,7 @@
                     {
                         "dateAdded": 1751525066766,
                         "id": "652009",
-                        "index": 33,
+                        "index": 32,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "腾讯云-开发者手册-前后端知识和教程",
@@ -17714,7 +17716,7 @@
                     {
                         "dateAdded": 1751525066766,
                         "id": "652010",
-                        "index": 34,
+                        "index": 33,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "BootCDN-前端开源项目包cdn引入",
@@ -17723,7 +17725,7 @@
                     {
                         "dateAdded": 1751525066766,
                         "id": "652011",
-                        "index": 35,
+                        "index": 34,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "Quick Reference-面向开发人员速查知识",
@@ -17732,7 +17734,7 @@
                     {
                         "dateAdded": 1751525066766,
                         "id": "652012",
-                        "index": 36,
+                        "index": 35,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "CSS-标准颜色参考表",
@@ -17741,7 +17743,7 @@
                     {
                         "dateAdded": 1751525066767,
                         "id": "652013",
-                        "index": 37,
+                        "index": 36,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "Git Explorer-git命令在线查询工具",
@@ -17750,7 +17752,7 @@
                     {
                         "dateAdded": 1751525066767,
                         "id": "652014",
-                        "index": 38,
+                        "index": 37,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "cdnjs-插件cdn下载网址",
@@ -17759,7 +17761,7 @@
                     {
                         "dateAdded": 1751525066767,
                         "id": "652015",
-                        "index": 39,
+                        "index": 38,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "椰子办公-ppt/简历等模板",
@@ -17767,11 +17769,12 @@
                     },
                     {
                         "dateAdded": 1751525066767,
+                        "dateLastUsed": 1758259814252,
                         "id": "652016",
-                        "index": 40,
+                        "index": 39,
                         "parentId": "651954",
                         "syncing": true,
-                        "title": "All Bootstrap CSS classes list-bootstrap样式查询",
+                        "title": "shuffle-bootstrap所有样式查询",
                         "url": "https://bootstrapshuffle.com/classes"
                     }
                 ],
