@@ -13111,10 +13111,19 @@
                                 "syncing": true,
                                 "title": "Ui-Layouts-react UI库",
                                 "url": "https://www.ui-layouts.com/"
+                            },
+                            {
+                                "dateAdded": 1758260595319,
+                                "id": "653942",
+                                "index": 29,
+                                "parentId": "651969",
+                                "syncing": true,
+                                "title": "Vxe UI v4-支持 vue2 和 vue3 的全功能表格",
+                                "url": "https://vxeui.com/#/start/useUI/install"
                             }
                         ],
                         "dateAdded": 1751525066741,
-                        "dateGroupModified": 1758184618678,
+                        "dateGroupModified": 1758260610546,
                         "id": "651969",
                         "index": 1,
                         "parentId": "651953",
@@ -14287,7 +14296,7 @@
                             }
                         ],
                         "dateAdded": 1751525066744,
-                        "dateGroupModified": 1758259920923,
+                        "dateGroupModified": 1758260595319,
                         "id": "651973",
                         "index": 5,
                         "parentId": "651953",
