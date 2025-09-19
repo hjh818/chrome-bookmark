@@ -10787,10 +10787,19 @@
                                 "syncing": true,
                                 "title": "ts-调试 tsx安装 tsx 创建 launch.json 文件",
                                 "url": "https://juejin.cn/post/7493909446184583205"
+                            },
+                            {
+                                "dateAdded": 1758269956670,
+                                "id": "653944",
+                                "index": 919,
+                                "parentId": "651967",
+                                "syncing": true,
+                                "title": "tsx-替代 node 指令、支持运行 TypeScript & ESM 的 CLI 程序",
+                                "url": "https://www.bilibili.com/opus/852930137908314117"
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1758269875702,
+                        "dateGroupModified": 1758269956670,
                         "id": "651967",
                         "index": 10,
                         "parentId": "651951",
