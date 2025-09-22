@@ -11858,10 +11858,19 @@
                                 "syncing": true,
                                 "title": "eruda-前端页面调试工具",
                                 "url": "https://github.com/liriliri/eruda"
+                            },
+                            {
+                                "dateAdded": 1758504592061,
+                                "id": "653946",
+                                "index": 51,
+                                "parentId": "651970",
+                                "syncing": true,
+                                "title": "vuedraggable-vue拖拽组件库",
+                                "url": "https://www.npmjs.com/package/vuedraggable"
                             }
                         ],
                         "dateAdded": 1751525066742,
-                        "dateGroupModified": 1758184574812,
+                        "dateGroupModified": 1758504612933,
                         "id": "651970",
                         "index": 2,
                         "parentId": "651953",
@@ -17835,7 +17844,7 @@
             }
         ],
         "dateAdded": 1647932752666,
-        "dateGroupModified": 1758461429837,
+        "dateGroupModified": 1758504592061,
         "folderType": "bookmarks-bar",
         "id": "1",
         "index": 0,
