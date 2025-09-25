@@ -17274,12 +17274,12 @@
                     },
                     {
                         "dateAdded": 1751525066901,
-                        "dateLastUsed": 1758777998825,
+                        "dateLastUsed": 1758779093220,
                         "id": "652251",
                         "index": 16,
                         "parentId": "653831",
                         "syncing": true,
-                        "title": "Vue-vuedraggable拖拽（例如详情拖拽成型）",
+                        "title": "Vue-vuedraggable拖拽（例如详情/列表拖拽成型）",
                         "url": "https://sortablejs.github.io/Vue.Draggable/#/transition-example"
                     },
                     {
