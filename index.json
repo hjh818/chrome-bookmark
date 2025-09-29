@@ -510,7 +510,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066768,
-                                "dateGroupModified": 1759110688049,
+                                "dateGroupModified": 1759111267984,
                                 "id": "652018",
                                 "index": 1,
                                 "parentId": "651955",
@@ -11965,6 +11965,7 @@
                         "children": [
                             {
                                 "dateAdded": 1751525067370,
+                                "dateLastUsed": 1759111259167,
                                 "id": "653217",
                                 "index": 0,
                                 "parentId": "651972",
@@ -12369,10 +12370,19 @@
                                 "syncing": true,
                                 "title": "Rsbuild - 基于 Rspack 的构建工具",
                                 "url": "https://v0.rsbuild.rs/zh/"
+                            },
+                            {
+                                "dateAdded": 1759111267984,
+                                "id": "653952",
+                                "index": 45,
+                                "parentId": "651972",
+                                "syncing": true,
+                                "title": "Rsbuild-基于 Rspack 的构建工具",
+                                "url": "https://rsbuild.rs/zh/"
                             }
                         ],
                         "dateAdded": 1751525066744,
-                        "dateGroupModified": 1757407286229,
+                        "dateGroupModified": 1759111286176,
                         "id": "651972",
                         "index": 4,
                         "parentId": "651953",
