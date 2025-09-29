@@ -11515,10 +11515,29 @@
                                 "syncing": true,
                                 "title": "Stylelint-css格式化工具",
                                 "url": "https://stylelint.io/"
+                            },
+                            {
+                                "dateAdded": 1751525067356,
+                                "dateLastUsed": 1759112147355,
+                                "id": "653191",
+                                "index": 4,
+                                "parentId": "653954",
+                                "syncing": true,
+                                "title": "@commitlint/cli-校验commit提交工具",
+                                "url": "https://www.npmjs.com/package/@commitlint/cli"
+                            },
+                            {
+                                "dateAdded": 1751525067356,
+                                "id": "653189",
+                                "index": 5,
+                                "parentId": "653954",
+                                "syncing": true,
+                                "title": "lint-staged-git暂存区文件格式化",
+                                "url": "https://www.npmjs.com/package/lint-staged"
                             }
                         ],
                         "dateAdded": 1759111726874,
-                        "dateGroupModified": 1759112480048,
+                        "dateGroupModified": 1759112723025,
                         "id": "653954",
                         "index": 3,
                         "parentId": "651953",
@@ -11764,17 +11783,8 @@
                             },
                             {
                                 "dateAdded": 1751525067356,
-                                "id": "653189",
-                                "index": 26,
-                                "parentId": "651970",
-                                "syncing": true,
-                                "title": "lint-staged-git暂存区文件格式化",
-                                "url": "https://www.npmjs.com/package/lint-staged"
-                            },
-                            {
-                                "dateAdded": 1751525067356,
                                 "id": "653190",
-                                "index": 27,
+                                "index": 26,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "husky-代码校验配置工具",
@@ -11782,18 +11792,8 @@
                             },
                             {
                                 "dateAdded": 1751525067356,
-                                "dateLastUsed": 1759112147355,
-                                "id": "653191",
-                                "index": 28,
-                                "parentId": "651970",
-                                "syncing": true,
-                                "title": "@commitlint/cli-校验commit提交工具",
-                                "url": "https://www.npmjs.com/package/@commitlint/cli"
-                            },
-                            {
-                                "dateAdded": 1751525067356,
                                 "id": "653192",
-                                "index": 29,
+                                "index": 27,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "ora-终端中显示加载中的包",
@@ -11802,7 +11802,7 @@
                             {
                                 "dateAdded": 1751525067357,
                                 "id": "653193",
-                                "index": 30,
+                                "index": 28,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "download-git-repo-git项目下载包",
@@ -11811,7 +11811,7 @@
                             {
                                 "dateAdded": 1751525067357,
                                 "id": "653194",
-                                "index": 31,
+                                "index": 29,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "ejs-配置模板引擎类型-html",
@@ -11820,7 +11820,7 @@
                             {
                                 "dateAdded": 1751525067357,
                                 "id": "653195",
-                                "index": 32,
+                                "index": 30,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "axios-前端发送请求包",
@@ -11829,7 +11829,7 @@
                             {
                                 "dateAdded": 1751525067358,
                                 "id": "653196",
-                                "index": 33,
+                                "index": 31,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "BetterScroll-滚动展示图片插件",
@@ -11838,7 +11838,7 @@
                             {
                                 "dateAdded": 1751525067358,
                                 "id": "653197",
-                                "index": 34,
+                                "index": 32,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "release-it-git log日志自动生成包",
@@ -11847,7 +11847,7 @@
                             {
                                 "dateAdded": 1751525067360,
                                 "id": "653198",
-                                "index": 35,
+                                "index": 33,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "print-js-打印pdf",
@@ -11856,7 +11856,7 @@
                             {
                                 "dateAdded": 1751525067361,
                                 "id": "653199",
-                                "index": 36,
+                                "index": 34,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "vue-clipboard2-vue2剪切板插件",
@@ -11865,7 +11865,7 @@
                             {
                                 "dateAdded": 1751525067362,
                                 "id": "653200",
-                                "index": 37,
+                                "index": 35,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "@wangeditor/editor-富文本-vue/react",
@@ -11874,7 +11874,7 @@
                             {
                                 "dateAdded": 1751525067363,
                                 "id": "653201",
-                                "index": 38,
+                                "index": 36,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "Vue Macros-vue3拓展包",
@@ -11883,7 +11883,7 @@
                             {
                                 "dateAdded": 1751525067364,
                                 "id": "653202",
-                                "index": 39,
+                                "index": 37,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "unplugin-vue-components-前端开发组件自动引入插件",
@@ -11892,7 +11892,7 @@
                             {
                                 "dateAdded": 1751525067364,
                                 "id": "653203",
-                                "index": 40,
+                                "index": 38,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "unplugin-vue-define-options-vue3-defineOptions方法引入插件",
@@ -11901,7 +11901,7 @@
                             {
                                 "dateAdded": 1751525067365,
                                 "id": "653204",
-                                "index": 41,
+                                "index": 39,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "nvm-windows-node管理工具包",
@@ -11910,7 +11910,7 @@
                             {
                                 "dateAdded": 1751525067365,
                                 "id": "653205",
-                                "index": 42,
+                                "index": 40,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "depcheck-校验package包是否引用",
@@ -11919,7 +11919,7 @@
                             {
                                 "dateAdded": 1751525067366,
                                 "id": "653206",
-                                "index": 43,
+                                "index": 41,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "pdfh5-web/h5/移动端PDF预览插件",
@@ -11928,7 +11928,7 @@
                             {
                                 "dateAdded": 1751525067366,
                                 "id": "653207",
-                                "index": 44,
+                                "index": 42,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "five/tinymce-plugins-tinymce额外功能插件",
@@ -11937,7 +11937,7 @@
                             {
                                 "dateAdded": 1751525067366,
                                 "id": "653208",
-                                "index": 45,
+                                "index": 43,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "RuoYi-Vue-Plus: 多租户后台管理系统",
@@ -11946,7 +11946,7 @@
                             {
                                 "dateAdded": 1751525067367,
                                 "id": "653209",
-                                "index": 46,
+                                "index": 44,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "GitHub - fly8888/cursor_machine_id: 一键修改cursor 设备ID，解除设备锁定状态",
@@ -11955,7 +11955,7 @@
                             {
                                 "dateAdded": 1754713480557,
                                 "id": "653851",
-                                "index": 47,
+                                "index": 45,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "vue-office: 支持word(.docx)、excel(.xlsx,.xls)、pdf、pptx等各类型",
@@ -11964,7 +11964,7 @@
                             {
                                 "dateAdded": 1758165377065,
                                 "id": "653939",
-                                "index": 48,
+                                "index": 46,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "eruda-前端页面调试工具",
@@ -11974,7 +11974,7 @@
                                 "dateAdded": 1758504592061,
                                 "dateLastUsed": 1758778007233,
                                 "id": "653946",
-                                "index": 49,
+                                "index": 47,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "vuedraggable-vue拖拽组件库",
@@ -11983,7 +11983,7 @@
                             {
                                 "dateAdded": 1751525067350,
                                 "id": "653163",
-                                "index": 50,
+                                "index": 48,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "Day.js-日期格式化工具",
@@ -11992,7 +11992,7 @@
                             {
                                 "dateAdded": 1759112088022,
                                 "id": "653955",
-                                "index": 51,
+                                "index": 49,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "Moment.js-日期格式化",
