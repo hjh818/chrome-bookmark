@@ -15065,7 +15065,7 @@
                             }
                         ],
                         "dateAdded": 1751525066744,
-                        "dateGroupModified": 1759127665435,
+                        "dateGroupModified": 1759129571918,
                         "id": "651974",
                         "index": 7,
                         "parentId": "651953",
@@ -16090,9 +16090,18 @@
                         "url": "https://developer.mozilla.org/zh-CN/"
                     },
                     {
+                        "dateAdded": 1759129571918,
+                        "id": "653961",
+                        "index": 30,
+                        "parentId": "651954",
+                        "syncing": true,
+                        "title": "Stack Overflow-开发者社区",
+                        "url": "https://stackoverflow.com/questions"
+                    },
+                    {
                         "dateAdded": 1751525066765,
                         "id": "652006",
-                        "index": 30,
+                        "index": 31,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "鸠摩搜索-开发图书搜索和下载",
@@ -16101,7 +16110,7 @@
                     {
                         "dateAdded": 1751525066765,
                         "id": "652007",
-                        "index": 31,
+                        "index": 32,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "CODELF-变量名查询",
@@ -16110,7 +16119,7 @@
                     {
                         "dateAdded": 1751525066765,
                         "id": "652008",
-                        "index": 32,
+                        "index": 33,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "Stack Overflow-IT问题解答查询网站",
@@ -16119,7 +16128,7 @@
                     {
                         "dateAdded": 1751525066766,
                         "id": "652009",
-                        "index": 33,
+                        "index": 34,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "腾讯云-开发者手册-前后端知识和教程",
@@ -16128,7 +16137,7 @@
                     {
                         "dateAdded": 1751525066766,
                         "id": "652010",
-                        "index": 34,
+                        "index": 35,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "BootCDN-前端开源项目包cdn引入",
@@ -16137,7 +16146,7 @@
                     {
                         "dateAdded": 1751525066766,
                         "id": "652011",
-                        "index": 35,
+                        "index": 36,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "Quick Reference-面向开发人员速查知识",
@@ -16146,7 +16155,7 @@
                     {
                         "dateAdded": 1751525066766,
                         "id": "652012",
-                        "index": 36,
+                        "index": 37,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "CSS-标准颜色参考表",
@@ -16155,7 +16164,7 @@
                     {
                         "dateAdded": 1751525066767,
                         "id": "652013",
-                        "index": 37,
+                        "index": 38,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "Git Explorer-git命令在线查询工具",
@@ -16164,7 +16173,7 @@
                     {
                         "dateAdded": 1751525066767,
                         "id": "652014",
-                        "index": 38,
+                        "index": 39,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "cdnjs-插件cdn下载网址",
@@ -16173,7 +16182,7 @@
                     {
                         "dateAdded": 1751525066767,
                         "id": "652015",
-                        "index": 39,
+                        "index": 40,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "椰子办公-ppt/简历等模板",
@@ -16183,7 +16192,7 @@
                         "dateAdded": 1751525066767,
                         "dateLastUsed": 1758259814252,
                         "id": "652016",
-                        "index": 40,
+                        "index": 41,
                         "parentId": "651954",
                         "syncing": true,
                         "title": "shuffle-bootstrap所有样式查询",
@@ -16191,7 +16200,7 @@
                     }
                 ],
                 "dateAdded": 1751525066738,
-                "dateGroupModified": 1758456666651,
+                "dateGroupModified": 1759129601719,
                 "id": "651954",
                 "index": 2,
                 "parentId": "1",
