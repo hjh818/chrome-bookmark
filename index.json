@@ -12086,6 +12086,216 @@
                     {
                         "children": [
                             {
+                                "dateAdded": 1751525067391,
+                                "id": "653263",
+                                "index": 0,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "Javascript-w3cschool-文档和手册",
+                                "url": "https://www.w3cschool.cn/javascript/dict"
+                            },
+                            {
+                                "dateAdded": 1751525067391,
+                                "id": "653264",
+                                "index": 1,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "JavaScript-MDN",
+                                "url": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript"
+                            },
+                            {
+                                "dateAdded": 1751525067392,
+                                "id": "653265",
+                                "index": 2,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "HTML教程",
+                                "url": "https://www.w3school.com.cn/html/index.asp"
+                            },
+                            {
+                                "dateAdded": 1751525067393,
+                                "id": "653266",
+                                "index": 3,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "CSS教程",
+                                "url": "https://www.w3school.com.cn/css/index.asp"
+                            },
+                            {
+                                "dateAdded": 1751525067394,
+                                "id": "653267",
+                                "index": 4,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "入门篇-JavaScript 教程-阮一峰",
+                                "url": "https://wangdoc.com/javascript/basic/"
+                            },
+                            {
+                                "dateAdded": 1751525067396,
+                                "id": "653268",
+                                "index": 5,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "ES6 入门-阮一峰",
+                                "url": "https://es6.ruanyifeng.com/"
+                            },
+                            {
+                                "dateAdded": 1751525067397,
+                                "id": "653269",
+                                "index": 6,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "TypeScript-阮一峰",
+                                "url": "https://ts.xcatliu.com/"
+                            },
+                            {
+                                "dateAdded": 1751525067397,
+                                "id": "653270",
+                                "index": 7,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "深入理解 TypeScript-阮一峰",
+                                "url": "https://jkchao.github.io/typescript-book-chinese/"
+                            },
+                            {
+                                "dateAdded": 1751525066756,
+                                "dateLastUsed": 1758259898009,
+                                "id": "651994",
+                                "index": 8,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "Hello-算法",
+                                "url": "https://www.hello-algo.com/chapter_hello_algo/"
+                            },
+                            {
+                                "dateAdded": 1751525067398,
+                                "id": "653271",
+                                "index": 9,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "TypeScript-学习教程",
+                                "url": "https://www.w3cschool.cn/typescript/typescript-tutorial.html"
+                            },
+                            {
+                                "dateAdded": 1751525067398,
+                                "id": "653272",
+                                "index": 10,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "Node.js-文档操作和数据库连接",
+                                "url": "https://www.runoob.com/nodejs/nodejs-tutorial.html"
+                            },
+                            {
+                                "dateAdded": 1751525067398,
+                                "id": "653273",
+                                "index": 11,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "Git - 廖雪峰",
+                                "url": "https://www.liaoxuefeng.com/wiki/896043488029600/896067074338496"
+                            },
+                            {
+                                "dateAdded": 1751525067399,
+                                "id": "653274",
+                                "index": 12,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "EJS-嵌入式 JavaScript 模板引擎",
+                                "url": "https://ejs.bootcss.com/"
+                            },
+                            {
+                                "dateAdded": 1751525067399,
+                                "id": "653275",
+                                "index": 13,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "Linux和shell命令大全",
+                                "url": "https://www.runoob.com/linux/linux-command-manual.html"
+                            },
+                            {
+                                "dateAdded": 1751525067399,
+                                "id": "653276",
+                                "index": 14,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "鸟哥的Linux 私房菜",
+                                "url": "http://linux.vbird.org/linux_basic/"
+                            },
+                            {
+                                "dateAdded": 1751525067400,
+                                "id": "653277",
+                                "index": 15,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "Html/Javascript/Es6/Wen Api/C语言/Bash/Ssh-阮一峰",
+                                "url": "https://wangdoc.com/"
+                            },
+                            {
+                                "dateAdded": 1751525067400,
+                                "id": "653278",
+                                "index": 16,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "ECMASCRIPT-ECMAScript5.1中文版 + ECMAScript3 + ECMAScript（合集）",
+                                "url": "http://yanhaijing.com/es5/#0"
+                            },
+                            {
+                                "dateAdded": 1751525067400,
+                                "id": "653279",
+                                "index": 17,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "大圣前端编程自学网",
+                                "url": "https://shengxinjing.cn/"
+                            },
+                            {
+                                "dateAdded": 1751525067401,
+                                "id": "653280",
+                                "index": 18,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "人工智能教程",
+                                "url": "https://www.captainai.net/jiangyu1013/"
+                            },
+                            {
+                                "dateAdded": 1751525067401,
+                                "id": "653281",
+                                "index": 19,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "Markdown教程",
+                                "url": "https://www.runoob.com/markdown/md-tutorial.html"
+                            },
+                            {
+                                "dateAdded": 1751525067401,
+                                "id": "653282",
+                                "index": 20,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "WebSocket-网络通信协议-双向通信",
+                                "url": "https://www.ruanyifeng.com/blog/2017/05/websocket.html"
+                            },
+                            {
+                                "dateAdded": 1751525067402,
+                                "id": "653283",
+                                "index": 21,
+                                "parentId": "651973",
+                                "syncing": true,
+                                "title": "BookAI.top-chatgpt教程",
+                                "url": "https://www.bookai.top/"
+                            }
+                        ],
+                        "dateAdded": 1751525066744,
+                        "dateGroupModified": 1758260595319,
+                        "id": "651973",
+                        "index": 6,
+                        "parentId": "651953",
+                        "syncing": true,
+                        "title": "教程"
+                    },
+                    {
+                        "children": [
+                            {
                                 "dateAdded": 1751525067554,
                                 "id": "653592",
                                 "index": 0,
@@ -12233,10 +12443,174 @@
                         "dateAdded": 1751525066746,
                         "dateGroupModified": 1751525067561,
                         "id": "651977",
-                        "index": 6,
+                        "index": 7,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "源码"
+                    },
+                    {
+                        "children": [
+                            {
+                                "dateAdded": 1751525067541,
+                                "id": "653567",
+                                "index": 0,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "小程序-ShopXO开源商城uniapp端",
+                                "url": "https://gitee.com/zongzhige/shopxo-uniapp"
+                            },
+                            {
+                                "dateAdded": 1751525067543,
+                                "id": "653568",
+                                "index": 1,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "Vue-13个优秀的 Vue 开源项目及合集推荐",
+                                "url": "https://blog.csdn.net/lgno2/article/details/109446678"
+                            },
+                            {
+                                "dateAdded": 1751525067544,
+                                "id": "653569",
+                                "index": 2,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "React-整理一些基于React的开源项目",
+                                "url": "https://zhuanlan.zhihu.com/p/372750345"
+                            },
+                            {
+                                "dateAdded": 1751525067545,
+                                "id": "653570",
+                                "index": 3,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "RN-学习React Native必看的几个开源项目",
+                                "url": "https://www.cnblogs.com/qiangxia/p/5584622.html"
+                            },
+                            {
+                                "dateAdded": 1751525067546,
+                                "id": "653571",
+                                "index": 4,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "RN-基于 React Native 的创新开源项目",
+                                "url": "https://zhuanlan.zhihu.com/p/29050315"
+                            },
+                            {
+                                "dateAdded": 1751525067547,
+                                "id": "653572",
+                                "index": 5,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "React-react-admin: react开源项目",
+                                "url": "https://gitee.com/NightClown/react-admin"
+                            },
+                            {
+                                "dateAdded": 1751525067547,
+                                "id": "653573",
+                                "index": 6,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "前端-强烈推荐 GitHub 上值得学习的开源实战项目",
+                                "url": "https://www.shangmayuan.com/a/f052ba28c5154adfba4c5e75.html"
+                            },
+                            {
+                                "dateAdded": 1751525067548,
+                                "id": "653574",
+                                "index": 7,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "前端-移动端H5实现图片上传",
+                                "url": "https://segmentfault.com/a/1190000010034177"
+                            },
+                            {
+                                "dateAdded": 1751525067548,
+                                "id": "653575",
+                                "index": 8,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "Vue-vue-element-admin项目",
+                                "url": "https://panjiachen.github.io/vue-element-admin-site/zh/guide/#%E5%8A%9F%E8%83%BD"
+                            },
+                            {
+                                "dateAdded": 1751525067548,
+                                "id": "653576",
+                                "index": 9,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "前端-Ant Design Pro项目",
+                                "url": "https://pro.ant.design/zh-CN/docs/getting-started"
+                            },
+                            {
+                                "dateAdded": 1751525067549,
+                                "id": "653577",
+                                "index": 10,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "Vue-基于Vue的简易项目配置VuePress",
+                                "url": "https://www.vuepress.cn/guide/getting-started.html"
+                            },
+                            {
+                                "dateAdded": 1751525067549,
+                                "id": "653578",
+                                "index": 11,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "项目-程序员接私活必备的10款开源前端后台框架",
+                                "url": "https://blog.csdn.net/kebi007/article/details/104041766?utm_term=%E5%89%8D%E7%AB%AF%E5%8F%AF%E4%BB%A5%E6%8E%A5%E7%A7%81%E6%B4%BB&utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-0-104041766&spm=3001.4430"
+                            },
+                            {
+                                "dateAdded": 1751525067550,
+                                "id": "653579",
+                                "index": 12,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "vue-admin-template-vue开源项目",
+                                "url": "https://github.com/topics/vue-admin-template"
+                            },
+                            {
+                                "dateAdded": 1751525067550,
+                                "id": "653580",
+                                "index": 13,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "GitHub-x-render: 易用的中后台「表单 / 表格 / 图表」解决方案",
+                                "url": "https://github.com/alibaba/x-render"
+                            },
+                            {
+                                "dateAdded": 1751525067550,
+                                "id": "653581",
+                                "index": 14,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "react-推荐 12 个好用的 React 的开源项目",
+                                "url": "https://zhuanlan.zhihu.com/p/443880133"
+                            },
+                            {
+                                "dateAdded": 1751525067551,
+                                "id": "653582",
+                                "index": 15,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "GitHub - pure-admin/vue-pure-admin-全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+                                "url": "https://github.com/pure-admin/vue-pure-admin"
+                            },
+                            {
+                                "dateAdded": 1751525067551,
+                                "id": "653583",
+                                "index": 16,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "github-几个开源微信小程序",
+                                "url": "https://mp.weixin.qq.com/s/eJxNqt0QbZjhs-KAnGvc1w"
+                            }
+                        ],
+                        "dateAdded": 1751525066745,
+                        "dateGroupModified": 1751525067551,
+                        "id": "651975",
+                        "index": 8,
+                        "parentId": "651953",
+                        "syncing": true,
+                        "title": "模版"
                     },
                     {
                         "children": [
@@ -12307,7 +12681,7 @@
                         "dateAdded": 1751525066743,
                         "dateGroupModified": 1757597949995,
                         "id": "651971",
-                        "index": 7,
+                        "index": 9,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "文档"
@@ -12590,220 +12964,10 @@
                         "dateAdded": 1751525066744,
                         "dateGroupModified": 1759111286176,
                         "id": "651972",
-                        "index": 8,
+                        "index": 10,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "官网"
-                    },
-                    {
-                        "children": [
-                            {
-                                "dateAdded": 1751525067391,
-                                "id": "653263",
-                                "index": 0,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "Javascript-w3cschool-文档和手册",
-                                "url": "https://www.w3cschool.cn/javascript/dict"
-                            },
-                            {
-                                "dateAdded": 1751525067391,
-                                "id": "653264",
-                                "index": 1,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "JavaScript-MDN",
-                                "url": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript"
-                            },
-                            {
-                                "dateAdded": 1751525067392,
-                                "id": "653265",
-                                "index": 2,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "HTML教程",
-                                "url": "https://www.w3school.com.cn/html/index.asp"
-                            },
-                            {
-                                "dateAdded": 1751525067393,
-                                "id": "653266",
-                                "index": 3,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "CSS教程",
-                                "url": "https://www.w3school.com.cn/css/index.asp"
-                            },
-                            {
-                                "dateAdded": 1751525067394,
-                                "id": "653267",
-                                "index": 4,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "入门篇-JavaScript 教程-阮一峰",
-                                "url": "https://wangdoc.com/javascript/basic/"
-                            },
-                            {
-                                "dateAdded": 1751525067396,
-                                "id": "653268",
-                                "index": 5,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "ES6 入门-阮一峰",
-                                "url": "https://es6.ruanyifeng.com/"
-                            },
-                            {
-                                "dateAdded": 1751525067397,
-                                "id": "653269",
-                                "index": 6,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "TypeScript-阮一峰",
-                                "url": "https://ts.xcatliu.com/"
-                            },
-                            {
-                                "dateAdded": 1751525067397,
-                                "id": "653270",
-                                "index": 7,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "深入理解 TypeScript-阮一峰",
-                                "url": "https://jkchao.github.io/typescript-book-chinese/"
-                            },
-                            {
-                                "dateAdded": 1751525066756,
-                                "dateLastUsed": 1758259898009,
-                                "id": "651994",
-                                "index": 8,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "Hello-算法",
-                                "url": "https://www.hello-algo.com/chapter_hello_algo/"
-                            },
-                            {
-                                "dateAdded": 1751525067398,
-                                "id": "653271",
-                                "index": 9,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "TypeScript-学习教程",
-                                "url": "https://www.w3cschool.cn/typescript/typescript-tutorial.html"
-                            },
-                            {
-                                "dateAdded": 1751525067398,
-                                "id": "653272",
-                                "index": 10,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "Node.js-文档操作和数据库连接",
-                                "url": "https://www.runoob.com/nodejs/nodejs-tutorial.html"
-                            },
-                            {
-                                "dateAdded": 1751525067398,
-                                "id": "653273",
-                                "index": 11,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "Git - 廖雪峰",
-                                "url": "https://www.liaoxuefeng.com/wiki/896043488029600/896067074338496"
-                            },
-                            {
-                                "dateAdded": 1751525067399,
-                                "id": "653274",
-                                "index": 12,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "EJS-嵌入式 JavaScript 模板引擎",
-                                "url": "https://ejs.bootcss.com/"
-                            },
-                            {
-                                "dateAdded": 1751525067399,
-                                "id": "653275",
-                                "index": 13,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "Linux和shell命令大全",
-                                "url": "https://www.runoob.com/linux/linux-command-manual.html"
-                            },
-                            {
-                                "dateAdded": 1751525067399,
-                                "id": "653276",
-                                "index": 14,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "鸟哥的Linux 私房菜",
-                                "url": "http://linux.vbird.org/linux_basic/"
-                            },
-                            {
-                                "dateAdded": 1751525067400,
-                                "id": "653277",
-                                "index": 15,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "Html/Javascript/Es6/Wen Api/C语言/Bash/Ssh-阮一峰",
-                                "url": "https://wangdoc.com/"
-                            },
-                            {
-                                "dateAdded": 1751525067400,
-                                "id": "653278",
-                                "index": 16,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "ECMASCRIPT-ECMAScript5.1中文版 + ECMAScript3 + ECMAScript（合集）",
-                                "url": "http://yanhaijing.com/es5/#0"
-                            },
-                            {
-                                "dateAdded": 1751525067400,
-                                "id": "653279",
-                                "index": 17,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "大圣前端编程自学网",
-                                "url": "https://shengxinjing.cn/"
-                            },
-                            {
-                                "dateAdded": 1751525067401,
-                                "id": "653280",
-                                "index": 18,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "人工智能教程",
-                                "url": "https://www.captainai.net/jiangyu1013/"
-                            },
-                            {
-                                "dateAdded": 1751525067401,
-                                "id": "653281",
-                                "index": 19,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "Markdown教程",
-                                "url": "https://www.runoob.com/markdown/md-tutorial.html"
-                            },
-                            {
-                                "dateAdded": 1751525067401,
-                                "id": "653282",
-                                "index": 20,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "WebSocket-网络通信协议-双向通信",
-                                "url": "https://www.ruanyifeng.com/blog/2017/05/websocket.html"
-                            },
-                            {
-                                "dateAdded": 1751525067402,
-                                "id": "653283",
-                                "index": 21,
-                                "parentId": "651973",
-                                "syncing": true,
-                                "title": "BookAI.top-chatgpt教程",
-                                "url": "https://www.bookai.top/"
-                            }
-                        ],
-                        "dateAdded": 1751525066744,
-                        "dateGroupModified": 1758260595319,
-                        "id": "651973",
-                        "index": 9,
-                        "parentId": "651953",
-                        "syncing": true,
-                        "title": "教程"
                     },
                     {
                         "children": [
@@ -15479,174 +15643,10 @@
                         "dateAdded": 1751525066744,
                         "dateGroupModified": 1759110658626,
                         "id": "651974",
-                        "index": 10,
-                        "parentId": "651953",
-                        "syncing": true,
-                        "title": "辅修"
-                    },
-                    {
-                        "children": [
-                            {
-                                "dateAdded": 1751525067541,
-                                "id": "653567",
-                                "index": 0,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "小程序-ShopXO开源商城uniapp端",
-                                "url": "https://gitee.com/zongzhige/shopxo-uniapp"
-                            },
-                            {
-                                "dateAdded": 1751525067543,
-                                "id": "653568",
-                                "index": 1,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "Vue-13个优秀的 Vue 开源项目及合集推荐",
-                                "url": "https://blog.csdn.net/lgno2/article/details/109446678"
-                            },
-                            {
-                                "dateAdded": 1751525067544,
-                                "id": "653569",
-                                "index": 2,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "React-整理一些基于React的开源项目",
-                                "url": "https://zhuanlan.zhihu.com/p/372750345"
-                            },
-                            {
-                                "dateAdded": 1751525067545,
-                                "id": "653570",
-                                "index": 3,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "RN-学习React Native必看的几个开源项目",
-                                "url": "https://www.cnblogs.com/qiangxia/p/5584622.html"
-                            },
-                            {
-                                "dateAdded": 1751525067546,
-                                "id": "653571",
-                                "index": 4,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "RN-基于 React Native 的创新开源项目",
-                                "url": "https://zhuanlan.zhihu.com/p/29050315"
-                            },
-                            {
-                                "dateAdded": 1751525067547,
-                                "id": "653572",
-                                "index": 5,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "React-react-admin: react开源项目",
-                                "url": "https://gitee.com/NightClown/react-admin"
-                            },
-                            {
-                                "dateAdded": 1751525067547,
-                                "id": "653573",
-                                "index": 6,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "前端-强烈推荐 GitHub 上值得学习的开源实战项目",
-                                "url": "https://www.shangmayuan.com/a/f052ba28c5154adfba4c5e75.html"
-                            },
-                            {
-                                "dateAdded": 1751525067548,
-                                "id": "653574",
-                                "index": 7,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "前端-移动端H5实现图片上传",
-                                "url": "https://segmentfault.com/a/1190000010034177"
-                            },
-                            {
-                                "dateAdded": 1751525067548,
-                                "id": "653575",
-                                "index": 8,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "Vue-vue-element-admin项目",
-                                "url": "https://panjiachen.github.io/vue-element-admin-site/zh/guide/#%E5%8A%9F%E8%83%BD"
-                            },
-                            {
-                                "dateAdded": 1751525067548,
-                                "id": "653576",
-                                "index": 9,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "前端-Ant Design Pro项目",
-                                "url": "https://pro.ant.design/zh-CN/docs/getting-started"
-                            },
-                            {
-                                "dateAdded": 1751525067549,
-                                "id": "653577",
-                                "index": 10,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "Vue-基于Vue的简易项目配置VuePress",
-                                "url": "https://www.vuepress.cn/guide/getting-started.html"
-                            },
-                            {
-                                "dateAdded": 1751525067549,
-                                "id": "653578",
-                                "index": 11,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "项目-程序员接私活必备的10款开源前端后台框架",
-                                "url": "https://blog.csdn.net/kebi007/article/details/104041766?utm_term=%E5%89%8D%E7%AB%AF%E5%8F%AF%E4%BB%A5%E6%8E%A5%E7%A7%81%E6%B4%BB&utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-0-104041766&spm=3001.4430"
-                            },
-                            {
-                                "dateAdded": 1751525067550,
-                                "id": "653579",
-                                "index": 12,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "vue-admin-template-vue开源项目",
-                                "url": "https://github.com/topics/vue-admin-template"
-                            },
-                            {
-                                "dateAdded": 1751525067550,
-                                "id": "653580",
-                                "index": 13,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "GitHub-x-render: 易用的中后台「表单 / 表格 / 图表」解决方案",
-                                "url": "https://github.com/alibaba/x-render"
-                            },
-                            {
-                                "dateAdded": 1751525067550,
-                                "id": "653581",
-                                "index": 14,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "react-推荐 12 个好用的 React 的开源项目",
-                                "url": "https://zhuanlan.zhihu.com/p/443880133"
-                            },
-                            {
-                                "dateAdded": 1751525067551,
-                                "id": "653582",
-                                "index": 15,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "GitHub - pure-admin/vue-pure-admin-全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
-                                "url": "https://github.com/pure-admin/vue-pure-admin"
-                            },
-                            {
-                                "dateAdded": 1751525067551,
-                                "id": "653583",
-                                "index": 16,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "github-几个开源微信小程序",
-                                "url": "https://mp.weixin.qq.com/s/eJxNqt0QbZjhs-KAnGvc1w"
-                            }
-                        ],
-                        "dateAdded": 1751525066745,
-                        "dateGroupModified": 1751525067551,
-                        "id": "651975",
                         "index": 11,
                         "parentId": "651953",
                         "syncing": true,
-                        "title": "模版"
+                        "title": "辅修"
                     },
                     {
                         "children": [
@@ -15780,7 +15780,7 @@
                     }
                 ],
                 "dateAdded": 1751525066737,
-                "dateGroupModified": 1759113607648,
+                "dateGroupModified": 1759113770726,
                 "id": "651953",
                 "index": 1,
                 "parentId": "1",
