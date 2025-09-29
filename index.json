@@ -15053,10 +15053,19 @@
                                 "syncing": true,
                                 "title": "前端-如何优雅的设计动态表单，面试应该怎么介绍",
                                 "url": "https://mp.weixin.qq.com/s/gTGQZEQsm2MnoV5sy77poQ"
+                            },
+                            {
+                                "dateAdded": 1759127665435,
+                                "id": "653960",
+                                "index": 298,
+                                "parentId": "651974",
+                                "syncing": true,
+                                "title": "npm-cross-env工具包介绍（跨平台环境变量设置工具）",
+                                "url": "https://blog.csdn.net/Dontla/article/details/148018978"
                             }
                         ],
                         "dateAdded": 1751525066744,
-                        "dateGroupModified": 1759123732091,
+                        "dateGroupModified": 1759127665435,
                         "id": "651974",
                         "index": 7,
                         "parentId": "651953",
