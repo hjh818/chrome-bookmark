@@ -11479,14 +11479,13 @@
                     {
                         "children": [
                             {
-                                "dateAdded": 1751525067270,
-                                "dateLastUsed": 1759112179171,
-                                "id": "652938",
+                                "dateAdded": 1759112445886,
+                                "id": "653956",
                                 "index": 0,
                                 "parentId": "653954",
                                 "syncing": true,
-                                "title": "前端-如何规范团队代码，小程序ESLint+Prettier+lint-staged+commit+changelog+standard-version自动规范实践",
-                                "url": "https://blog.csdn.net/weixin_45495667/article/details/110950040"
+                                "title": "前端-代码规范Eslint + Prettier+ Lint-staged + Husky + Commitlint_prettier --write lintstaged",
+                                "url": "https://blog.csdn.net/sinat_17775997/article/details/126314790"
                             },
                             {
                                 "dateAdded": 1751525067371,
@@ -11536,7 +11535,7 @@
                             }
                         ],
                         "dateAdded": 1759111726874,
-                        "dateGroupModified": 1759112218612,
+                        "dateGroupModified": 1759112480048,
                         "id": "653954",
                         "index": 3,
                         "parentId": "651953",
