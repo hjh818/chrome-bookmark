@@ -9113,18 +9113,9 @@
                                 "url": "https://wmlike.com/applet/114.html"
                             },
                             {
-                                "dateAdded": 1751525067270,
-                                "id": "652938",
-                                "index": 732,
-                                "parentId": "651967",
-                                "syncing": true,
-                                "title": "小程序-如何规范团队代码，小程序ESLint+Prettier+lint-staged+commit+changelog+standard-version自动规范实践",
-                                "url": "https://blog.csdn.net/weixin_45495667/article/details/110950040"
-                            },
-                            {
                                 "dateAdded": 1751525067271,
                                 "id": "652939",
-                                "index": 733,
+                                "index": 732,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "ucharts-使用-offsetAngle修改兼容重叠",
@@ -9133,7 +9124,7 @@
                             {
                                 "dateAdded": 1751525067271,
                                 "id": "652940",
-                                "index": 734,
+                                "index": 733,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "ucharts-饼图数据为0时label文字重叠",
@@ -9142,7 +9133,7 @@
                             {
                                 "dateAdded": 1751525067271,
                                 "id": "652941",
-                                "index": 735,
+                                "index": 734,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "小程序-分包详解",
@@ -9151,7 +9142,7 @@
                             {
                                 "dateAdded": 1751525067272,
                                 "id": "652942",
-                                "index": 736,
+                                "index": 735,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "小程序-主包和分包概念",
@@ -9160,7 +9151,7 @@
                             {
                                 "dateAdded": 1751525067272,
                                 "id": "652943",
-                                "index": 737,
+                                "index": 736,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "axios-详细配置",
@@ -9169,7 +9160,7 @@
                             {
                                 "dateAdded": 1751525067272,
                                 "id": "652944",
-                                "index": 738,
+                                "index": 737,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "小程序-saveFile保存文件到本地",
@@ -9178,7 +9169,7 @@
                             {
                                 "dateAdded": 1751525067272,
                                 "id": "652945",
-                                "index": 739,
+                                "index": 738,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "网络-office文件所对应的的 Content-type类型总结",
@@ -9187,7 +9178,7 @@
                             {
                                 "dateAdded": 1751525067273,
                                 "id": "652946",
-                                "index": 740,
+                                "index": 739,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "小程序-在Android、iOS、Windows、MacOS的文件存放路径",
@@ -9196,7 +9187,7 @@
                             {
                                 "dateAdded": 1751525067273,
                                 "id": "652947",
-                                "index": 741,
+                                "index": 740,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "小程序-wx.saveFile把文件下载到哪里",
@@ -9205,7 +9196,7 @@
                             {
                                 "dateAdded": 1751525067273,
                                 "id": "652948",
-                                "index": 742,
+                                "index": 741,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "css-flex布局被内容被撑开及flex布局下定宽元素被压缩",
@@ -9214,7 +9205,7 @@
                             {
                                 "dateAdded": 1751525067273,
                                 "id": "652949",
-                                "index": 743,
+                                "index": 742,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "css-文本第二行省略号",
@@ -9223,7 +9214,7 @@
                             {
                                 "dateAdded": 1751525067274,
                                 "id": "652950",
-                                "index": 744,
+                                "index": 743,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "windows-系统下如何安装多版本node（nvm的安装与使用） ",
@@ -9232,7 +9223,7 @@
                             {
                                 "dateAdded": 1751525067274,
                                 "id": "652951",
-                                "index": 745,
+                                "index": 744,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "npm-package.json中 版本号详解",
@@ -9241,7 +9232,7 @@
                             {
                                 "dateAdded": 1751525067274,
                                 "id": "652952",
-                                "index": 746,
+                                "index": 745,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "Mysql-超详细安装配置教程(保姆级) ",
@@ -9250,7 +9241,7 @@
                             {
                                 "dateAdded": 1751525067274,
                                 "id": "652953",
-                                "index": 747,
+                                "index": 746,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "VScode- CRLF 和 LF 兼容问题，报错原因及解决方案",
@@ -9259,7 +9250,7 @@
                             {
                                 "dateAdded": 1751525067276,
                                 "id": "652954",
-                                "index": 748,
+                                "index": 747,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "el-table-指定层级展开",
@@ -9268,7 +9259,7 @@
                             {
                                 "dateAdded": 1751525067277,
                                 "id": "652955",
-                                "index": 749,
+                                "index": 748,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue3-elementPlus实现select下拉框插入确定和取消按钮",
@@ -9277,7 +9268,7 @@
                             {
                                 "dateAdded": 1751525067278,
                                 "id": "652956",
-                                "index": 750,
+                                "index": 749,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue3-ts实现element Plus Tree组件单选和取消单选的功能（取消已经选中的树节点），及vue3的proxy对象转换_el-tree",
@@ -9286,7 +9277,7 @@
                             {
                                 "dateAdded": 1751525067279,
                                 "id": "652957",
-                                "index": 751,
+                                "index": 750,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "css3-判断无子元素",
@@ -9295,7 +9286,7 @@
                             {
                                 "dateAdded": 1751525067280,
                                 "id": "652958",
-                                "index": 752,
+                                "index": 751,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "element-UI-el-tree 的样式 、亲测管用",
@@ -9304,7 +9295,7 @@
                             {
                                 "dateAdded": 1751525067280,
                                 "id": "652959",
-                                "index": 753,
+                                "index": 752,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vscode-Delete `␍` 最简单最有效的解决方法和解释（VScode）",
@@ -9313,7 +9304,7 @@
                             {
                                 "dateAdded": 1751525067281,
                                 "id": "652960",
-                                "index": 754,
+                                "index": 753,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue3-监听路由参数",
@@ -9322,7 +9313,7 @@
                             {
                                 "dateAdded": 1751525067281,
                                 "id": "652961",
-                                "index": 755,
+                                "index": 754,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue3-element-plus默认组件修改为中文",
@@ -9331,7 +9322,7 @@
                             {
                                 "dateAdded": 1751525067281,
                                 "id": "652962",
-                                "index": 756,
+                                "index": 755,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue3 - 项目集成vue-i18n国际化和Element Plus 国际化 - 简书",
@@ -9340,7 +9331,7 @@
                             {
                                 "dateAdded": 1751525067281,
                                 "id": "652963",
-                                "index": 757,
+                                "index": 756,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "Navicat Premium15-安装及破解教程详解亲测有效(附破解失败解决方案",
@@ -9349,7 +9340,7 @@
                             {
                                 "dateAdded": 1751525067282,
                                 "id": "652964",
-                                "index": 758,
+                                "index": 757,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "HarmonyOS-开发超详细手把手教你安装DevEco Studio及其配置",
@@ -9358,7 +9349,7 @@
                             {
                                 "dateAdded": 1751525067282,
                                 "id": "652965",
-                                "index": 759,
+                                "index": 758,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vite+vue3+ts-手把手教你创建一个vue3项目",
@@ -9367,7 +9358,7 @@
                             {
                                 "dateAdded": 1751525067282,
                                 "id": "652966",
-                                "index": 760,
+                                "index": 759,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vite-npm create vite@latest 与 npm init vue@latest之间的区别",
@@ -9376,7 +9367,7 @@
                             {
                                 "dateAdded": 1751525067282,
                                 "id": "652967",
-                                "index": 761,
+                                "index": 760,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "Vue-如何在 Vue.js 和 Nuxt.js 之间做出选择？",
@@ -9385,7 +9376,7 @@
                             {
                                 "dateAdded": 1751525067283,
                                 "id": "652968",
-                                "index": 762,
+                                "index": 761,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "Nuxt-项目搭建与配置、路由使用、生命周期、国际化等",
@@ -9394,7 +9385,7 @@
                             {
                                 "dateAdded": 1751525067283,
                                 "id": "652969",
-                                "index": 763,
+                                "index": 762,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "nuxt-如何搭建项目",
@@ -9403,7 +9394,7 @@
                             {
                                 "dateAdded": 1751525067283,
                                 "id": "652970",
-                                "index": 764,
+                                "index": 763,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "Nuxt3-创建项目及项目配置",
@@ -9412,7 +9403,7 @@
                             {
                                 "dateAdded": 1751525067283,
                                 "id": "652971",
-                                "index": 765,
+                                "index": 764,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "Nuxt-深入浅出 SSR 及 Nuxt.js 初体验",
@@ -9421,7 +9412,7 @@
                             {
                                 "dateAdded": 1751525067284,
                                 "id": "652972",
-                                "index": 766,
+                                "index": 765,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "Eslint-该如何配置？Eslint使用以及相关配置说明",
@@ -9430,7 +9421,7 @@
                             {
                                 "dateAdded": 1751525067284,
                                 "id": "652973",
-                                "index": 767,
+                                "index": 766,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "微信-公众号菜单跳转小程序”功能介绍与设置指引",
@@ -9439,7 +9430,7 @@
                             {
                                 "dateAdded": 1751525067284,
                                 "id": "652974",
-                                "index": 768,
+                                "index": 767,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "微信小程序-封装公共复用方法（js及wxs）、封装组件",
@@ -9448,7 +9439,7 @@
                             {
                                 "dateAdded": 1751525067284,
                                 "id": "652975",
-                                "index": 769,
+                                "index": 768,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "git-rebase后回滚操作",
@@ -9457,7 +9448,7 @@
                             {
                                 "dateAdded": 1751525067285,
                                 "id": "652976",
-                                "index": 770,
+                                "index": 769,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "公众号-菜单栏如何设置跳转小程序自定义页面",
@@ -9466,7 +9457,7 @@
                             {
                                 "dateAdded": 1751525067285,
                                 "id": "652977",
-                                "index": 771,
+                                "index": 770,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "git-怎样恢复删除的分支",
@@ -9475,7 +9466,7 @@
                             {
                                 "dateAdded": 1751525067285,
                                 "id": "652978",
-                                "index": 772,
+                                "index": 771,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "小程序-页面导航全家桶：navigateTo、redirectTo、switchTab等方法一网打尽，快速掌握不同场景下的最佳应用",
@@ -9484,7 +9475,7 @@
                             {
                                 "dateAdded": 1751525067285,
                                 "id": "652979",
-                                "index": 773,
+                                "index": 772,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "Variant Form 3-低代码表单设计",
@@ -9493,7 +9484,7 @@
                             {
                                 "dateAdded": 1751525067286,
                                 "id": "652980",
-                                "index": 774,
+                                "index": 773,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "element-实现el-tree组件，将不同层级的箭头修改成自定义图标的组件封装及调用",
@@ -9502,7 +9493,7 @@
                             {
                                 "dateAdded": 1751525067286,
                                 "id": "652981",
-                                "index": 775,
+                                "index": 774,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "nodejs-excel操作（读取和生成）",
@@ -9511,7 +9502,7 @@
                             {
                                 "dateAdded": 1751525067286,
                                 "id": "652982",
-                                "index": 776,
+                                "index": 775,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "http-问题：503 Service unavailable",
@@ -9520,7 +9511,7 @@
                             {
                                 "dateAdded": 1751525067286,
                                 "id": "652983",
-                                "index": 777,
+                                "index": 776,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "yarn-安装error Error: certificate has expired",
@@ -9529,7 +9520,7 @@
                             {
                                 "dateAdded": 1751525067287,
                                 "id": "652984",
-                                "index": 778,
+                                "index": 777,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "前端-6种最流行的API架构风格",
@@ -9538,7 +9529,7 @@
                             {
                                 "dateAdded": 1751525067287,
                                 "id": "652985",
-                                "index": 779,
+                                "index": 778,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "微信小程序性能与体验-体验",
@@ -9547,7 +9538,7 @@
                             {
                                 "dateAdded": 1751525067287,
                                 "id": "652986",
-                                "index": 780,
+                                "index": 779,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "微信-二维码API支付实现demo",
@@ -9556,7 +9547,7 @@
                             {
                                 "dateAdded": 1751525067288,
                                 "id": "652987",
-                                "index": 781,
+                                "index": 780,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "js-如何实现小程序wx.arrayBufferToBase64方法实例",
@@ -9565,7 +9556,7 @@
                             {
                                 "dateAdded": 1751525067288,
                                 "id": "652988",
-                                "index": 782,
+                                "index": 781,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "小程序-存在将未绑定在 WXML 的变量传入 setData 的解决方法！",
@@ -9574,7 +9565,7 @@
                             {
                                 "dateAdded": 1751525067288,
                                 "id": "652989",
-                                "index": 783,
+                                "index": 782,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "Vue3-项目配置 eslint + prettier",
@@ -9583,7 +9574,7 @@
                             {
                                 "dateAdded": 1751525067288,
                                 "id": "652990",
-                                "index": 784,
+                                "index": 783,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vscode-Delete `␍`eslint(prettier/prettier)错误",
@@ -9592,7 +9583,7 @@
                             {
                                 "dateAdded": 1751525067289,
                                 "id": "652991",
-                                "index": 785,
+                                "index": 784,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vscode-警告 Unexpected any. Specify a different type",
@@ -9601,7 +9592,7 @@
                             {
                                 "dateAdded": 1751525067289,
                                 "id": "652992",
-                                "index": 786,
+                                "index": 785,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "前端-工程化Prettier+ESLint+lint-staged+commitlint+Hooks+CI 自动化配置处理",
@@ -9610,7 +9601,7 @@
                             {
                                 "dateAdded": 1751525067289,
                                 "id": "652993",
-                                "index": 787,
+                                "index": 786,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vscode-husky + lint-staged 构建代码检查工作流（兼容Sourcetree） ",
@@ -9619,7 +9610,7 @@
                             {
                                 "dateAdded": 1751525067289,
                                 "id": "652994",
-                                "index": 788,
+                                "index": 787,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vscode-新版husky配合commitlint，规范我们的git的提交记录",
@@ -9628,7 +9619,7 @@
                             {
                                 "dateAdded": 1751525067290,
                                 "id": "652995",
-                                "index": 789,
+                                "index": 788,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue-监听dom元素尺寸大小改变",
@@ -9637,7 +9628,7 @@
                             {
                                 "dateAdded": 1751525067290,
                                 "id": "652996",
-                                "index": 790,
+                                "index": 789,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue3-这Proxy能干啥？",
@@ -9646,7 +9637,7 @@
                             {
                                 "dateAdded": 1751525067290,
                                 "id": "652997",
-                                "index": 791,
+                                "index": 790,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "git-commitlint.config.js配置文件中文文档（附使用示例）",
@@ -9655,7 +9646,7 @@
                             {
                                 "dateAdded": 1751525067290,
                                 "id": "652998",
-                                "index": 792,
+                                "index": 791,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "git-merge branch 没有产生新的提交信息",
@@ -9664,7 +9655,7 @@
                             {
                                 "dateAdded": 1751525067291,
                                 "id": "652999",
-                                "index": 793,
+                                "index": 792,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "Windows-系统shell脚本中使用zip命令报错zip command not foun",
@@ -9673,7 +9664,7 @@
                             {
                                 "dateAdded": 1751525067291,
                                 "id": "653000",
-                                "index": 794,
+                                "index": 793,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "java-如何连接数据库并进行操作",
@@ -9682,7 +9673,7 @@
                             {
                                 "dateAdded": 1751525067291,
                                 "id": "653001",
-                                "index": 795,
+                                "index": 794,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vscode-npm ERR!Cannot read properties of null(reading 'pickAlgorithm')报错问题解决",
@@ -9691,7 +9682,7 @@
                             {
                                 "dateAdded": 1751525067292,
                                 "id": "653002",
-                                "index": 796,
+                                "index": 795,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "浏览器-写html页面没意思，来挑战chrome插件开发",
@@ -9700,7 +9691,7 @@
                             {
                                 "dateAdded": 1751525067294,
                                 "id": "653003",
-                                "index": 797,
+                                "index": 796,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "小程序-如何禁止在电脑端微信打开？",
@@ -9709,7 +9700,7 @@
                             {
                                 "dateAdded": 1751525067295,
                                 "id": "653004",
-                                "index": 798,
+                                "index": 797,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "小程序-禁止小程序在pc端和ipad上使用",
@@ -9718,7 +9709,7 @@
                             {
                                 "dateAdded": 1751525067296,
                                 "id": "653005",
-                                "index": 799,
+                                "index": 798,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue-通过 debug 搞清楚 .vue 文件怎么变成 .js 文件",
@@ -9727,7 +9718,7 @@
                             {
                                 "dateAdded": 1751525067297,
                                 "id": "653006",
-                                "index": 800,
+                                "index": 799,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "html-一键将Word文档转成Vue组件mammoth的应用详解",
@@ -9736,7 +9727,7 @@
                             {
                                 "dateAdded": 1751525067297,
                                 "id": "653007",
-                                "index": 801,
+                                "index": 800,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "Vue-Word预览之mammoth.js",
@@ -9745,7 +9736,7 @@
                             {
                                 "dateAdded": 1751525067297,
                                 "id": "653008",
-                                "index": 802,
+                                "index": 801,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue-魔改mammoth支持导入样式",
@@ -9754,7 +9745,7 @@
                             {
                                 "dateAdded": 1751525067298,
                                 "id": "653009",
-                                "index": 803,
+                                "index": 802,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue-实现excel，word，pdf文件预览的思路",
@@ -9763,7 +9754,7 @@
                             {
                                 "dateAdded": 1751525067298,
                                 "id": "653010",
-                                "index": 804,
+                                "index": 803,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue-使用Tinymce富文本模拟在线word文档",
@@ -9772,7 +9763,7 @@
                             {
                                 "dateAdded": 1751525067298,
                                 "id": "653011",
-                                "index": 805,
+                                "index": 804,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue-页面布局可拖拽化",
@@ -9781,7 +9772,7 @@
                             {
                                 "dateAdded": 1751525067299,
                                 "id": "653012",
-                                "index": 806,
+                                "index": 805,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "Vue-实现可视化拖拽页面编辑器",
@@ -9790,7 +9781,7 @@
                             {
                                 "dateAdded": 1751525067299,
                                 "id": "653013",
-                                "index": 807,
+                                "index": 806,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "Vue3-使用TinyMce编辑器和邮件发送演示",
@@ -9799,7 +9790,7 @@
                             {
                                 "dateAdded": 1751525067299,
                                 "id": "653014",
-                                "index": 808,
+                                "index": 807,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "VUE-wangEditor3增加下拉菜单",
@@ -9808,7 +9799,7 @@
                             {
                                 "dateAdded": 1751525067299,
                                 "id": "653015",
-                                "index": 809,
+                                "index": 808,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue3-项目使用富文本编辑器",
@@ -9817,7 +9808,7 @@
                             {
                                 "dateAdded": 1751525067300,
                                 "id": "653016",
-                                "index": 810,
+                                "index": 809,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue-快速开发后台管理系统vue-bag-admin",
@@ -9826,7 +9817,7 @@
                             {
                                 "dateAdded": 1751525067300,
                                 "id": "653017",
-                                "index": 811,
+                                "index": 810,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue-vue3-element-ui + ckeditor4 预览和编辑word文档（word数据由后端接口返回-使用DocumentFormat.OpenXml 转成html字符串）",
@@ -9835,7 +9826,7 @@
                             {
                                 "dateAdded": 1751525067300,
                                 "id": "653018",
-                                "index": 812,
+                                "index": 811,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "Vue3-快速简单使用CKEditor 5富文本编辑器",
@@ -9844,7 +9835,7 @@
                             {
                                 "dateAdded": 1751525067300,
                                 "id": "653019",
-                                "index": 813,
+                                "index": 812,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "CKEditor-插件开发",
@@ -9853,7 +9844,7 @@
                             {
                                 "dateAdded": 1751525067301,
                                 "id": "653020",
-                                "index": 814,
+                                "index": 813,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue3-富文本tinymce安装图解",
@@ -9862,7 +9853,7 @@
                             {
                                 "dateAdded": 1751525067301,
                                 "id": "653021",
-                                "index": 815,
+                                "index": 814,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "TinyMCE-富文本编辑器导入word文件内容，使word文件上的的图文内容能正常显示图片",
@@ -9871,7 +9862,7 @@
                             {
                                 "dateAdded": 1751525067301,
                                 "id": "653022",
-                                "index": 816,
+                                "index": 815,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "在线Office-VUE实现Office文档在线编辑，支持doc/docx、xls/xlsx、ppt/pptx、pdf等",
@@ -9880,7 +9871,7 @@
                             {
                                 "dateAdded": 1751525067301,
                                 "id": "653023",
-                                "index": 817,
+                                "index": 816,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "tinymce-图片左浮动功能如何开发",
@@ -9889,7 +9880,7 @@
                             {
                                 "dateAdded": 1751525067302,
                                 "id": "653024",
-                                "index": 818,
+                                "index": 817,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "tinymce-常用内置 UI 组件介绍",
@@ -9898,7 +9889,7 @@
                             {
                                 "dateAdded": 1751525067302,
                                 "id": "653025",
-                                "index": 819,
+                                "index": 818,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "tinymce-如何从零开发一个Tinymce编辑器输入框，下拉框插件",
@@ -9907,7 +9898,7 @@
                             {
                                 "dateAdded": 1751525067302,
                                 "id": "653026",
-                                "index": 820,
+                                "index": 819,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "TinyMce-自定义插件开发加载方式",
@@ -9916,7 +9907,7 @@
                             {
                                 "dateAdded": 1751525067303,
                                 "id": "653027",
-                                "index": 821,
+                                "index": 820,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "tinymce-plugins-在线word编辑器插件",
@@ -9925,7 +9916,7 @@
                             {
                                 "dateAdded": 1751525067303,
                                 "id": "653028",
-                                "index": 822,
+                                "index": 821,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "Vue3-实现文件预览word、pdf、excel、图片以及txt文件",
@@ -9934,7 +9925,7 @@
                             {
                                 "dateAdded": 1751525067303,
                                 "id": "653029",
-                                "index": 823,
+                                "index": 822,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue3-实现本地及在线文件预览（含pdf/txt/mp3/mp4/docx/xlsx/pptx）",
@@ -9943,7 +9934,7 @@
                             {
                                 "dateAdded": 1751525067303,
                                 "id": "653030",
-                                "index": 824,
+                                "index": 823,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue3-ts项目打包报错 error TS6504: xxxxxx is a JavaScript file. Did you mean to enable the ‘allowJs‘ option?",
@@ -9952,7 +9943,7 @@
                             {
                                 "dateAdded": 1751525067304,
                                 "id": "653031",
-                                "index": 825,
+                                "index": 824,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vite-An import declaration can only be used at the top level of a namespace or module：导入声明只能在命名空间或模块的顶层使用",
@@ -9961,7 +9952,7 @@
                             {
                                 "dateAdded": 1751525067304,
                                 "id": "653032",
-                                "index": 826,
+                                "index": 825,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "前端-记一次tinymce自定义图标经历",
@@ -9970,7 +9961,7 @@
                             {
                                 "dateAdded": 1751525067304,
                                 "id": "653033",
-                                "index": 827,
+                                "index": 826,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "tinymce-两个表格重叠的时候,边框取消一个",
@@ -9979,7 +9970,7 @@
                             {
                                 "dateAdded": 1751525067305,
                                 "id": "653034",
-                                "index": 828,
+                                "index": 827,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "js-去除url中的localtion.search部分_获取到url中的search后清空search",
@@ -9988,7 +9979,7 @@
                             {
                                 "dateAdded": 1751525067305,
                                 "id": "653035",
-                                "index": 829,
+                                "index": 828,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "Vuepress-Theme-Hope搭建个人博客，酷炫又简单",
@@ -9997,7 +9988,7 @@
                             {
                                 "dateAdded": 1751525067305,
                                 "id": "653036",
-                                "index": 830,
+                                "index": 829,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "CSS和HTML-设置A4纸大小",
@@ -10006,7 +9997,7 @@
                             {
                                 "dateAdded": 1751525067305,
                                 "id": "653037",
-                                "index": 831,
+                                "index": 830,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "html-做的word申请表（样式）",
@@ -10015,7 +10006,7 @@
                             {
                                 "dateAdded": 1751525067306,
                                 "id": "653038",
-                                "index": 832,
+                                "index": 831,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue-html转PDF（html2canvas、JSPDF ）网络图片跨域在PDF文件上不显示",
@@ -10024,7 +10015,7 @@
                             {
                                 "dateAdded": 1751525067306,
                                 "id": "653039",
-                                "index": 833,
+                                "index": 832,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "js-解决base64与图片互转时背景颜色的问题，实测可用！！！",
@@ -10033,7 +10024,7 @@
                             {
                                 "dateAdded": 1751525067306,
                                 "id": "653040",
-                                "index": 834,
+                                "index": 833,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "原生html-使用vue elementui table导出Excel",
@@ -10042,7 +10033,7 @@
                             {
                                 "dateAdded": 1751525067306,
                                 "id": "653041",
-                                "index": 835,
+                                "index": 834,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "Java-将Html转为Excel，支持跨行跨列，可自定义样式",
@@ -10051,7 +10042,7 @@
                             {
                                 "dateAdded": 1751525067307,
                                 "id": "653042",
-                                "index": 836,
+                                "index": 835,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "JAVA-用.ftl模板文件生成PDF（含生成代码）",
@@ -10060,7 +10051,7 @@
                             {
                                 "dateAdded": 1751525067307,
                                 "id": "653043",
-                                "index": 837,
+                                "index": 836,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "GitHub-SSL certificate problem: unable to get local issuer certificate 的一种解决方案",
@@ -10069,7 +10060,7 @@
                             {
                                 "dateAdded": 1751525067307,
                                 "id": "653044",
-                                "index": 838,
+                                "index": 837,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "前端-导出Excel的四种方法和后台使用POI导出Excel的两种方法及其优缺点",
@@ -10078,7 +10069,7 @@
                             {
                                 "dateAdded": 1751525067307,
                                 "id": "653045",
-                                "index": 839,
+                                "index": 838,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "JS-关于for循环中使用setTimeout的四种解决方案",
@@ -10087,7 +10078,7 @@
                             {
                                 "dateAdded": 1751525067308,
                                 "id": "653046",
-                                "index": 840,
+                                "index": 839,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "JS-a标签可跨域下载图片文件",
@@ -10096,7 +10087,7 @@
                             {
                                 "dateAdded": 1751525067309,
                                 "id": "653047",
-                                "index": 841,
+                                "index": 840,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "js-同源和不同源的文件下载解析",
@@ -10105,7 +10096,7 @@
                             {
                                 "dateAdded": 1751525067310,
                                 "id": "653048",
-                                "index": 842,
+                                "index": 841,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "js-如何使用JavaScript实现纯前端读取和导出excel文件",
@@ -10114,7 +10105,7 @@
                             {
                                 "dateAdded": 1751525067311,
                                 "id": "653049",
-                                "index": 843,
+                                "index": 842,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "js-读取excel单元格中的值,js读取excel内容并展示",
@@ -10123,7 +10114,7 @@
                             {
                                 "dateAdded": 1751525067313,
                                 "id": "653050",
-                                "index": 844,
+                                "index": 843,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "javascript-操作excel生成报表全攻略",
@@ -10132,7 +10123,7 @@
                             {
                                 "dateAdded": 1751525067314,
                                 "id": "653051",
-                                "index": 845,
+                                "index": 844,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "前端-使用xlsx插件读取excel文件数据（保姆级教程）",
@@ -10141,7 +10132,7 @@
                             {
                                 "dateAdded": 1751525067314,
                                 "id": "653052",
-                                "index": 846,
+                                "index": 845,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "Vue-纯前端实现导出Excel并修改样式-xlsx-style报错",
@@ -10150,7 +10141,7 @@
                             {
                                 "dateAdded": 1751525067314,
                                 "id": "653053",
-                                "index": 847,
+                                "index": 846,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue-vite+xlsx-style表格导出样式设置报错",
@@ -10159,7 +10150,7 @@
                             {
                                 "dateAdded": 1751525067314,
                                 "id": "653054",
-                                "index": 848,
+                                "index": 847,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "Vue-中使用xlsx组件实现Excel导出功能的步骤详解",
@@ -10168,7 +10159,7 @@
                             {
                                 "dateAdded": 1751525067315,
                                 "id": "653055",
-                                "index": 849,
+                                "index": 848,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue-表格导出使用xlsx-style-vite修改导出样式*****",
@@ -10177,7 +10168,7 @@
                             {
                                 "dateAdded": 1751525067315,
                                 "id": "653056",
-                                "index": 850,
+                                "index": 849,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "js-导入导出excel并携带样式********",
@@ -10186,7 +10177,7 @@
                             {
                                 "dateAdded": 1751525067315,
                                 "id": "653057",
-                                "index": 851,
+                                "index": 850,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue-页面导出为pdf文件",
@@ -10195,7 +10186,7 @@
                             {
                                 "dateAdded": 1751525067316,
                                 "id": "653058",
-                                "index": 852,
+                                "index": 851,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue-使用html2PDF实现将内容导出为PDF*****",
@@ -10204,7 +10195,7 @@
                             {
                                 "dateAdded": 1751525067316,
                                 "id": "653059",
-                                "index": 853,
+                                "index": 852,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "前端-代码整洁之道：lint 标准化",
@@ -10213,7 +10204,7 @@
                             {
                                 "dateAdded": 1751525067316,
                                 "id": "653060",
-                                "index": 854,
+                                "index": 853,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "js-使用jsPDF+html2canvas导出PDF文件分页",
@@ -10222,7 +10213,7 @@
                             {
                                 "dateAdded": 1751525067316,
                                 "id": "653061",
-                                "index": 855,
+                                "index": 854,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "JS-sheetJs+xlsx-style-设置单元格背景色，居中，自动换行，宽度，百分数展示等",
@@ -10231,7 +10222,7 @@
                             {
                                 "dateAdded": 1751525067317,
                                 "id": "653062",
-                                "index": 856,
+                                "index": 855,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "js-根据浏览器屏幕大小变化切换网址",
@@ -10240,7 +10231,7 @@
                             {
                                 "dateAdded": 1751525067317,
                                 "id": "653063",
-                                "index": 857,
+                                "index": 856,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "前后端-接口交互使用AES加解密",
@@ -10249,7 +10240,7 @@
                             {
                                 "dateAdded": 1751525067317,
                                 "id": "653064",
-                                "index": 858,
+                                "index": 857,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "css-圆角梯形tab切换按钮css实现_使用css实现圆角tab栏",
@@ -10258,7 +10249,7 @@
                             {
                                 "dateAdded": 1751525067317,
                                 "id": "653065",
-                                "index": 859,
+                                "index": 858,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "框架-开源的流程设计器有哪些，哪个好用_bpmn-js",
@@ -10267,7 +10258,7 @@
                             {
                                 "dateAdded": 1751525067318,
                                 "id": "653066",
-                                "index": 860,
+                                "index": 859,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "package-彻底搞懂 devDependencies 和 dependencies 的区别！",
@@ -10276,7 +10267,7 @@
                             {
                                 "dateAdded": 1751525067318,
                                 "id": "653067",
-                                "index": 861,
+                                "index": 860,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "推行 TypeScript 失败，一位前端Leader快要被裁了",
@@ -10285,7 +10276,7 @@
                             {
                                 "dateAdded": 1751525067318,
                                 "id": "653068",
-                                "index": 862,
+                                "index": 861,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "数据可视化-浅析目前各种3d技术",
@@ -10294,7 +10285,7 @@
                             {
                                 "dateAdded": 1751525067318,
                                 "id": "653069",
-                                "index": 863,
+                                "index": 862,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "小程序-基于腾讯云开发微信小程序（新闻发布及共享平台）上",
@@ -10303,7 +10294,7 @@
                             {
                                 "dateAdded": 1751525067319,
                                 "id": "653070",
-                                "index": 864,
+                                "index": 863,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "NUXT vue-项目打包发布",
@@ -10312,7 +10303,7 @@
                             {
                                 "dateAdded": 1751525067319,
                                 "id": "653071",
-                                "index": 865,
+                                "index": 864,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "五大跨平台桌面应用开发框架：Electron、Tauri、Flutter等 - 哔哩哔哩",
@@ -10321,7 +10312,7 @@
                             {
                                 "dateAdded": 1751525067319,
                                 "id": "653072",
-                                "index": 866,
+                                "index": 865,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "electron-一小时快速上手Electron，前端Electron开发教程，笔记",
@@ -10331,7 +10322,7 @@
                                 "dateAdded": 1751525067319,
                                 "dateLastUsed": 1758247085499,
                                 "id": "653073",
-                                "index": 867,
+                                "index": 866,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "前端-首屏优化",
@@ -10340,7 +10331,7 @@
                             {
                                 "dateAdded": 1751525067320,
                                 "id": "653074",
-                                "index": 868,
+                                "index": 867,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "国家网络身份认证公共服务平台",
@@ -10349,7 +10340,7 @@
                             {
                                 "dateAdded": 1751525067320,
                                 "id": "653075",
-                                "index": 869,
+                                "index": 868,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "浏览器-由一次Content download超时引发的探索各个浏览器都有对网络包在整个请求链路任意阶段的计时日志，这个功能能够",
@@ -10358,7 +10349,7 @@
                             {
                                 "dateAdded": 1751525067320,
                                 "id": "653076",
-                                "index": 870,
+                                "index": 869,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue-使用`v-for`时无法绑定`ref`_如何使用v-for将单选按钮绑定到容器？_如何在编译时使用'ref'？",
@@ -10367,7 +10358,7 @@
                             {
                                 "dateAdded": 1751525067320,
                                 "id": "653077",
-                                "index": 871,
+                                "index": 870,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue-如何添加自己水印",
@@ -10376,7 +10367,7 @@
                             {
                                 "dateAdded": 1751525067321,
                                 "id": "653078",
-                                "index": 872,
+                                "index": 871,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "前端-可视化工具",
@@ -10385,7 +10376,7 @@
                             {
                                 "dateAdded": 1751525067321,
                                 "id": "653079",
-                                "index": 873,
+                                "index": 872,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "前端-聊聊前端技术调研到底应该怎么做？",
@@ -10394,7 +10385,7 @@
                             {
                                 "dateAdded": 1751525067321,
                                 "id": "653080",
-                                "index": 874,
+                                "index": 873,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "浏览器-打开 txt 文本文件乱码解决方案，亲测有效！",
@@ -10403,7 +10394,7 @@
                             {
                                 "dateAdded": 1751525067322,
                                 "id": "653081",
-                                "index": 875,
+                                "index": 874,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "WebSocket 和SSE的区别以及优缺点",
@@ -10412,7 +10403,7 @@
                             {
                                 "dateAdded": 1751525067322,
                                 "id": "653082",
-                                "index": 876,
+                                "index": 875,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "小程序-毫米转px的基本公式和注意事项,  还需要除于DPR",
@@ -10421,7 +10412,7 @@
                             {
                                 "dateAdded": 1751525067322,
                                 "id": "653083",
-                                "index": 877,
+                                "index": 876,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "前端-如何接收EventStream中的数据？ ",
@@ -10430,7 +10421,7 @@
                             {
                                 "dateAdded": 1751525067322,
                                 "id": "653084",
-                                "index": 878,
+                                "index": 877,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "微信小程序-中使用Server-Sent Events（SSE）_微信小程序 sse",
@@ -10439,7 +10430,7 @@
                             {
                                 "dateAdded": 1751525067323,
                                 "id": "653085",
-                                "index": 879,
+                                "index": 878,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "微信小程序聊天室页面开发教程：自定义导航栏与键盘弹出适配问题解决_小程序 position:fixed 键盘-CSDN博客",
@@ -10448,7 +10439,7 @@
                             {
                                 "dateAdded": 1751525067323,
                                 "id": "653086",
-                                "index": 880,
+                                "index": 879,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "微信小程序-请求大模型监听数据块onChunkReceived方法把数据解析成json",
@@ -10457,7 +10448,7 @@
                             {
                                 "dateAdded": 1751525067323,
                                 "id": "653087",
-                                "index": 881,
+                                "index": 880,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "微信小程序-scroll-view 滚动到页面底部",
@@ -10466,7 +10457,7 @@
                             {
                                 "dateAdded": 1751525067323,
                                 "id": "653088",
-                                "index": 882,
+                                "index": 881,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "微信小程序-踩坑之textarea软键盘遮挡解决方案（兼容安卓iOS）",
@@ -10475,7 +10466,7 @@
                             {
                                 "dateAdded": 1751525067324,
                                 "id": "653089",
-                                "index": 883,
+                                "index": 882,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "前端-发版后浏览器缓存问题",
@@ -10484,7 +10475,7 @@
                             {
                                 "dateAdded": 1751525067324,
                                 "id": "653090",
-                                "index": 884,
+                                "index": 883,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "小程序-html2canvas（将dom元素转为canvas），wxml2canvas（微信小程序）_小程序 html2canvas-CSDN博客",
@@ -10493,7 +10484,7 @@
                             {
                                 "dateAdded": 1751525067324,
                                 "id": "653091",
-                                "index": 885,
+                                "index": 884,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "nuxt3-真正可行的vue3迁移到nuxt3方法",
@@ -10502,7 +10493,7 @@
                             {
                                 "dateAdded": 1751525067325,
                                 "id": "653092",
-                                "index": 886,
+                                "index": 885,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "VUE-项目打包部署后刷新浏览器不是最新代码-CSDN博客",
@@ -10511,7 +10502,7 @@
                             {
                                 "dateAdded": 1751525067327,
                                 "id": "653093",
-                                "index": 887,
+                                "index": 886,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue-如何导出pdf可复制内容",
@@ -10520,7 +10511,7 @@
                             {
                                 "dateAdded": 1751525067327,
                                 "id": "653094",
-                                "index": 888,
+                                "index": 887,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "前端-html生成pdf的两种办法 以及 引入中文字体",
@@ -10529,7 +10520,7 @@
                             {
                                 "dateAdded": 1751525067328,
                                 "id": "653095",
-                                "index": 889,
+                                "index": 888,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue-html2canvas+jspdf实现下载pdf文件并添加水印",
@@ -10538,7 +10529,7 @@
                             {
                                 "dateAdded": 1751525067329,
                                 "id": "653096",
-                                "index": 890,
+                                "index": 889,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "pdf-在线预览、修改和导出pdf",
@@ -10547,7 +10538,7 @@
                             {
                                 "dateAdded": 1751525067330,
                                 "id": "653097",
-                                "index": 891,
+                                "index": 890,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "前端-实现导出pdf文件（服务端不参与）",
@@ -10556,7 +10547,7 @@
                             {
                                 "dateAdded": 1751525067331,
                                 "id": "653098",
-                                "index": 892,
+                                "index": 891,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue3-在前端vue3 开发媒体查询代码 实现 响应式布局（js 和css 方式）",
@@ -10565,7 +10556,7 @@
                             {
                                 "dateAdded": 1751525067331,
                                 "id": "653099",
-                                "index": 893,
+                                "index": 892,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "nuxt-vue-基于NUXT.JS搭建一款VUE版SSR前端框架（解决SPA应用的SEO优化优化问题） ",
@@ -10574,7 +10565,7 @@
                             {
                                 "dateAdded": 1751525067331,
                                 "id": "653100",
-                                "index": 894,
+                                "index": 893,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "前端工具-模式选对，效率翻倍：Cursor 的 3 种内置模式指南",
@@ -10583,7 +10574,7 @@
                             {
                                 "dateAdded": 1751525067332,
                                 "id": "653101",
-                                "index": 895,
+                                "index": 894,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "微信小程序-实现手写签名全攻略，看这一篇就够了！",
@@ -10592,7 +10583,7 @@
                             {
                                 "dateAdded": 1751525067332,
                                 "id": "653102",
-                                "index": 896,
+                                "index": 895,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "微信小程序-实现canvas电子签名",
@@ -10601,7 +10592,7 @@
                             {
                                 "dateAdded": 1751525067333,
                                 "id": "653103",
-                                "index": 897,
+                                "index": 896,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "css-重磅更新，unocss终于可以完美使用px单位了不管是unocss还是tailwindcss和windicss，默认的单位",
@@ -10610,7 +10601,7 @@
                             {
                                 "dateAdded": 1751525067333,
                                 "id": "653104",
-                                "index": 898,
+                                "index": 897,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "【git】git pull 和 git rebase_git pull --rebase和git pull的区别-CSDN博客",
@@ -10619,7 +10610,7 @@
                             {
                                 "dateAdded": 1751525067333,
                                 "id": "653105",
-                                "index": 899,
+                                "index": 898,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "前端-三大主流地图厂商商用授权接口对比",
@@ -10628,7 +10619,7 @@
                             {
                                 "dateAdded": 1751850562176,
                                 "id": "653773",
-                                "index": 900,
+                                "index": 899,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "HTML-script标签中的defer和async的区别主要决定了脚本加载的方式 一、核心区别对比表",
@@ -10637,7 +10628,7 @@
                             {
                                 "dateAdded": 1751853904007,
                                 "id": "653774",
-                                "index": 901,
+                                "index": 900,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "Javascript-作用域（图解）及声明提升（函数、变量提升）",
@@ -10646,7 +10637,7 @@
                             {
                                 "dateAdded": 1751854907203,
                                 "id": "653775",
-                                "index": 902,
+                                "index": 901,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "js-阻止冒泡方式",
@@ -10655,7 +10646,7 @@
                             {
                                 "dateAdded": 1751857371278,
                                 "id": "653776",
-                                "index": 903,
+                                "index": 902,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "JS类型判断全解析：typeof、instanceof、toString、Array.isArray",
@@ -10664,7 +10655,7 @@
                             {
                                 "dateAdded": 1752160260421,
                                 "id": "653786",
-                                "index": 904,
+                                "index": 903,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "git-删除某次提交",
@@ -10673,7 +10664,7 @@
                             {
                                 "dateAdded": 1752202652616,
                                 "id": "653788",
-                                "index": 905,
+                                "index": 904,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "JS-用JS实现虚拟列表",
@@ -10682,7 +10673,7 @@
                             {
                                 "dateAdded": 1752834178321,
                                 "id": "653796",
-                                "index": 906,
+                                "index": 905,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "前端-html2canvas生成图片特别慢的问题",
@@ -10691,7 +10682,7 @@
                             {
                                 "dateAdded": 1751525067660,
                                 "id": "653767",
-                                "index": 907,
+                                "index": 906,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue3-index.html缓存解决",
@@ -10700,7 +10691,7 @@
                             {
                                 "dateAdded": 1753167450919,
                                 "id": "653810",
-                                "index": 908,
+                                "index": 907,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "企微-如何将Vue3开发的项目，接入企业微信工作台中（前端）_前端接入企业微信工作台应用,授权用户id",
@@ -10709,7 +10700,7 @@
                             {
                                 "dateAdded": 1753256454414,
                                 "id": "653823",
-                                "index": 909,
+                                "index": 908,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue3-通过canvas实现图片圈选通过canvas实现图片的拖拽，放大缩小，区域圈选以及选中删除的功能，通过拖动绘制",
@@ -10718,7 +10709,7 @@
                             {
                                 "dateAdded": 1753325790467,
                                 "id": "653825",
-                                "index": 910,
+                                "index": 909,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue-vue2,vue3的v-model_vue2 组件 v-model",
@@ -10727,7 +10718,7 @@
                             {
                                 "dateAdded": 1753930563692,
                                 "id": "653842",
-                                "index": 911,
+                                "index": 910,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "JavaScript-Reflect_js reflect",
@@ -10736,7 +10727,7 @@
                             {
                                 "dateAdded": 1754990632353,
                                 "id": "653853",
-                                "index": 912,
+                                "index": 911,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "产品-如何通俗易懂理解saas和erp系统的区别？",
@@ -10745,7 +10736,7 @@
                             {
                                 "dateAdded": 1756629740679,
                                 "id": "653907",
-                                "index": 913,
+                                "index": 912,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "Nuxt3-项目部署【详细教程-亲测有效~！】",
@@ -10754,7 +10745,7 @@
                             {
                                 "dateAdded": 1757380352350,
                                 "id": "653924",
-                                "index": 914,
+                                "index": 913,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "vue-如何使用qrcodejs2-二维码，带logo",
@@ -10764,7 +10755,7 @@
                                 "dateAdded": 1757407286229,
                                 "dateLastUsed": 1757490590790,
                                 "id": "653926",
-                                "index": 915,
+                                "index": 914,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "JavaScript 中的函数防抖与节流详解及实用场景-阿里云开发者社区",
@@ -10773,7 +10764,7 @@
                             {
                                 "dateAdded": 1757494275799,
                                 "id": "653928",
-                                "index": 916,
+                                "index": 915,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "pnpm vs npm vs yarn",
@@ -10782,7 +10773,7 @@
                             {
                                 "dateAdded": 1758269840088,
                                 "id": "653943",
-                                "index": 917,
+                                "index": 916,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "ts-调试 tsx安装 tsx 创建 launch.json 文件",
@@ -10791,7 +10782,7 @@
                             {
                                 "dateAdded": 1758269956670,
                                 "id": "653944",
-                                "index": 918,
+                                "index": 917,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "tsx-替代 node 指令、支持运行 TypeScript & ESM 的 CLI 程序",
@@ -10800,7 +10791,7 @@
                             {
                                 "dateAdded": 1758871965294,
                                 "id": "653948",
-                                "index": 919,
+                                "index": 918,
                                 "parentId": "651967",
                                 "syncing": true,
                                 "title": "浏览器-刷新为什么不会走销毁（beforeDestroy和destroyed）周期？",
@@ -11488,9 +11479,19 @@
                     {
                         "children": [
                             {
+                                "dateAdded": 1751525067270,
+                                "dateLastUsed": 1759112179171,
+                                "id": "652938",
+                                "index": 0,
+                                "parentId": "653954",
+                                "syncing": true,
+                                "title": "前端-如何规范团队代码，小程序ESLint+Prettier+lint-staged+commit+changelog+standard-version自动规范实践",
+                                "url": "https://blog.csdn.net/weixin_45495667/article/details/110950040"
+                            },
+                            {
                                 "dateAdded": 1751525067371,
                                 "id": "653219",
-                                "index": 0,
+                                "index": 1,
                                 "parentId": "653954",
                                 "syncing": true,
                                 "title": "ESLint-JS代码校验工具",
@@ -11500,7 +11501,7 @@
                                 "dateAdded": 1751525067388,
                                 "dateLastUsed": 1759111846518,
                                 "id": "653254",
-                                "index": 1,
+                                "index": 2,
                                 "parentId": "653954",
                                 "syncing": true,
                                 "title": "Prettier-代码格式化工具",
@@ -11509,7 +11510,7 @@
                             {
                                 "dateAdded": 1751525066798,
                                 "id": "652077",
-                                "index": 2,
+                                "index": 3,
                                 "parentId": "653954",
                                 "syncing": true,
                                 "title": "Stylelint-css格式化工具",
@@ -11518,7 +11519,7 @@
                             {
                                 "dateAdded": 1751525067350,
                                 "id": "653163",
-                                "index": 3,
+                                "index": 4,
                                 "parentId": "653954",
                                 "syncing": true,
                                 "title": "Day.js-日期格式化工具",
@@ -11527,7 +11528,7 @@
                             {
                                 "dateAdded": 1759112088022,
                                 "id": "653955",
-                                "index": 4,
+                                "index": 5,
                                 "parentId": "653954",
                                 "syncing": true,
                                 "title": "Moment.js-日期格式化",
@@ -11535,7 +11536,7 @@
                             }
                         ],
                         "dateAdded": 1759111726874,
-                        "dateGroupModified": 1759112099161,
+                        "dateGroupModified": 1759112218612,
                         "id": "653954",
                         "index": 3,
                         "parentId": "651953",
