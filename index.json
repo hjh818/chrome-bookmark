@@ -12086,6 +12086,161 @@
                     {
                         "children": [
                             {
+                                "dateAdded": 1751525067554,
+                                "id": "653592",
+                                "index": 0,
+                                "parentId": "651977",
+                                "syncing": true,
+                                "title": "vue-源码解读-含注释",
+                                "url": "https://blog.csdn.net/weixin_37517329/category_11530751.html"
+                            },
+                            {
+                                "dateAdded": 1751525067554,
+                                "id": "653593",
+                                "index": 1,
+                                "parentId": "651977",
+                                "syncing": true,
+                                "title": "vue-router3-源码解读-含注释",
+                                "url": "https://blog.csdn.net/qq_36723759/category_11700890.html"
+                            },
+                            {
+                                "dateAdded": 1751525067554,
+                                "id": "653594",
+                                "index": 2,
+                                "parentId": "651977",
+                                "syncing": true,
+                                "title": "vuex3-源码解读-含注释",
+                                "url": "https://blog.csdn.net/qq_36723759/category_11679857.html"
+                            },
+                            {
+                                "dateAdded": 1751525067555,
+                                "id": "653595",
+                                "index": 3,
+                                "parentId": "651977",
+                                "syncing": true,
+                                "title": "React-源码解析和目录解析",
+                                "url": "https://xiaochen1024.com/courseware/60b1b2f6cf10a4003b634718/60b1b32ecf10a4003b63471c"
+                            },
+                            {
+                                "dateAdded": 1751525067555,
+                                "id": "653596",
+                                "index": 4,
+                                "parentId": "651977",
+                                "syncing": true,
+                                "title": "vue2-源码-github",
+                                "url": "https://github.com/vuejs/vue"
+                            },
+                            {
+                                "dateAdded": 1751525067555,
+                                "id": "653597",
+                                "index": 5,
+                                "parentId": "651977",
+                                "syncing": true,
+                                "title": "vue3-源码-github",
+                                "url": "https://github.com/vuejs/core"
+                            },
+                            {
+                                "dateAdded": 1751525067556,
+                                "id": "653598",
+                                "index": 6,
+                                "parentId": "651977",
+                                "syncing": true,
+                                "title": "react-源码-github",
+                                "url": "https://github.com/facebook/react/"
+                            },
+                            {
+                                "dateAdded": 1751525067556,
+                                "id": "653599",
+                                "index": 7,
+                                "parentId": "651977",
+                                "syncing": true,
+                                "title": "vue-源码注释",
+                                "url": "https://github.com/answershuto/learnVue"
+                            },
+                            {
+                                "dateAdded": 1751525067556,
+                                "id": "653600",
+                                "index": 8,
+                                "parentId": "651977",
+                                "syncing": true,
+                                "title": "vue-new Vue解析过程关键概念",
+                                "url": "https://blog.csdn.net/guxin_duyin/category_7974364.html"
+                            },
+                            {
+                                "dateAdded": 1751525067557,
+                                "id": "653601",
+                                "index": 9,
+                                "parentId": "651977",
+                                "syncing": true,
+                                "title": "Vue-vue-cli 3.0 源码分析",
+                                "url": "https://segmentfault.com/a/1190000018144154"
+                            },
+                            {
+                                "dateAdded": 1751525067557,
+                                "id": "653602",
+                                "index": 10,
+                                "parentId": "651977",
+                                "syncing": true,
+                                "title": "vue-源码目录及构建过程分析",
+                                "url": "https://www.jb51.net/article/160191.htm"
+                            },
+                            {
+                                "dateAdded": 1751525067558,
+                                "id": "653603",
+                                "index": 11,
+                                "parentId": "651977",
+                                "syncing": true,
+                                "title": "vue3-源码项目架构目录",
+                                "url": "https://blog.csdn.net/qq_36131788/article/details/116646071"
+                            },
+                            {
+                                "dateAdded": 1751525067558,
+                                "id": "653604",
+                                "index": 12,
+                                "parentId": "651977",
+                                "syncing": true,
+                                "title": "React-源码解析",
+                                "url": "https://react.jokcy.me/"
+                            },
+                            {
+                                "dateAdded": 1751525067559,
+                                "id": "653605",
+                                "index": 13,
+                                "parentId": "651977",
+                                "syncing": true,
+                                "title": "React-源码关键函数解析-git",
+                                "url": "https://github.com/mypanda/React-Source-Code"
+                            },
+                            {
+                                "dateAdded": 1751525067560,
+                                "id": "653606",
+                                "index": 14,
+                                "parentId": "651977",
+                                "syncing": true,
+                                "title": "vuejs-challenges-vue原理学习-github",
+                                "url": "https://github.com/webfansplz/vuejs-challenges/blob/main/README.zh-CN.md"
+                            },
+                            {
+                                "dateAdded": 1751525067561,
+                                "id": "653607",
+                                "index": 15,
+                                "parentId": "651977",
+                                "syncing": true,
+                                "title": "type-challenges-ts学习-github",
+                                "url": "https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md"
+                            }
+                        ],
+                        "dateAdded": 1751525066746,
+                        "dateGroupModified": 1751525067561,
+                        "id": "651977",
+                        "index": 6,
+                        "parentId": "651953",
+                        "syncing": true,
+                        "title": "源码"
+                    },
+                    {
+                        "children": [
+                            {
                                 "dateAdded": 1751525067367,
                                 "id": "653210",
                                 "index": 0,
@@ -12152,7 +12307,7 @@
                         "dateAdded": 1751525066743,
                         "dateGroupModified": 1757597949995,
                         "id": "651971",
-                        "index": 6,
+                        "index": 7,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "文档"
@@ -12435,7 +12590,7 @@
                         "dateAdded": 1751525066744,
                         "dateGroupModified": 1759111286176,
                         "id": "651972",
-                        "index": 7,
+                        "index": 8,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "官网"
@@ -12645,7 +12800,7 @@
                         "dateAdded": 1751525066744,
                         "dateGroupModified": 1758260595319,
                         "id": "651973",
-                        "index": 8,
+                        "index": 9,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "教程"
@@ -15324,7 +15479,7 @@
                         "dateAdded": 1751525066744,
                         "dateGroupModified": 1759110658626,
                         "id": "651974",
-                        "index": 9,
+                        "index": 10,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "辅修"
@@ -15488,7 +15643,7 @@
                         "dateAdded": 1751525066745,
                         "dateGroupModified": 1751525067551,
                         "id": "651975",
-                        "index": 10,
+                        "index": 11,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "模版"
@@ -15580,165 +15735,10 @@
                         "dateAdded": 1751525066746,
                         "dateGroupModified": 1755309070161,
                         "id": "651976",
-                        "index": 11,
-                        "parentId": "651953",
-                        "syncing": true,
-                        "title": "面试"
-                    },
-                    {
-                        "children": [
-                            {
-                                "dateAdded": 1751525067554,
-                                "id": "653592",
-                                "index": 0,
-                                "parentId": "651977",
-                                "syncing": true,
-                                "title": "vue-源码解读-含注释",
-                                "url": "https://blog.csdn.net/weixin_37517329/category_11530751.html"
-                            },
-                            {
-                                "dateAdded": 1751525067554,
-                                "id": "653593",
-                                "index": 1,
-                                "parentId": "651977",
-                                "syncing": true,
-                                "title": "vue-router3-源码解读-含注释",
-                                "url": "https://blog.csdn.net/qq_36723759/category_11700890.html"
-                            },
-                            {
-                                "dateAdded": 1751525067554,
-                                "id": "653594",
-                                "index": 2,
-                                "parentId": "651977",
-                                "syncing": true,
-                                "title": "vuex3-源码解读-含注释",
-                                "url": "https://blog.csdn.net/qq_36723759/category_11679857.html"
-                            },
-                            {
-                                "dateAdded": 1751525067555,
-                                "id": "653595",
-                                "index": 3,
-                                "parentId": "651977",
-                                "syncing": true,
-                                "title": "React-源码解析和目录解析",
-                                "url": "https://xiaochen1024.com/courseware/60b1b2f6cf10a4003b634718/60b1b32ecf10a4003b63471c"
-                            },
-                            {
-                                "dateAdded": 1751525067555,
-                                "id": "653596",
-                                "index": 4,
-                                "parentId": "651977",
-                                "syncing": true,
-                                "title": "vue2-源码-github",
-                                "url": "https://github.com/vuejs/vue"
-                            },
-                            {
-                                "dateAdded": 1751525067555,
-                                "id": "653597",
-                                "index": 5,
-                                "parentId": "651977",
-                                "syncing": true,
-                                "title": "vue3-源码-github",
-                                "url": "https://github.com/vuejs/core"
-                            },
-                            {
-                                "dateAdded": 1751525067556,
-                                "id": "653598",
-                                "index": 6,
-                                "parentId": "651977",
-                                "syncing": true,
-                                "title": "react-源码-github",
-                                "url": "https://github.com/facebook/react/"
-                            },
-                            {
-                                "dateAdded": 1751525067556,
-                                "id": "653599",
-                                "index": 7,
-                                "parentId": "651977",
-                                "syncing": true,
-                                "title": "vue-源码注释",
-                                "url": "https://github.com/answershuto/learnVue"
-                            },
-                            {
-                                "dateAdded": 1751525067556,
-                                "id": "653600",
-                                "index": 8,
-                                "parentId": "651977",
-                                "syncing": true,
-                                "title": "vue-new Vue解析过程关键概念",
-                                "url": "https://blog.csdn.net/guxin_duyin/category_7974364.html"
-                            },
-                            {
-                                "dateAdded": 1751525067557,
-                                "id": "653601",
-                                "index": 9,
-                                "parentId": "651977",
-                                "syncing": true,
-                                "title": "Vue-vue-cli 3.0 源码分析",
-                                "url": "https://segmentfault.com/a/1190000018144154"
-                            },
-                            {
-                                "dateAdded": 1751525067557,
-                                "id": "653602",
-                                "index": 10,
-                                "parentId": "651977",
-                                "syncing": true,
-                                "title": "vue-源码目录及构建过程分析",
-                                "url": "https://www.jb51.net/article/160191.htm"
-                            },
-                            {
-                                "dateAdded": 1751525067558,
-                                "id": "653603",
-                                "index": 11,
-                                "parentId": "651977",
-                                "syncing": true,
-                                "title": "vue3-源码项目架构目录",
-                                "url": "https://blog.csdn.net/qq_36131788/article/details/116646071"
-                            },
-                            {
-                                "dateAdded": 1751525067558,
-                                "id": "653604",
-                                "index": 12,
-                                "parentId": "651977",
-                                "syncing": true,
-                                "title": "React-源码解析",
-                                "url": "https://react.jokcy.me/"
-                            },
-                            {
-                                "dateAdded": 1751525067559,
-                                "id": "653605",
-                                "index": 13,
-                                "parentId": "651977",
-                                "syncing": true,
-                                "title": "React-源码关键函数解析-git",
-                                "url": "https://github.com/mypanda/React-Source-Code"
-                            },
-                            {
-                                "dateAdded": 1751525067560,
-                                "id": "653606",
-                                "index": 14,
-                                "parentId": "651977",
-                                "syncing": true,
-                                "title": "vuejs-challenges-vue原理学习-github",
-                                "url": "https://github.com/webfansplz/vuejs-challenges/blob/main/README.zh-CN.md"
-                            },
-                            {
-                                "dateAdded": 1751525067561,
-                                "id": "653607",
-                                "index": 15,
-                                "parentId": "651977",
-                                "syncing": true,
-                                "title": "type-challenges-ts学习-github",
-                                "url": "https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md"
-                            }
-                        ],
-                        "dateAdded": 1751525066746,
-                        "dateGroupModified": 1751525067561,
-                        "id": "651977",
                         "index": 12,
                         "parentId": "651953",
                         "syncing": true,
-                        "title": "源码"
+                        "title": "面试"
                     },
                     {
                         "children": [
@@ -15780,7 +15780,7 @@
                     }
                 ],
                 "dateAdded": 1751525066737,
-                "dateGroupModified": 1759113284560,
+                "dateGroupModified": 1759113607648,
                 "id": "651953",
                 "index": 1,
                 "parentId": "1",
