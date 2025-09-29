@@ -11187,10 +11187,20 @@
                                 "url": "https://vant-ui.github.io/vant-weapp/#/radio"
                             },
                             {
+                                "dateAdded": 1751525067348,
+                                "dateLastUsed": 1755310377755,
+                                "id": "653151",
+                                "index": 7,
+                                "parentId": "651969",
+                                "syncing": true,
+                                "title": "jQuery-插件库",
+                                "url": "https://www.jq22.com/"
+                            },
+                            {
                                 "dateAdded": 1756104374270,
                                 "dateLastUsed": 1756113616840,
                                 "id": "653895",
-                                "index": 7,
+                                "index": 8,
                                 "parentId": "651969",
                                 "syncing": true,
                                 "title": "uView - 全面兼容 nvue 的 uni-app 生态框架",
@@ -11199,7 +11209,7 @@
                             {
                                 "dateAdded": 1751525067341,
                                 "id": "653142",
-                                "index": 8,
+                                "index": 9,
                                 "parentId": "651969",
                                 "syncing": true,
                                 "title": "iView Weapp-小程序开发组件",
@@ -11209,7 +11219,7 @@
                                 "dateAdded": 1751525067343,
                                 "dateLastUsed": 1757576085427,
                                 "id": "653143",
-                                "index": 9,
+                                "index": 10,
                                 "parentId": "651969",
                                 "syncing": true,
                                 "title": "uni-ui-Uni App 移动端",
@@ -11218,7 +11228,7 @@
                             {
                                 "dateAdded": 1751525067344,
                                 "id": "653144",
-                                "index": 10,
+                                "index": 11,
                                 "parentId": "651969",
                                 "syncing": true,
                                 "title": "ANNAR-适配多端H5 UI",
@@ -11227,7 +11237,7 @@
                             {
                                 "dateAdded": 1751525067345,
                                 "id": "653145",
-                                "index": 11,
+                                "index": 12,
                                 "parentId": "651969",
                                 "syncing": true,
                                 "title": "Taro-适配多端H5 UI",
@@ -11237,7 +11247,7 @@
                                 "dateAdded": 1754384600375,
                                 "dateLastUsed": 1756541783626,
                                 "id": "653847",
-                                "index": 12,
+                                "index": 13,
                                 "parentId": "651969",
                                 "syncing": true,
                                 "title": "Bootstrap-Jquery的UI库",
@@ -11246,7 +11256,7 @@
                             {
                                 "dateAdded": 1751525067346,
                                 "id": "653147",
-                                "index": 13,
+                                "index": 14,
                                 "parentId": "651969",
                                 "syncing": true,
                                 "title": "Layui-前端模块化代码",
@@ -11255,7 +11265,7 @@
                             {
                                 "dateAdded": 1751525067347,
                                 "id": "653148",
-                                "index": 14,
+                                "index": 15,
                                 "parentId": "651969",
                                 "syncing": true,
                                 "title": "VUX移动端 UI 组件库-Vue",
@@ -11264,7 +11274,7 @@
                             {
                                 "dateAdded": 1751525067347,
                                 "id": "653149",
-                                "index": 15,
+                                "index": 16,
                                 "parentId": "651969",
                                 "syncing": true,
                                 "title": "uni-DCloud插件市场",
@@ -11273,21 +11283,11 @@
                             {
                                 "dateAdded": 1751525067347,
                                 "id": "653150",
-                                "index": 16,
+                                "index": 17,
                                 "parentId": "651969",
                                 "syncing": true,
                                 "title": "uView-uni-app移动端",
                                 "url": "https://www.uviewui.com/guide/demo.html"
-                            },
-                            {
-                                "dateAdded": 1751525067348,
-                                "dateLastUsed": 1755310377755,
-                                "id": "653151",
-                                "index": 17,
-                                "parentId": "651969",
-                                "syncing": true,
-                                "title": "jQuery-插件库",
-                                "url": "https://www.jq22.com/"
                             },
                             {
                                 "dateAdded": 1751525067348,
@@ -11400,7 +11400,7 @@
                             }
                         ],
                         "dateAdded": 1751525066741,
-                        "dateGroupModified": 1758269840088,
+                        "dateGroupModified": 1759112022034,
                         "id": "651969",
                         "index": 1,
                         "parentId": "651953",
