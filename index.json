@@ -11409,14 +11409,14 @@
                     {
                         "children": [
                             {
-                                "dateAdded": 1751525067385,
-                                "dateLastUsed": 1759111610489,
-                                "id": "653245",
+                                "dateAdded": 1751525067370,
+                                "dateLastUsed": 1759111259167,
+                                "id": "653217",
                                 "index": 0,
                                 "parentId": "653953",
                                 "syncing": true,
-                                "title": "rollup-项目打包工具",
-                                "url": "https://www.rollupjs.com/"
+                                "title": "webpack-前端打包工具",
+                                "url": "https://webpack.docschina.org/api/module-methods/#import-"
                             },
                             {
                                 "dateAdded": 1751525067373,
@@ -11429,50 +11429,70 @@
                             },
                             {
                                 "dateAdded": 1751525067372,
-                                "id": "653222",
+                                "dateLastUsed": 1759111768486,
+                                "id": "653223",
                                 "index": 2,
+                                "parentId": "653953",
+                                "syncing": true,
+                                "title": "gulp.js-自动化构建工具",
+                                "url": "https://www.gulpjs.com.cn/"
+                            },
+                            {
+                                "dateAdded": 1757382795725,
+                                "id": "653925",
+                                "index": 3,
+                                "parentId": "653953",
+                                "syncing": true,
+                                "title": "Rsbuild - 基于 Rspack 的构建工具",
+                                "url": "https://v0.rsbuild.rs/zh/"
+                            },
+                            {
+                                "dateAdded": 1751525067385,
+                                "dateLastUsed": 1759111610489,
+                                "id": "653245",
+                                "index": 4,
+                                "parentId": "653953",
+                                "syncing": true,
+                                "title": "rollup-项目打包工具",
+                                "url": "https://www.rollupjs.com/"
+                            },
+                            {
+                                "dateAdded": 1751525067372,
+                                "id": "653222",
+                                "index": 5,
                                 "parentId": "653953",
                                 "syncing": true,
                                 "title": "Parcel-web打包工具",
                                 "url": "https://www.parceljs.cn/"
                             },
                             {
-                                "dateAdded": 1751525067370,
-                                "dateLastUsed": 1759111259167,
-                                "id": "653217",
-                                "index": 3,
-                                "parentId": "653953",
-                                "syncing": true,
-                                "title": "webpack-前端打包工具",
-                                "url": "https://webpack.docschina.org/api/module-methods/#import-"
-                            },
-                            {
                                 "dateAdded": 1751525067354,
                                 "dateLastUsed": 1759111650970,
                                 "id": "653182",
-                                "index": 4,
+                                "index": 6,
                                 "parentId": "653953",
                                 "syncing": true,
                                 "title": "build-cli-微前端打包更新工具",
                                 "url": "https://www.npmjs.com/package/@gogogosir/build-cli"
-                            },
-                            {
-                                "dateAdded": 1757382795725,
-                                "id": "653925",
-                                "index": 5,
-                                "parentId": "653953",
-                                "syncing": true,
-                                "title": "Rsbuild - 基于 Rspack 的构建工具",
-                                "url": "https://v0.rsbuild.rs/zh/"
                             }
                         ],
                         "dateAdded": 1759111553081,
-                        "dateGroupModified": 1759111704059,
+                        "dateGroupModified": 1759111776491,
                         "id": "653953",
                         "index": 2,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "打包"
+                    },
+                    {
+                        "children": [],
+                        "dateAdded": 1759111726874,
+                        "dateGroupModified": 1759111726874,
+                        "id": "653954",
+                        "index": 3,
+                        "parentId": "651953",
+                        "syncing": true,
+                        "title": "格式化"
                     },
                     {
                         "children": [
@@ -11941,7 +11961,7 @@
                         "dateAdded": 1751525066742,
                         "dateGroupModified": 1758504612933,
                         "id": "651970",
-                        "index": 3,
+                        "index": 4,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "package"
@@ -12015,7 +12035,7 @@
                         "dateAdded": 1751525066743,
                         "dateGroupModified": 1757597949995,
                         "id": "651971",
-                        "index": 4,
+                        "index": 5,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "文档"
@@ -12059,18 +12079,9 @@
                                 "url": "https://nodejs.org/zh-cn/"
                             },
                             {
-                                "dateAdded": 1751525067372,
-                                "id": "653223",
-                                "index": 4,
-                                "parentId": "651972",
-                                "syncing": true,
-                                "title": "gulp.js-自动化构建工具",
-                                "url": "https://www.gulpjs.com.cn/"
-                            },
-                            {
                                 "dateAdded": 1751525067373,
                                 "id": "653224",
-                                "index": 5,
+                                "index": 4,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "Electron-构建跨平台的桌面应用程序",
@@ -12079,7 +12090,7 @@
                             {
                                 "dateAdded": 1751525067374,
                                 "id": "653226",
-                                "index": 6,
+                                "index": 5,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "qiankun-微前端",
@@ -12088,7 +12099,7 @@
                             {
                                 "dateAdded": 1751525067374,
                                 "id": "653227",
-                                "index": 7,
+                                "index": 6,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "singe-spa-微前端",
@@ -12097,7 +12108,7 @@
                             {
                                 "dateAdded": 1751525067374,
                                 "id": "653228",
-                                "index": 8,
+                                "index": 7,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "Micro Frontends-微前端",
@@ -12106,7 +12117,7 @@
                             {
                                 "dateAdded": 1751525067375,
                                 "id": "653229",
-                                "index": 9,
+                                "index": 8,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "Font Awesome-css框架和字体库",
@@ -12116,7 +12127,7 @@
                                 "dateAdded": 1751525067375,
                                 "dateLastUsed": 1755310564097,
                                 "id": "653230",
-                                "index": 10,
+                                "index": 9,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "Swiper-轮播图插件",
@@ -12125,7 +12136,7 @@
                             {
                                 "dateAdded": 1751525067377,
                                 "id": "653231",
-                                "index": 11,
+                                "index": 10,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "Animate中文网-动画效果",
@@ -12134,7 +12145,7 @@
                             {
                                 "dateAdded": 1751525067378,
                                 "id": "653233",
-                                "index": 12,
+                                "index": 11,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "Lodash-JS第三方工具，如深拷贝、防抖节流等",
@@ -12143,7 +12154,7 @@
                             {
                                 "dateAdded": 1751525067380,
                                 "id": "653234",
-                                "index": 13,
+                                "index": 12,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "VueUse-Vue3的Composition API函数库",
@@ -12152,7 +12163,7 @@
                             {
                                 "dateAdded": 1751525067381,
                                 "id": "653235",
-                                "index": 14,
+                                "index": 13,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "Highcharts-图标库",
@@ -12161,7 +12172,7 @@
                             {
                                 "dateAdded": 1751525067381,
                                 "id": "653236",
-                                "index": 15,
+                                "index": 14,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "fabricjs-canvas库",
@@ -12170,7 +12181,7 @@
                             {
                                 "dateAdded": 1751525067382,
                                 "id": "653237",
-                                "index": 16,
+                                "index": 15,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "vxe-table-基于vue可拖动的表格",
@@ -12179,7 +12190,7 @@
                             {
                                 "dateAdded": 1751525067382,
                                 "id": "653239",
-                                "index": 17,
+                                "index": 16,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "axios-前端接口请求工具",
@@ -12189,7 +12200,7 @@
                                 "dateAdded": 1751525067383,
                                 "dateLastUsed": 1757145438560,
                                 "id": "653240",
-                                "index": 18,
+                                "index": 17,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "PostCSS-项目css转换工具",
@@ -12198,7 +12209,7 @@
                             {
                                 "dateAdded": 1751525067383,
                                 "id": "653241",
-                                "index": 19,
+                                "index": 18,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "Nginx-服务器管理工具",
@@ -12207,7 +12218,7 @@
                             {
                                 "dateAdded": 1751525067383,
                                 "id": "653242",
-                                "index": 20,
+                                "index": 19,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "Vue-I18n双语配置",
@@ -12216,7 +12227,7 @@
                             {
                                 "dateAdded": 1751525067384,
                                 "id": "653243",
-                                "index": 21,
+                                "index": 20,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "Plop-前端代码自动化格式工具",
@@ -12225,7 +12236,7 @@
                             {
                                 "dateAdded": 1751525067384,
                                 "id": "653244",
-                                "index": 22,
+                                "index": 21,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "Sass-CSS扩展语言",
@@ -12234,7 +12245,7 @@
                             {
                                 "dateAdded": 1751525067385,
                                 "id": "653246",
-                                "index": 23,
+                                "index": 22,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "Grunt-JavaScript 世界的构建工具",
@@ -12243,7 +12254,7 @@
                             {
                                 "dateAdded": 1751525067385,
                                 "id": "653247",
-                                "index": 24,
+                                "index": 23,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "jQuery-API 中文文档",
@@ -12252,7 +12263,7 @@
                             {
                                 "dateAdded": 1751525067386,
                                 "id": "653248",
-                                "index": 25,
+                                "index": 24,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "WebView-app内置浏览器(原生开发中可以跳转外部链接)",
@@ -12261,7 +12272,7 @@
                             {
                                 "dateAdded": 1751525067386,
                                 "id": "653249",
-                                "index": 26,
+                                "index": 25,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "single-spa-qiankun基于封装的底层",
@@ -12270,7 +12281,7 @@
                             {
                                 "dateAdded": 1751525067386,
                                 "id": "653250",
-                                "index": 27,
+                                "index": 26,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "Fetch API_前端接口请求文档",
@@ -12279,7 +12290,7 @@
                             {
                                 "dateAdded": 1751525067387,
                                 "id": "653251",
-                                "index": 28,
+                                "index": 27,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "Ecma-Javascript官网",
@@ -12288,7 +12299,7 @@
                             {
                                 "dateAdded": 1751525067387,
                                 "id": "653252",
-                                "index": 29,
+                                "index": 28,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "Axios-基于 promise 的网络请求库",
@@ -12297,7 +12308,7 @@
                             {
                                 "dateAdded": 1751525067387,
                                 "id": "653253",
-                                "index": 30,
+                                "index": 29,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "TypeScript ESLint-使eslint适用于typescript的工具",
@@ -12306,7 +12317,7 @@
                             {
                                 "dateAdded": 1751525067388,
                                 "id": "653254",
-                                "index": 31,
+                                "index": 30,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "Prettier-代码格式化工具",
@@ -12315,7 +12326,7 @@
                             {
                                 "dateAdded": 1751525067388,
                                 "id": "653255",
-                                "index": 32,
+                                "index": 31,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "GitLab-代码管理工具",
@@ -12324,7 +12335,7 @@
                             {
                                 "dateAdded": 1751525067388,
                                 "id": "653256",
-                                "index": 33,
+                                "index": 32,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "WebAssembly-新的web技术官方网站-Wasm",
@@ -12333,7 +12344,7 @@
                             {
                                 "dateAdded": 1751525067389,
                                 "id": "653257",
-                                "index": 34,
+                                "index": 33,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "Rax-快速构建多端应用的框架",
@@ -12342,7 +12353,7 @@
                             {
                                 "dateAdded": 1751525067389,
                                 "id": "653258",
-                                "index": 35,
+                                "index": 34,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "LowCodeEngine-低代码引擎",
@@ -12351,7 +12362,7 @@
                             {
                                 "dateAdded": 1751525067389,
                                 "id": "653259",
-                                "index": 36,
+                                "index": 35,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "Hilo-HTML5跨终端游戏解决方案",
@@ -12360,7 +12371,7 @@
                             {
                                 "dateAdded": 1751525067390,
                                 "id": "653260",
-                                "index": 37,
+                                "index": 36,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "html2canvas-html转为base64的画布工具",
@@ -12369,7 +12380,7 @@
                             {
                                 "dateAdded": 1751525067390,
                                 "id": "653261",
-                                "index": 38,
+                                "index": 37,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "GoDaddy-域名购买官网",
@@ -12378,7 +12389,7 @@
                             {
                                 "dateAdded": 1751525067390,
                                 "id": "653262",
-                                "index": 39,
+                                "index": 38,
                                 "parentId": "651972",
                                 "syncing": true,
                                 "title": "TinyMCE-富文本编辑器",
@@ -12388,7 +12399,7 @@
                         "dateAdded": 1751525066744,
                         "dateGroupModified": 1759111286176,
                         "id": "651972",
-                        "index": 5,
+                        "index": 6,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "官网"
@@ -12598,7 +12609,7 @@
                         "dateAdded": 1751525066744,
                         "dateGroupModified": 1758260595319,
                         "id": "651973",
-                        "index": 6,
+                        "index": 7,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "教程"
@@ -14858,6 +14869,7 @@
                             },
                             {
                                 "dateAdded": 1751525067527,
+                                "dateLastUsed": 1759111757573,
                                 "id": "653533",
                                 "index": 250,
                                 "parentId": "651974",
@@ -15276,7 +15288,7 @@
                         "dateAdded": 1751525066744,
                         "dateGroupModified": 1759110658626,
                         "id": "651974",
-                        "index": 7,
+                        "index": 8,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "辅修"
@@ -15440,7 +15452,7 @@
                         "dateAdded": 1751525066745,
                         "dateGroupModified": 1751525067551,
                         "id": "651975",
-                        "index": 8,
+                        "index": 9,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "模版"
@@ -15532,7 +15544,7 @@
                         "dateAdded": 1751525066746,
                         "dateGroupModified": 1755309070161,
                         "id": "651976",
-                        "index": 9,
+                        "index": 10,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "面试"
@@ -15687,7 +15699,7 @@
                         "dateAdded": 1751525066746,
                         "dateGroupModified": 1751525067561,
                         "id": "651977",
-                        "index": 10,
+                        "index": 11,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "源码"
@@ -15725,14 +15737,14 @@
                         "dateAdded": 1751525066747,
                         "dateGroupModified": 1751525067564,
                         "id": "651978",
-                        "index": 11,
+                        "index": 12,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "招聘"
                     }
                 ],
                 "dateAdded": 1751525066737,
-                "dateGroupModified": 1759111556444,
+                "dateGroupModified": 1759111729916,
                 "id": "651953",
                 "index": 1,
                 "parentId": "1",
