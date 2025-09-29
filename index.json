@@ -496,12 +496,21 @@
                                         "index": 35,
                                         "parentId": "652018",
                                         "syncing": true,
-                                        "title": "Homei-nuxt测试环境",
+                                        "title": "Homei-nuxt-测试环境",
                                         "url": "http://120.79.141.255:8100/nuxt/"
+                                    },
+                                    {
+                                        "dateAdded": 1759110658626,
+                                        "id": "653951",
+                                        "index": 36,
+                                        "parentId": "652018",
+                                        "syncing": true,
+                                        "title": "Homei-nuxt-预发环境",
+                                        "url": "https://random.homeiliving.com/nuxt/"
                                     }
                                 ],
                                 "dateAdded": 1751525066768,
-                                "dateGroupModified": 1755415696846,
+                                "dateGroupModified": 1759110688049,
                                 "id": "652018",
                                 "index": 1,
                                 "parentId": "651955",
@@ -15251,7 +15260,7 @@
                             }
                         ],
                         "dateAdded": 1751525066744,
-                        "dateGroupModified": 1759066774211,
+                        "dateGroupModified": 1759110658626,
                         "id": "651974",
                         "index": 6,
                         "parentId": "651953",
