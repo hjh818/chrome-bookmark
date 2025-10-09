@@ -10798,10 +10798,19 @@
                                 "syncing": true,
                                 "title": "浏览器-刷新为什么不会走销毁（beforeDestroy和destroyed）周期？",
                                 "url": "https://blog.csdn.net/pink_cz/article/details/128420946"
+                            },
+                            {
+                                "dateAdded": 1760001501943,
+                                "id": "653965",
+                                "index": 919,
+                                "parentId": "651967",
+                                "syncing": true,
+                                "title": "前端-下载ZIP包常见的三种方法总结",
+                                "url": "https://www.jb51.net/javascript/349629rlm.htm"
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1758879642309,
+                        "dateGroupModified": 1760001520775,
                         "id": "651967",
                         "index": 10,
                         "parentId": "651951",
@@ -17845,7 +17854,7 @@
                             }
                         ],
                         "dateAdded": 1755501187909,
-                        "dateGroupModified": 1759999785673,
+                        "dateGroupModified": 1760001501943,
                         "id": "653874",
                         "index": 14,
                         "parentId": "653798",
