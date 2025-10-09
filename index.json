@@ -10807,10 +10807,19 @@
                                 "syncing": true,
                                 "title": "前端-下载ZIP包常见的三种方法总结",
                                 "url": "https://www.jb51.net/javascript/349629rlm.htm"
+                            },
+                            {
+                                "dateAdded": 1760001840269,
+                                "id": "653966",
+                                "index": 920,
+                                "parentId": "651967",
+                                "syncing": true,
+                                "title": "前端-下载超大文件的完整方案",
+                                "url": "https://blog.csdn.net/xdpcxq/article/details/137041203"
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1760001520775,
+                        "dateGroupModified": 1760001840269,
                         "id": "651967",
                         "index": 10,
                         "parentId": "651951",
