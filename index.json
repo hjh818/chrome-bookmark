@@ -10816,10 +10816,19 @@
                                 "syncing": true,
                                 "title": "前端-下载超大文件的完整方案",
                                 "url": "https://blog.csdn.net/xdpcxq/article/details/137041203"
+                            },
+                            {
+                                "dateAdded": 1760002861177,
+                                "id": "653967",
+                                "index": 921,
+                                "parentId": "651967",
+                                "syncing": true,
+                                "title": "前端-大文件分片下载功能设计",
+                                "url": "https://www.cnblogs.com/jenlin/p/18838546"
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1760001840269,
+                        "dateGroupModified": 1760002861177,
                         "id": "651967",
                         "index": 10,
                         "parentId": "651951",
