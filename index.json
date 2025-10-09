@@ -121,7 +121,7 @@
                                     },
                                     {
                                         "dateAdded": 1751525067569,
-                                        "dateLastUsed": 1758855056505,
+                                        "dateLastUsed": 1759990955881,
                                         "id": "653623",
                                         "index": 12,
                                         "parentId": "652017",
@@ -17430,10 +17430,19 @@
                     {
                         "children": [
                             {
+                                "dateAdded": 1759991687025,
+                                "id": "653963",
+                                "index": 0,
+                                "parentId": "653859",
+                                "syncing": true,
+                                "title": "什么是低代码开发平台？2025年最热门的6大低代码开发平台盘点！",
+                                "url": "https://baijiahao.baidu.com/s?id=1828989935270862586&wfr=spider&for=pc"
+                            },
+                            {
                                 "dateAdded": 1754986838265,
                                 "dateLastUsed": 1759979528430,
                                 "id": "653852",
-                                "index": 0,
+                                "index": 1,
                                 "parentId": "653859",
                                 "syncing": true,
                                 "title": "低代码平台-思路与方向",
@@ -17442,7 +17451,7 @@
                             {
                                 "dateAdded": 1753435099817,
                                 "id": "653832",
-                                "index": 1,
+                                "index": 2,
                                 "parentId": "653859",
                                 "syncing": true,
                                 "title": "流程组件-Logic-Flow-滴滴",
@@ -17451,7 +17460,7 @@
                             {
                                 "dateAdded": 1753929023362,
                                 "id": "653841",
-                                "index": 2,
+                                "index": 3,
                                 "parentId": "653859",
                                 "syncing": true,
                                 "title": "AntV X6 常用方法AntV X6 常用方法 1. Graph 相关方法 1.1 创建 Graph 使用场景：初始化 ",
@@ -17460,7 +17469,7 @@
                             {
                                 "dateAdded": 1756281412510,
                                 "id": "653902",
-                                "index": 3,
+                                "index": 4,
                                 "parentId": "653859",
                                 "syncing": true,
                                 "title": "Coze-插件从使用到实战详解",
@@ -17469,7 +17478,7 @@
                             {
                                 "dateAdded": 1759123732091,
                                 "id": "653959",
-                                "index": 4,
+                                "index": 5,
                                 "parentId": "653859",
                                 "syncing": true,
                                 "title": "前端-如何优雅的设计动态表单，面试应该怎么介绍",
@@ -17477,7 +17486,7 @@
                             }
                         ],
                         "dateAdded": 1755252705512,
-                        "dateGroupModified": 1759979188317,
+                        "dateGroupModified": 1759991703791,
                         "id": "653859",
                         "index": 20,
                         "parentId": "653831",
@@ -17935,7 +17944,7 @@
                         "children": [
                             {
                                 "dateAdded": 1756781994233,
-                                "dateLastUsed": 1759047346223,
+                                "dateLastUsed": 1759990026978,
                                 "id": "653910",
                                 "index": 0,
                                 "parentId": "653882",
