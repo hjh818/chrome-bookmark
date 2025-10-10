@@ -10825,10 +10825,19 @@
                                 "syncing": true,
                                 "title": "前端-大文件分片下载功能设计",
                                 "url": "https://www.cnblogs.com/jenlin/p/18838546"
+                            },
+                            {
+                                "dateAdded": 1760059927692,
+                                "id": "653968",
+                                "index": 922,
+                                "parentId": "651967",
+                                "syncing": true,
+                                "title": "前端-作为一个即将踏入30岁的前端，要怎么样规划未来的发展呢？ ",
+                                "url": "https://www.cnblogs.com/qianduanpiaoge/p/15017795.html"
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1760002861177,
+                        "dateGroupModified": 1760059927692,
                         "id": "651967",
                         "index": 10,
                         "parentId": "651951",
