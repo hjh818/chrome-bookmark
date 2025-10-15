@@ -17879,44 +17879,6 @@
                                 "syncing": true,
                                 "title": "需求清单",
                                 "url": "https://paas-teamwork.yuque.com/ooes0v/hm8po8/wt1o0mh2audlgwgr?singleDoc#TcUH"
-                            },
-                            {
-                                "dateAdded": 1756890462751,
-                                "dateLastUsed": 1757898044184,
-                                "id": "653915",
-                                "index": 5,
-                                "parentId": "653874",
-                                "syncing": true,
-                                "title": "一期三阶段V6.5.8-TVUG",
-                                "url": "https://codesign.qq.com/app/s/589810708865322"
-                            },
-                            {
-                                "dateAdded": 1758252000199,
-                                "dateLastUsed": 1760320841903,
-                                "id": "653941",
-                                "index": 6,
-                                "parentId": "653874",
-                                "syncing": true,
-                                "title": "一期三阶段V6.5.8.2-SLEO",
-                                "url": "https://codesign.qq.com/app/s/593714526716252"
-                            },
-                            {
-                                "dateAdded": 1759999757080,
-                                "id": "653964",
-                                "index": 7,
-                                "parentId": "653874",
-                                "syncing": true,
-                                "title": "一期三阶段V6.5.8.3 - 产品原型 - FLQF",
-                                "url": "https://codesign.qq.com/app/s/605406092376159"
-                            },
-                            {
-                                "dateAdded": 1756905515675,
-                                "id": "653919",
-                                "index": 8,
-                                "parentId": "653874",
-                                "syncing": true,
-                                "title": "蜜蜂微搭-v6.5.8.1-前端方案",
-                                "url": "https://docs.qq.com/doc/DS2pwS1hFTHRhV0Vx?no_promotion=1"
                             }
                         ],
                         "dateAdded": 1755501187909,
