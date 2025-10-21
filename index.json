@@ -11594,90 +11594,6 @@
                     {
                         "children": [
                             {
-                                "dateAdded": 1751525067372,
-                                "dateLastUsed": 1759113235796,
-                                "id": "653221",
-                                "index": 0,
-                                "parentId": "653957",
-                                "syncing": true,
-                                "title": "Node.js-基于chrome v8引擎的js运行环境",
-                                "url": "https://nodejs.org/zh-cn/"
-                            },
-                            {
-                                "dateAdded": 1751525067371,
-                                "id": "653220",
-                                "index": 1,
-                                "parentId": "653957",
-                                "syncing": true,
-                                "title": "TypeScript-文档",
-                                "url": "https://www.tslang.cn/docs/handbook/functions.html"
-                            },
-                            {
-                                "dateAdded": 1751525067374,
-                                "id": "653226",
-                                "index": 2,
-                                "parentId": "653957",
-                                "syncing": true,
-                                "title": "qiankun-微前端",
-                                "url": "https://qiankun.umijs.org/zh/guide"
-                            },
-                            {
-                                "dateAdded": 1754286595725,
-                                "id": "653843",
-                                "index": 3,
-                                "parentId": "653957",
-                                "syncing": true,
-                                "title": "无界-极致的微前端框架",
-                                "url": "https://wujie-micro.github.io/doc/"
-                            },
-                            {
-                                "dateAdded": 1751525067374,
-                                "id": "653227",
-                                "index": 4,
-                                "parentId": "653957",
-                                "syncing": true,
-                                "title": "singe-spa-微前端",
-                                "url": "https://zh-hans.single-spa.js.org/docs/getting-started-overview"
-                            },
-                            {
-                                "dateAdded": 1751525067374,
-                                "id": "653228",
-                                "index": 5,
-                                "parentId": "653957",
-                                "syncing": true,
-                                "title": "Micro Frontends-微前端",
-                                "url": "https://swearer23.github.io/micro-frontends/"
-                            },
-                            {
-                                "dateAdded": 1751525067373,
-                                "id": "653224",
-                                "index": 6,
-                                "parentId": "653957",
-                                "syncing": true,
-                                "title": "Electron-构建跨平台的桌面应用程序",
-                                "url": "https://www.electronjs.org/"
-                            },
-                            {
-                                "dateAdded": 1751525067383,
-                                "id": "653241",
-                                "index": 7,
-                                "parentId": "653957",
-                                "syncing": true,
-                                "title": "Nginx-服务器管理工具",
-                                "url": "https://www.nginx.cn/doc/"
-                            }
-                        ],
-                        "dateAdded": 1759113278731,
-                        "dateGroupModified": 1760433017657,
-                        "id": "653957",
-                        "index": 4,
-                        "parentId": "651953",
-                        "syncing": true,
-                        "title": "拓展"
-                    },
-                    {
-                        "children": [
-                            {
                                 "dateAdded": 1751525067350,
                                 "id": "653161",
                                 "index": 0,
@@ -12115,7 +12031,7 @@
                         "dateAdded": 1751525066742,
                         "dateGroupModified": 1759112670553,
                         "id": "651970",
-                        "index": 5,
+                        "index": 4,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "package"
@@ -12302,10 +12218,94 @@
                         "dateAdded": 1751525066745,
                         "dateGroupModified": 1761011376395,
                         "id": "651975",
-                        "index": 6,
+                        "index": 5,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "模版"
+                    },
+                    {
+                        "children": [
+                            {
+                                "dateAdded": 1751525067372,
+                                "dateLastUsed": 1759113235796,
+                                "id": "653221",
+                                "index": 0,
+                                "parentId": "653957",
+                                "syncing": true,
+                                "title": "Node.js-基于chrome v8引擎的js运行环境",
+                                "url": "https://nodejs.org/zh-cn/"
+                            },
+                            {
+                                "dateAdded": 1751525067371,
+                                "id": "653220",
+                                "index": 1,
+                                "parentId": "653957",
+                                "syncing": true,
+                                "title": "TypeScript-文档",
+                                "url": "https://www.tslang.cn/docs/handbook/functions.html"
+                            },
+                            {
+                                "dateAdded": 1751525067374,
+                                "id": "653226",
+                                "index": 2,
+                                "parentId": "653957",
+                                "syncing": true,
+                                "title": "qiankun-微前端",
+                                "url": "https://qiankun.umijs.org/zh/guide"
+                            },
+                            {
+                                "dateAdded": 1754286595725,
+                                "id": "653843",
+                                "index": 3,
+                                "parentId": "653957",
+                                "syncing": true,
+                                "title": "无界-极致的微前端框架",
+                                "url": "https://wujie-micro.github.io/doc/"
+                            },
+                            {
+                                "dateAdded": 1751525067374,
+                                "id": "653227",
+                                "index": 4,
+                                "parentId": "653957",
+                                "syncing": true,
+                                "title": "singe-spa-微前端",
+                                "url": "https://zh-hans.single-spa.js.org/docs/getting-started-overview"
+                            },
+                            {
+                                "dateAdded": 1751525067374,
+                                "id": "653228",
+                                "index": 5,
+                                "parentId": "653957",
+                                "syncing": true,
+                                "title": "Micro Frontends-微前端",
+                                "url": "https://swearer23.github.io/micro-frontends/"
+                            },
+                            {
+                                "dateAdded": 1751525067373,
+                                "id": "653224",
+                                "index": 6,
+                                "parentId": "653957",
+                                "syncing": true,
+                                "title": "Electron-构建跨平台的桌面应用程序",
+                                "url": "https://www.electronjs.org/"
+                            },
+                            {
+                                "dateAdded": 1751525067383,
+                                "id": "653241",
+                                "index": 7,
+                                "parentId": "653957",
+                                "syncing": true,
+                                "title": "Nginx-服务器管理工具",
+                                "url": "https://www.nginx.cn/doc/"
+                            }
+                        ],
+                        "dateAdded": 1759113278731,
+                        "dateGroupModified": 1760433017657,
+                        "id": "653957",
+                        "index": 6,
+                        "parentId": "651953",
+                        "syncing": true,
+                        "title": "拓展"
                     },
                     {
                         "children": [
@@ -15867,7 +15867,7 @@
                     }
                 ],
                 "dateAdded": 1751525066737,
-                "dateGroupModified": 1761011220563,
+                "dateGroupModified": 1761014380353,
                 "id": "651953",
                 "index": 1,
                 "parentId": "1",
