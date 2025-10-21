@@ -11411,18 +11411,9 @@
                                 "url": "https://cn.windicss.org/"
                             },
                             {
-                                "dateAdded": 1754313378477,
-                                "id": "653845",
-                                "index": 27,
-                                "parentId": "651969",
-                                "syncing": true,
-                                "title": "Pure Admin-基于element再封装的组件库",
-                                "url": "https://pure-admin.cn/"
-                            },
-                            {
                                 "dateAdded": 1758184574812,
                                 "id": "653940",
-                                "index": 28,
+                                "index": 27,
                                 "parentId": "651969",
                                 "syncing": true,
                                 "title": "Ui-Layouts-react UI库",
@@ -11431,7 +11422,7 @@
                             {
                                 "dateAdded": 1758260595319,
                                 "id": "653942",
-                                "index": 29,
+                                "index": 28,
                                 "parentId": "651969",
                                 "syncing": true,
                                 "title": "Vxe UI v4-支持 vue2 和 vue3 的全功能UI库",
@@ -12066,18 +12057,9 @@
                                 "url": "https://gitee.com/fivecc/tinymce-plugins/#letterspacing-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95"
                             },
                             {
-                                "dateAdded": 1751525067366,
-                                "id": "653208",
-                                "index": 42,
-                                "parentId": "651970",
-                                "syncing": true,
-                                "title": "RuoYi-Vue-Plus: 多租户后台管理系统",
-                                "url": "https://gitee.com/dromara/RuoYi-Vue-Plus"
-                            },
-                            {
                                 "dateAdded": 1751525067367,
                                 "id": "653209",
-                                "index": 43,
+                                "index": 42,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "GitHub - fly8888/cursor_machine_id: 一键修改cursor 设备ID，解除设备锁定状态",
@@ -12086,7 +12068,7 @@
                             {
                                 "dateAdded": 1754713480557,
                                 "id": "653851",
-                                "index": 44,
+                                "index": 43,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "vue-office: 支持word(.docx)、excel(.xlsx,.xls)、pdf、pptx等各类型",
@@ -12095,7 +12077,7 @@
                             {
                                 "dateAdded": 1758165377065,
                                 "id": "653939",
-                                "index": 45,
+                                "index": 44,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "eruda-前端页面调试工具",
@@ -12105,7 +12087,7 @@
                                 "dateAdded": 1758504592061,
                                 "dateLastUsed": 1758778007233,
                                 "id": "653946",
-                                "index": 46,
+                                "index": 45,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "vuedraggable-vue拖拽组件库",
@@ -12114,7 +12096,7 @@
                             {
                                 "dateAdded": 1751525067350,
                                 "id": "653163",
-                                "index": 47,
+                                "index": 46,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "Day.js-日期格式化工具",
@@ -12123,7 +12105,7 @@
                             {
                                 "dateAdded": 1759112088022,
                                 "id": "653955",
-                                "index": 48,
+                                "index": 47,
                                 "parentId": "651970",
                                 "syncing": true,
                                 "title": "Moment.js-日期格式化",
@@ -12137,6 +12119,193 @@
                         "parentId": "651953",
                         "syncing": true,
                         "title": "package"
+                    },
+                    {
+                        "children": [
+                            {
+                                "dateAdded": 1754313378477,
+                                "id": "653845",
+                                "index": 0,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "Pure Admin-基于element再封装的中后台管理系统模版",
+                                "url": "https://pure-admin.cn/"
+                            },
+                            {
+                                "dateAdded": 1751525067366,
+                                "dateLastUsed": 1761011363180,
+                                "id": "653208",
+                                "index": 1,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "RuoYi-Vue-Plus: 多租户后台管理系统",
+                                "url": "https://gitee.com/dromara/RuoYi-Vue-Plus"
+                            },
+                            {
+                                "dateAdded": 1751525067550,
+                                "dateLastUsed": 1761011394493,
+                                "id": "653579",
+                                "index": 2,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "vue-admin-template-vue开源相关项目",
+                                "url": "https://github.com/topics/vue-admin-template"
+                            },
+                            {
+                                "dateAdded": 1751525067549,
+                                "dateLastUsed": 1761011295858,
+                                "id": "653578",
+                                "index": 3,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "项目-程序员接私活必备的10款开源前端后台框架",
+                                "url": "https://blog.csdn.net/kebi007/article/details/104041766?utm_term=%E5%89%8D%E7%AB%AF%E5%8F%AF%E4%BB%A5%E6%8E%A5%E7%A7%81%E6%B4%BB&utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-0-104041766&spm=3001.4430"
+                            },
+                            {
+                                "dateAdded": 1751525067541,
+                                "id": "653567",
+                                "index": 4,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "小程序-ShopXO开源商城uniapp端",
+                                "url": "https://gitee.com/zongzhige/shopxo-uniapp"
+                            },
+                            {
+                                "dateAdded": 1751525067543,
+                                "dateLastUsed": 1761011233489,
+                                "id": "653568",
+                                "index": 5,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "Vue-13个优秀的 Vue 开源项目及合集推荐",
+                                "url": "https://blog.csdn.net/lgno2/article/details/109446678"
+                            },
+                            {
+                                "dateAdded": 1751525067544,
+                                "id": "653569",
+                                "index": 6,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "React-整理一些基于React的开源项目",
+                                "url": "https://zhuanlan.zhihu.com/p/372750345"
+                            },
+                            {
+                                "dateAdded": 1751525067545,
+                                "id": "653570",
+                                "index": 7,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "RN-学习React Native必看的几个开源项目",
+                                "url": "https://www.cnblogs.com/qiangxia/p/5584622.html"
+                            },
+                            {
+                                "dateAdded": 1751525067546,
+                                "id": "653571",
+                                "index": 8,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "RN-基于 React Native 的创新开源项目",
+                                "url": "https://zhuanlan.zhihu.com/p/29050315"
+                            },
+                            {
+                                "dateAdded": 1751525067547,
+                                "id": "653572",
+                                "index": 9,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "React-react-admin: react开源项目",
+                                "url": "https://gitee.com/NightClown/react-admin"
+                            },
+                            {
+                                "dateAdded": 1751525067547,
+                                "id": "653573",
+                                "index": 10,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "前端-强烈推荐 GitHub 上值得学习的开源实战项目",
+                                "url": "https://www.shangmayuan.com/a/f052ba28c5154adfba4c5e75.html"
+                            },
+                            {
+                                "dateAdded": 1751525067548,
+                                "id": "653574",
+                                "index": 11,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "前端-移动端H5实现图片上传",
+                                "url": "https://segmentfault.com/a/1190000010034177"
+                            },
+                            {
+                                "dateAdded": 1751525067548,
+                                "dateLastUsed": 1761011382069,
+                                "id": "653575",
+                                "index": 12,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "Vue-vue-element-admin项目",
+                                "url": "https://panjiachen.github.io/vue-element-admin-site/zh/guide/#%E5%8A%9F%E8%83%BD"
+                            },
+                            {
+                                "dateAdded": 1751525067548,
+                                "id": "653576",
+                                "index": 13,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "前端-Ant Design Pro项目",
+                                "url": "https://pro.ant.design/zh-CN/docs/getting-started"
+                            },
+                            {
+                                "dateAdded": 1751525067549,
+                                "id": "653577",
+                                "index": 14,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "Vue-基于Vue的简易项目配置VuePress",
+                                "url": "https://www.vuepress.cn/guide/getting-started.html"
+                            },
+                            {
+                                "dateAdded": 1751525067550,
+                                "id": "653580",
+                                "index": 15,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "GitHub-x-render: 易用的中后台「表单 / 表格 / 图表」解决方案",
+                                "url": "https://github.com/alibaba/x-render"
+                            },
+                            {
+                                "dateAdded": 1751525067550,
+                                "id": "653581",
+                                "index": 16,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "react-推荐 12 个好用的 React 的开源项目",
+                                "url": "https://zhuanlan.zhihu.com/p/443880133"
+                            },
+                            {
+                                "dateAdded": 1751525067551,
+                                "id": "653582",
+                                "index": 17,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "GitHub - pure-admin/vue-pure-admin-全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+                                "url": "https://github.com/pure-admin/vue-pure-admin"
+                            },
+                            {
+                                "dateAdded": 1751525067551,
+                                "id": "653583",
+                                "index": 18,
+                                "parentId": "651975",
+                                "syncing": true,
+                                "title": "github-几个开源微信小程序",
+                                "url": "https://mp.weixin.qq.com/s/eJxNqt0QbZjhs-KAnGvc1w"
+                            }
+                        ],
+                        "dateAdded": 1751525066745,
+                        "dateGroupModified": 1761011376395,
+                        "id": "651975",
+                        "index": 6,
+                        "parentId": "651953",
+                        "syncing": true,
+                        "title": "模版"
                     },
                     {
                         "children": [
@@ -12416,7 +12585,7 @@
                         "dateAdded": 1751525066744,
                         "dateGroupModified": 1759111286176,
                         "id": "651972",
-                        "index": 6,
+                        "index": 7,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "官网"
@@ -15122,7 +15291,7 @@
                         "dateAdded": 1751525066744,
                         "dateGroupModified": 1760333032177,
                         "id": "651974",
-                        "index": 7,
+                        "index": 8,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "辅修"
@@ -15332,7 +15501,7 @@
                         "dateAdded": 1751525066744,
                         "dateGroupModified": 1758260595319,
                         "id": "651973",
-                        "index": 8,
+                        "index": 9,
                         "parentId": "651953",
                         "syncing": true,
                         "title": "教程"
@@ -15487,174 +15656,10 @@
                         "dateAdded": 1751525066746,
                         "dateGroupModified": 1751525067561,
                         "id": "651977",
-                        "index": 9,
-                        "parentId": "651953",
-                        "syncing": true,
-                        "title": "源码"
-                    },
-                    {
-                        "children": [
-                            {
-                                "dateAdded": 1751525067541,
-                                "id": "653567",
-                                "index": 0,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "小程序-ShopXO开源商城uniapp端",
-                                "url": "https://gitee.com/zongzhige/shopxo-uniapp"
-                            },
-                            {
-                                "dateAdded": 1751525067543,
-                                "id": "653568",
-                                "index": 1,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "Vue-13个优秀的 Vue 开源项目及合集推荐",
-                                "url": "https://blog.csdn.net/lgno2/article/details/109446678"
-                            },
-                            {
-                                "dateAdded": 1751525067544,
-                                "id": "653569",
-                                "index": 2,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "React-整理一些基于React的开源项目",
-                                "url": "https://zhuanlan.zhihu.com/p/372750345"
-                            },
-                            {
-                                "dateAdded": 1751525067545,
-                                "id": "653570",
-                                "index": 3,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "RN-学习React Native必看的几个开源项目",
-                                "url": "https://www.cnblogs.com/qiangxia/p/5584622.html"
-                            },
-                            {
-                                "dateAdded": 1751525067546,
-                                "id": "653571",
-                                "index": 4,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "RN-基于 React Native 的创新开源项目",
-                                "url": "https://zhuanlan.zhihu.com/p/29050315"
-                            },
-                            {
-                                "dateAdded": 1751525067547,
-                                "id": "653572",
-                                "index": 5,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "React-react-admin: react开源项目",
-                                "url": "https://gitee.com/NightClown/react-admin"
-                            },
-                            {
-                                "dateAdded": 1751525067547,
-                                "id": "653573",
-                                "index": 6,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "前端-强烈推荐 GitHub 上值得学习的开源实战项目",
-                                "url": "https://www.shangmayuan.com/a/f052ba28c5154adfba4c5e75.html"
-                            },
-                            {
-                                "dateAdded": 1751525067548,
-                                "id": "653574",
-                                "index": 7,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "前端-移动端H5实现图片上传",
-                                "url": "https://segmentfault.com/a/1190000010034177"
-                            },
-                            {
-                                "dateAdded": 1751525067548,
-                                "id": "653575",
-                                "index": 8,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "Vue-vue-element-admin项目",
-                                "url": "https://panjiachen.github.io/vue-element-admin-site/zh/guide/#%E5%8A%9F%E8%83%BD"
-                            },
-                            {
-                                "dateAdded": 1751525067548,
-                                "id": "653576",
-                                "index": 9,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "前端-Ant Design Pro项目",
-                                "url": "https://pro.ant.design/zh-CN/docs/getting-started"
-                            },
-                            {
-                                "dateAdded": 1751525067549,
-                                "id": "653577",
-                                "index": 10,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "Vue-基于Vue的简易项目配置VuePress",
-                                "url": "https://www.vuepress.cn/guide/getting-started.html"
-                            },
-                            {
-                                "dateAdded": 1751525067549,
-                                "id": "653578",
-                                "index": 11,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "项目-程序员接私活必备的10款开源前端后台框架",
-                                "url": "https://blog.csdn.net/kebi007/article/details/104041766?utm_term=%E5%89%8D%E7%AB%AF%E5%8F%AF%E4%BB%A5%E6%8E%A5%E7%A7%81%E6%B4%BB&utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-0-104041766&spm=3001.4430"
-                            },
-                            {
-                                "dateAdded": 1751525067550,
-                                "id": "653579",
-                                "index": 12,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "vue-admin-template-vue开源项目",
-                                "url": "https://github.com/topics/vue-admin-template"
-                            },
-                            {
-                                "dateAdded": 1751525067550,
-                                "id": "653580",
-                                "index": 13,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "GitHub-x-render: 易用的中后台「表单 / 表格 / 图表」解决方案",
-                                "url": "https://github.com/alibaba/x-render"
-                            },
-                            {
-                                "dateAdded": 1751525067550,
-                                "id": "653581",
-                                "index": 14,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "react-推荐 12 个好用的 React 的开源项目",
-                                "url": "https://zhuanlan.zhihu.com/p/443880133"
-                            },
-                            {
-                                "dateAdded": 1751525067551,
-                                "id": "653582",
-                                "index": 15,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "GitHub - pure-admin/vue-pure-admin-全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
-                                "url": "https://github.com/pure-admin/vue-pure-admin"
-                            },
-                            {
-                                "dateAdded": 1751525067551,
-                                "id": "653583",
-                                "index": 16,
-                                "parentId": "651975",
-                                "syncing": true,
-                                "title": "github-几个开源微信小程序",
-                                "url": "https://mp.weixin.qq.com/s/eJxNqt0QbZjhs-KAnGvc1w"
-                            }
-                        ],
-                        "dateAdded": 1751525066745,
-                        "dateGroupModified": 1751525067551,
-                        "id": "651975",
                         "index": 10,
                         "parentId": "651953",
                         "syncing": true,
-                        "title": "模版"
+                        "title": "源码"
                     },
                     {
                         "children": [
@@ -15862,7 +15867,7 @@
                     }
                 ],
                 "dateAdded": 1751525066737,
-                "dateGroupModified": 1760433008925,
+                "dateGroupModified": 1761011220563,
                 "id": "651953",
                 "index": 1,
                 "parentId": "1",
