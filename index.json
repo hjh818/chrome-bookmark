@@ -18017,6 +18017,26 @@
                     {
                         "children": [
                             {
+                                "dateAdded": 1761110640142,
+                                "id": "653978",
+                                "index": 0,
+                                "parentId": "653977",
+                                "syncing": true,
+                                "title": "整理资料-智能选址",
+                                "url": "https://docs.qq.com/doc/DS0FmSUpsamN3b0ha?no_promotion=1"
+                            }
+                        ],
+                        "dateAdded": 1761110577333,
+                        "dateGroupModified": 1761110660536,
+                        "id": "653977",
+                        "index": 17,
+                        "parentId": "653798",
+                        "syncing": true,
+                        "title": "智能选址"
+                    },
+                    {
+                        "children": [
+                            {
                                 "dateAdded": 1756781994233,
                                 "dateLastUsed": 1759990026978,
                                 "id": "653910",
@@ -18030,14 +18050,14 @@
                         "dateAdded": 1755598579398,
                         "dateGroupModified": 1756882372021,
                         "id": "653882",
-                        "index": 17,
+                        "index": 18,
                         "parentId": "653798",
                         "syncing": true,
                         "title": "OKR"
                     }
                 ],
                 "dateAdded": 1753148256576,
-                "dateGroupModified": 1760706853201,
+                "dateGroupModified": 1761110640142,
                 "id": "653798",
                 "index": 7,
                 "parentId": "1",
