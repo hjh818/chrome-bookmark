@@ -17394,29 +17394,9 @@
                         "url": "https://echarts.apache.org/zh/tutorial.html#5%20%E5%88%86%E9%92%9F%E4%B8%8A%E6%89%8B%20ECharts"
                     },
                     {
-                        "dateAdded": 1751525067216,
-                        "dateLastUsed": 1754988738071,
-                        "id": "652807",
-                        "index": 9,
-                        "parentId": "653831",
-                        "syncing": true,
-                        "title": "ECharts-中国地图（无敌详细）",
-                        "url": "https://blog.csdn.net/qq_45066453/article/details/129479541"
-                    },
-                    {
-                        "dateAdded": 1751525067256,
-                        "dateLastUsed": 1754988751689,
-                        "id": "652910",
-                        "index": 10,
-                        "parentId": "653831",
-                        "syncing": true,
-                        "title": "小程序-Echarts使用（保姆式教程）",
-                        "url": "https://blog.csdn.net/hh867308122/article/details/131222122"
-                    },
-                    {
                         "dateAdded": 1755180149140,
                         "id": "653857",
-                        "index": 11,
+                        "index": 9,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "Chart.js-图表",
@@ -17425,7 +17405,7 @@
                     {
                         "dateAdded": 1751525067382,
                         "id": "653238",
-                        "index": 12,
+                        "index": 10,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "three.js-VR物联网3D可视化",
@@ -17434,7 +17414,7 @@
                     {
                         "dateAdded": 1755252584595,
                         "id": "653858",
-                        "index": 13,
+                        "index": 11,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "D3-用于定制数据可视化的 JavaScript 库",
@@ -17444,7 +17424,7 @@
                         "dateAdded": 1755180071166,
                         "dateLastUsed": 1755252443471,
                         "id": "653856",
-                        "index": 14,
+                        "index": 12,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "d3.js API -D3数据可视化",
@@ -17454,7 +17434,7 @@
                         "dateAdded": 1751525066901,
                         "dateLastUsed": 1758779093220,
                         "id": "652251",
-                        "index": 15,
+                        "index": 13,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "Vue-vuedraggable拖拽（例如详情/列表拖拽成型）",
@@ -17464,7 +17444,7 @@
                         "dateAdded": 1755677730760,
                         "dateLastUsed": 1755745203874,
                         "id": "653886",
-                        "index": 16,
+                        "index": 14,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "腾讯位置服务-JavaScript API GL-功能说明",
@@ -17474,7 +17454,7 @@
                         "dateAdded": 1755497373093,
                         "dateLastUsed": 1755745968958,
                         "id": "653871",
-                        "index": 17,
+                        "index": 15,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "腾讯位置服务-JS API-方法使用事例",
@@ -17483,7 +17463,7 @@
                     {
                         "dateAdded": 1755497406651,
                         "id": "653872",
-                        "index": 18,
+                        "index": 16,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "腾讯位置服务-首页",
@@ -17556,12 +17536,32 @@
                                 "syncing": true,
                                 "title": "低代码编辑器的前端开发，难度值不低",
                                 "url": "https://blog.csdn.net/m0_57344393/article/details/139646512"
+                            },
+                            {
+                                "dateAdded": 1751525067216,
+                                "dateLastUsed": 1754988738071,
+                                "id": "652807",
+                                "index": 7,
+                                "parentId": "653859",
+                                "syncing": true,
+                                "title": "ECharts-中国地图（无敌详细）",
+                                "url": "https://blog.csdn.net/qq_45066453/article/details/129479541"
+                            },
+                            {
+                                "dateAdded": 1751525067256,
+                                "dateLastUsed": 1754988751689,
+                                "id": "652910",
+                                "index": 8,
+                                "parentId": "653859",
+                                "syncing": true,
+                                "title": "小程序-Echarts使用（保姆式教程）",
+                                "url": "https://blog.csdn.net/hh867308122/article/details/131222122"
                             }
                         ],
                         "dateAdded": 1755252705512,
-                        "dateGroupModified": 1760148017553,
+                        "dateGroupModified": 1761110451289,
                         "id": "653859",
-                        "index": 19,
+                        "index": 17,
                         "parentId": "653831",
                         "syncing": true,
                         "title": "了解"
@@ -17608,7 +17608,7 @@
                     },
                     {
                         "dateAdded": 1753149247201,
-                        "dateLastUsed": 1760338609823,
+                        "dateLastUsed": 1761028299876,
                         "id": "653803",
                         "index": 3,
                         "parentId": "653798",
@@ -17757,7 +17757,7 @@
                             },
                             {
                                 "dateAdded": 1753440564495,
-                                "dateLastUsed": 1760924407415,
+                                "dateLastUsed": 1761065845276,
                                 "id": "653833",
                                 "index": 4,
                                 "parentId": "653874",
