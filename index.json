@@ -17370,19 +17370,9 @@
                                     },
                                     {
                                         "dateAdded": 1751525067602,
-                                        "dateLastUsed": 1761888133676,
-                                        "id": "653697",
-                                        "index": 2,
-                                        "parentId": "652201",
-                                        "syncing": true,
-                                        "title": "DeepSeek | 深度求索",
-                                        "url": "https://www.deepseek.com/"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067602,
                                         "dateLastUsed": 1760690579926,
                                         "id": "653698",
-                                        "index": 3,
+                                        "index": 2,
                                         "parentId": "652201",
                                         "syncing": true,
                                         "title": "AI-文心一言",
@@ -17391,7 +17381,7 @@
                                     {
                                         "dateAdded": 1751525067602,
                                         "id": "653699",
-                                        "index": 4,
+                                        "index": 3,
                                         "parentId": "652201",
                                         "syncing": true,
                                         "title": "开拍-创作自己的数字人短视频",
@@ -17400,7 +17390,7 @@
                                     {
                                         "dateAdded": 1751525067602,
                                         "id": "653700",
-                                        "index": 5,
+                                        "index": 4,
                                         "parentId": "652201",
                                         "syncing": true,
                                         "title": "即梦AI-一键生成短视频和动画",
@@ -17409,7 +17399,7 @@
                                     {
                                         "dateAdded": 1751525067603,
                                         "id": "653701",
-                                        "index": 6,
+                                        "index": 5,
                                         "parentId": "652201",
                                         "syncing": true,
                                         "title": "MJ-设计师的王炸组合",
@@ -17418,7 +17408,7 @@
                                     {
                                         "dateAdded": 1751959177222,
                                         "id": "653781",
-                                        "index": 7,
+                                        "index": 6,
                                         "parentId": "652201",
                                         "syncing": true,
                                         "title": "千帆大模型平台-百度智能云千帆",
@@ -17798,10 +17788,20 @@
                 "syncing": true,
                 "title": "豆包",
                 "url": "https://www.doubao.com/chat/"
+            },
+            {
+                "dateAdded": 1751525067602,
+                "dateLastUsed": 1761888133676,
+                "id": "653697",
+                "index": 4,
+                "parentId": "1",
+                "syncing": true,
+                "title": "DeepSeek",
+                "url": "https://www.deepseek.com/"
             }
         ],
         "dateAdded": 1647932752666,
-        "dateGroupModified": 1761889093095,
+        "dateGroupModified": 1762148752575,
         "folderType": "bookmarks-bar",
         "id": "1",
         "index": 0,
