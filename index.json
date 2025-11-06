@@ -10102,7 +10102,7 @@
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1762355303485,
+                        "dateGroupModified": 1762391292588,
                         "id": "651967",
                         "index": 4,
                         "parentId": "651951",
@@ -15568,10 +15568,19 @@
                                         "syncing": true,
                                         "title": "vue3-编写组件的几种方式",
                                         "url": "https://blog.csdn.net/qq_45787691/article/details/127301805"
+                                    },
+                                    {
+                                        "dateAdded": 1762391292588,
+                                        "id": "653991",
+                                        "index": 299,
+                                        "parentId": "651974",
+                                        "syncing": true,
+                                        "title": "前端-class应用场景",
+                                        "url": "https://blog.csdn.net/weixin_48221903/article/details/151864971"
                                     }
                                 ],
                                 "dateAdded": 1751525066744,
-                                "dateGroupModified": 1760333032177,
+                                "dateGroupModified": 1762391326301,
                                 "id": "651974",
                                 "index": 8,
                                 "parentId": "651953",
