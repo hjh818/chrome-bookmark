@@ -17444,9 +17444,18 @@
                             {
                                 "children": [
                                     {
+                                        "dateAdded": 1762498813153,
+                                        "id": "653994",
+                                        "index": 0,
+                                        "parentId": "652202",
+                                        "syncing": true,
+                                        "title": "什么是 TRAE ？--TRAE-火山引擎",
+                                        "url": "https://www.volcengine.com/docs/86677/1836840"
+                                    },
+                                    {
                                         "dateAdded": 1751525067603,
                                         "id": "653702",
-                                        "index": 0,
+                                        "index": 1,
                                         "parentId": "652202",
                                         "syncing": true,
                                         "title": "cursor教程-给0代码基础小白的Cursor使用教程",
@@ -17455,7 +17464,7 @@
                                     {
                                         "dateAdded": 1751525067603,
                                         "id": "653703",
-                                        "index": 1,
+                                        "index": 2,
                                         "parentId": "652202",
                                         "syncing": true,
                                         "title": "如何利用Deepseek搞钱？3种思维8套搭配，堪称王炸组合 - 知乎",
@@ -17464,7 +17473,7 @@
                                     {
                                         "dateAdded": 1751958817027,
                                         "id": "653780",
-                                        "index": 2,
+                                        "index": 3,
                                         "parentId": "652202",
                                         "syncing": true,
                                         "title": "DeepSeek-原理介绍",
@@ -17472,7 +17481,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066868,
-                                "dateGroupModified": 1751959177222,
+                                "dateGroupModified": 1762498825673,
                                 "id": "652202",
                                 "index": 1,
                                 "parentId": "651966",
@@ -17492,7 +17501,7 @@
                                     }
                                 ],
                                 "dateAdded": 1762497671496,
-                                "dateGroupModified": 1762497845543,
+                                "dateGroupModified": 1762498813153,
                                 "id": "653992",
                                 "index": 2,
                                 "parentId": "651966",
