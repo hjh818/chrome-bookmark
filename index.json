@@ -17478,10 +17478,30 @@
                                 "parentId": "651966",
                                 "syncing": true,
                                 "title": "了解-AI"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "dateAdded": 1762497817291,
+                                        "id": "653993",
+                                        "index": 0,
+                                        "parentId": "653992",
+                                        "syncing": true,
+                                        "title": "Context7-use context7生成最新包的代码",
+                                        "url": "https://context7.com/"
+                                    }
+                                ],
+                                "dateAdded": 1762497671496,
+                                "dateGroupModified": 1762497845543,
+                                "id": "653992",
+                                "index": 2,
+                                "parentId": "651966",
+                                "syncing": true,
+                                "title": "MCP"
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1751525066868,
+                        "dateGroupModified": 1762497817291,
                         "id": "651966",
                         "index": 4,
                         "parentId": "653986",
