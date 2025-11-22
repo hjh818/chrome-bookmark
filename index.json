@@ -297,7 +297,7 @@
                                     },
                                     {
                                         "dateAdded": 1751525067572,
-                                        "dateLastUsed": 1763082979054,
+                                        "dateLastUsed": 1763775630160,
                                         "id": "653633",
                                         "index": 14,
                                         "parentId": "652018",
@@ -335,7 +335,7 @@
                                     },
                                     {
                                         "dateAdded": 1760706853201,
-                                        "dateLastUsed": 1763704322250,
+                                        "dateLastUsed": 1763774585908,
                                         "id": "653973",
                                         "index": 18,
                                         "parentId": "652018",
@@ -522,7 +522,7 @@
                                     },
                                     {
                                         "dateAdded": 1759110658626,
-                                        "dateLastUsed": 1763556901136,
+                                        "dateLastUsed": 1763775242188,
                                         "id": "653951",
                                         "index": 38,
                                         "parentId": "652018",
@@ -17549,7 +17549,7 @@
                             },
                             {
                                 "dateAdded": 1755744947515,
-                                "dateLastUsed": 1757556420303,
+                                "dateLastUsed": 1763718822995,
                                 "id": "653887",
                                 "index": 2,
                                 "parentId": "653831",
@@ -17661,33 +17661,13 @@
                                 "url": "https://sortablejs.github.io/Vue.Draggable/#/transition-example"
                             },
                             {
-                                "dateAdded": 1755677730760,
-                                "dateLastUsed": 1755745203874,
-                                "id": "653886",
+                                "dateAdded": 1763718075085,
+                                "id": "653997",
                                 "index": 14,
                                 "parentId": "653831",
                                 "syncing": true,
-                                "title": "腾讯位置服务-JavaScript API GL-功能说明",
-                                "url": "https://lbs.qq.com/webApi/javascriptGL/glGuide/glOverview"
-                            },
-                            {
-                                "dateAdded": 1755497373093,
-                                "dateLastUsed": 1763717252280,
-                                "id": "653871",
-                                "index": 15,
-                                "parentId": "653831",
-                                "syncing": true,
-                                "title": "腾讯位置服务-JS API-方法使用事例",
-                                "url": "https://lbs.qq.com/webDemoCenter/javascriptV2/libraries/drawingLibrary"
-                            },
-                            {
-                                "dateAdded": 1755497406651,
-                                "id": "653872",
-                                "index": 16,
-                                "parentId": "653831",
-                                "syncing": true,
-                                "title": "腾讯位置服务-首页",
-                                "url": "https://lbs.qq.com/"
+                                "title": "腾讯位置服务-开发文档",
+                                "url": "https://lbs.qq.com/docs-square/"
                             },
                             {
                                 "children": [
@@ -17781,23 +17761,14 @@
                                 "dateAdded": 1755252705512,
                                 "dateGroupModified": 1761110451289,
                                 "id": "653859",
-                                "index": 17,
+                                "index": 15,
                                 "parentId": "653831",
                                 "syncing": true,
                                 "title": "了解"
-                            },
-                            {
-                                "dateAdded": 1763718075085,
-                                "id": "653997",
-                                "index": 18,
-                                "parentId": "653831",
-                                "syncing": true,
-                                "title": "腾讯位置服务-开发文档",
-                                "url": "https://lbs.qq.com/docs-square/"
                             }
                         ],
                         "dateAdded": 1753435092066,
-                        "dateGroupModified": 1763718094098,
+                        "dateGroupModified": 1763777388041,
                         "id": "653831",
                         "index": 5,
                         "parentId": "653986",
