@@ -335,7 +335,7 @@
                                     },
                                     {
                                         "dateAdded": 1760706853201,
-                                        "dateLastUsed": 1764669406042,
+                                        "dateLastUsed": 1764729420658,
                                         "id": "653973",
                                         "index": 18,
                                         "parentId": "652018",
@@ -10117,10 +10117,19 @@
                                 "syncing": true,
                                 "title": "全网最新免费开源的ocr-文字识别开源项目盘点整理，附项目开源地址，支持离线部署使用，支持多种语言识别和API调用以及第三方集成，支持各种证件、发票、通用模型识别，支持复杂文本、各种图片、文档、长文本等",
                                 "url": "https://blog.51cto.com/u_12763213/11265682"
+                            },
+                            {
+                                "dateAdded": 1764729740921,
+                                "id": "654001",
+                                "index": 933,
+                                "parentId": "651967",
+                                "syncing": true,
+                                "title": "前端-智能识别解析粘贴板内容",
+                                "url": "https://blog.csdn.net/qq_43682422/article/details/145548317"
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1764724457681,
+                        "dateGroupModified": 1764729740921,
                         "id": "651967",
                         "index": 4,
                         "parentId": "651951",
@@ -17858,7 +17867,7 @@
             },
             {
                 "dateAdded": 1751525067602,
-                "dateLastUsed": 1764566770750,
+                "dateLastUsed": 1764725104992,
                 "id": "653697",
                 "index": 4,
                 "parentId": "1",
