@@ -10126,10 +10126,19 @@
                                 "syncing": true,
                                 "title": "前端-智能识别解析粘贴板内容",
                                 "url": "https://blog.csdn.net/qq_43682422/article/details/145548317"
+                            },
+                            {
+                                "dateAdded": 1764745355921,
+                                "id": "654002",
+                                "index": 934,
+                                "parentId": "651967",
+                                "syncing": true,
+                                "title": "OCR-一文读懂文字识别（OCR）",
+                                "url": "https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247484585&idx=1&sn=0a9669879711f6c95f54574b4ef0a16f&chksm=e9e20d22de9584344fbb65d0d70ded13d24adc4bd67032296c6537a43adf6f9157ad55edbe3f&scene=27"
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1764729740921,
+                        "dateGroupModified": 1764745355921,
                         "id": "651967",
                         "index": 4,
                         "parentId": "651951",
