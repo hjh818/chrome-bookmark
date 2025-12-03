@@ -335,7 +335,7 @@
                                     },
                                     {
                                         "dateAdded": 1760706853201,
-                                        "dateLastUsed": 1764663613086,
+                                        "dateLastUsed": 1764669406042,
                                         "id": "653973",
                                         "index": 18,
                                         "parentId": "652018",
@@ -10108,10 +10108,19 @@
                                 "syncing": true,
                                 "title": "前端-适合后端和前端，现代化打包工具总结",
                                 "url": "https://mp.weixin.qq.com/s/azm7gtw3dbC5TE176g1Zog"
+                            },
+                            {
+                                "dateAdded": 1764724431864,
+                                "id": "654000",
+                                "index": 932,
+                                "parentId": "651967",
+                                "syncing": true,
+                                "title": "全网最新免费开源的ocr-文字识别开源项目盘点整理，附项目开源地址，支持离线部署使用，支持多种语言识别和API调用以及第三方集成，支持各种证件、发票、通用模型识别，支持复杂文本、各种图片、文档、长文本等",
+                                "url": "https://blog.51cto.com/u_12763213/11265682"
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1763718075085,
+                        "dateGroupModified": 1764724457681,
                         "id": "651967",
                         "index": 4,
                         "parentId": "651951",
@@ -11130,7 +11139,7 @@
                             }
                         ],
                         "dateAdded": 1753148256576,
-                        "dateGroupModified": 1764568666317,
+                        "dateGroupModified": 1764724431864,
                         "id": "653798",
                         "index": 0,
                         "parentId": "653986",
