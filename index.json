@@ -11138,7 +11138,7 @@
                                 "children": [
                                     {
                                         "dateAdded": 1761110640142,
-                                        "dateLastUsed": 1765637105517,
+                                        "dateLastUsed": 1765952756800,
                                         "id": "653978",
                                         "index": 0,
                                         "parentId": "653977",
@@ -17466,7 +17466,7 @@
                             }
                         ],
                         "dateAdded": 1751525066738,
-                        "dateGroupModified": 1765874397386,
+                        "dateGroupModified": 1765955259580,
                         "id": "651954",
                         "index": 3,
                         "parentId": "653986",
@@ -17937,17 +17937,26 @@
             },
             {
                 "dateAdded": 1751525067602,
-                "dateLastUsed": 1765942038152,
+                "dateLastUsed": 1765951992383,
                 "id": "653697",
                 "index": 4,
                 "parentId": "1",
                 "syncing": true,
                 "title": "DeepSeek",
                 "url": "https://www.deepseek.com/"
+            },
+            {
+                "dateAdded": 1765955259580,
+                "id": "654012",
+                "index": 5,
+                "parentId": "1",
+                "syncing": true,
+                "title": "百度翻译",
+                "url": "https://fanyi.baidu.com/mtpe-individual/transText?query=gradlew&lang=en2zh&ext_channel=Aldtype"
             }
         ],
         "dateAdded": 1647932752666,
-        "dateGroupModified": 1762355271041,
+        "dateGroupModified": 1765955269954,
         "folderType": "bookmarks-bar",
         "id": "1",
         "index": 0,
