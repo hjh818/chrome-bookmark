@@ -335,7 +335,7 @@
                                     },
                                     {
                                         "dateAdded": 1760706853201,
-                                        "dateLastUsed": 1765890458295,
+                                        "dateLastUsed": 1765965683030,
                                         "id": "653973",
                                         "index": 18,
                                         "parentId": "652018",
@@ -10281,10 +10281,19 @@
                                 "syncing": true,
                                 "title": "FileZilla中文网 - 免费开源的FTP解决方案",
                                 "url": "https://www.filezilla.cn/"
+                            },
+                            {
+                                "dateAdded": 1766048311736,
+                                "id": "654013",
+                                "index": 15,
+                                "parentId": "651961",
+                                "syncing": true,
+                                "title": "cursor等续杯软件",
+                                "url": "https://www.xxdlzs.top/"
                             }
                         ],
                         "dateAdded": 1751525066739,
-                        "dateGroupModified": 1751525066855,
+                        "dateGroupModified": 1766048337039,
                         "id": "651961",
                         "index": 5,
                         "parentId": "651951",
@@ -10764,7 +10773,7 @@
                             },
                             {
                                 "dateAdded": 1765761237542,
-                                "dateLastUsed": 1765789744941,
+                                "dateLastUsed": 1766039510374,
                                 "id": "654007",
                                 "index": 8,
                                 "parentId": "653798",
@@ -10804,7 +10813,7 @@
                             },
                             {
                                 "dateAdded": 1753173030309,
-                                "dateLastUsed": 1765875320021,
+                                "dateLastUsed": 1765958136522,
                                 "id": "653815",
                                 "index": 12,
                                 "parentId": "653798",
@@ -10857,7 +10866,7 @@
                                     },
                                     {
                                         "dateAdded": 1755850536502,
-                                        "dateLastUsed": 1765507892976,
+                                        "dateLastUsed": 1765964873664,
                                         "id": "653891",
                                         "index": 1,
                                         "parentId": "653874",
@@ -17956,7 +17965,7 @@
             }
         ],
         "dateAdded": 1647932752666,
-        "dateGroupModified": 1765955269954,
+        "dateGroupModified": 1766048311736,
         "folderType": "bookmarks-bar",
         "id": "1",
         "index": 0,
