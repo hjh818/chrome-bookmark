@@ -10135,10 +10135,19 @@
                                 "syncing": true,
                                 "title": "OCR-一文读懂文字识别（OCR）",
                                 "url": "https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247484585&idx=1&sn=0a9669879711f6c95f54574b4ef0a16f&chksm=e9e20d22de9584344fbb65d0d70ded13d24adc4bd67032296c6537a43adf6f9157ad55edbe3f&scene=27"
+                            },
+                            {
+                                "dateAdded": 1766456580817,
+                                "id": "654016",
+                                "index": 935,
+                                "parentId": "651967",
+                                "syncing": true,
+                                "title": "IOS-如何用Xcode导出ipa包",
+                                "url": "https://www.cnblogs.com/wodehao0808/p/12510760.html"
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1764925552348,
+                        "dateGroupModified": 1766456616733,
                         "id": "651967",
                         "index": 4,
                         "parentId": "651951",
@@ -11167,7 +11176,7 @@
                                     }
                                 ],
                                 "dateAdded": 1761110577333,
-                                "dateGroupModified": 1766369758785,
+                                "dateGroupModified": 1766456580817,
                                 "id": "653977",
                                 "index": 18,
                                 "parentId": "653798",
