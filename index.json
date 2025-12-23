@@ -10144,10 +10144,19 @@
                                 "syncing": true,
                                 "title": "IOS-如何用Xcode导出ipa包",
                                 "url": "https://www.cnblogs.com/wodehao0808/p/12510760.html"
+                            },
+                            {
+                                "dateAdded": 1766456695158,
+                                "id": "654017",
+                                "index": 936,
+                                "parentId": "651967",
+                                "syncing": true,
+                                "title": "ios-导出ipa问题总结",
+                                "url": "https://blog.csdn.net/chali1314/article/details/112555748"
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1766456616733,
+                        "dateGroupModified": 1766456695158,
                         "id": "651967",
                         "index": 4,
                         "parentId": "651951",
