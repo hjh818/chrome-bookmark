@@ -10165,7 +10165,7 @@
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1766457419848,
+                        "dateGroupModified": 1766539233778,
                         "id": "651967",
                         "index": 4,
                         "parentId": "651951",
@@ -12551,10 +12551,19 @@
                                         "url": "https://gitee.com/dromara/RuoYi-Vue-Plus"
                                     },
                                     {
+                                        "dateAdded": 1766539233778,
+                                        "id": "654019",
+                                        "index": 2,
+                                        "parentId": "651975",
+                                        "syncing": true,
+                                        "title": "Vue3-5个好看的vue3后台管理模板",
+                                        "url": "https://www.cnblogs.com/fqh123/p/18340943"
+                                    },
+                                    {
                                         "dateAdded": 1751525067548,
                                         "dateLastUsed": 1762408633188,
                                         "id": "653575",
-                                        "index": 2,
+                                        "index": 3,
                                         "parentId": "651975",
                                         "syncing": true,
                                         "title": "Vue-vue-element-admin项目",
@@ -12564,7 +12573,7 @@
                                         "dateAdded": 1751525067550,
                                         "dateLastUsed": 1766131203275,
                                         "id": "653579",
-                                        "index": 3,
+                                        "index": 4,
                                         "parentId": "651975",
                                         "syncing": true,
                                         "title": "vue-admin-template-vue开源相关项目",
@@ -12574,7 +12583,7 @@
                                         "dateAdded": 1751525067549,
                                         "dateLastUsed": 1761011295858,
                                         "id": "653578",
-                                        "index": 4,
+                                        "index": 5,
                                         "parentId": "651975",
                                         "syncing": true,
                                         "title": "项目-程序员接私活必备的10款开源前端后台框架",
@@ -12583,7 +12592,7 @@
                                     {
                                         "dateAdded": 1751525067541,
                                         "id": "653567",
-                                        "index": 5,
+                                        "index": 6,
                                         "parentId": "651975",
                                         "syncing": true,
                                         "title": "小程序-ShopXO开源商城uniapp端",
@@ -12593,7 +12602,7 @@
                                         "dateAdded": 1751525067543,
                                         "dateLastUsed": 1761011233489,
                                         "id": "653568",
-                                        "index": 6,
+                                        "index": 7,
                                         "parentId": "651975",
                                         "syncing": true,
                                         "title": "Vue-13个优秀的 Vue 开源项目及合集推荐",
@@ -12602,7 +12611,7 @@
                                     {
                                         "dateAdded": 1751525067544,
                                         "id": "653569",
-                                        "index": 7,
+                                        "index": 8,
                                         "parentId": "651975",
                                         "syncing": true,
                                         "title": "React-整理一些基于React的开源项目",
@@ -12611,7 +12620,7 @@
                                     {
                                         "dateAdded": 1751525067545,
                                         "id": "653570",
-                                        "index": 8,
+                                        "index": 9,
                                         "parentId": "651975",
                                         "syncing": true,
                                         "title": "RN-学习React Native必看的几个开源项目",
@@ -12620,7 +12629,7 @@
                                     {
                                         "dateAdded": 1751525067546,
                                         "id": "653571",
-                                        "index": 9,
+                                        "index": 10,
                                         "parentId": "651975",
                                         "syncing": true,
                                         "title": "RN-基于 React Native 的创新开源项目",
@@ -12629,7 +12638,7 @@
                                     {
                                         "dateAdded": 1751525067547,
                                         "id": "653572",
-                                        "index": 10,
+                                        "index": 11,
                                         "parentId": "651975",
                                         "syncing": true,
                                         "title": "React-react-admin: react开源项目",
@@ -12638,7 +12647,7 @@
                                     {
                                         "dateAdded": 1751525067547,
                                         "id": "653573",
-                                        "index": 11,
+                                        "index": 12,
                                         "parentId": "651975",
                                         "syncing": true,
                                         "title": "前端-强烈推荐 GitHub 上值得学习的开源实战项目",
@@ -12647,7 +12656,7 @@
                                     {
                                         "dateAdded": 1751525067548,
                                         "id": "653574",
-                                        "index": 12,
+                                        "index": 13,
                                         "parentId": "651975",
                                         "syncing": true,
                                         "title": "前端-移动端H5实现图片上传",
@@ -12656,7 +12665,7 @@
                                     {
                                         "dateAdded": 1751525067548,
                                         "id": "653576",
-                                        "index": 13,
+                                        "index": 14,
                                         "parentId": "651975",
                                         "syncing": true,
                                         "title": "前端-Ant Design Pro项目",
@@ -12665,7 +12674,7 @@
                                     {
                                         "dateAdded": 1751525067549,
                                         "id": "653577",
-                                        "index": 14,
+                                        "index": 15,
                                         "parentId": "651975",
                                         "syncing": true,
                                         "title": "Vue-基于Vue的简易项目配置VuePress",
@@ -12674,7 +12683,7 @@
                                     {
                                         "dateAdded": 1751525067550,
                                         "id": "653580",
-                                        "index": 15,
+                                        "index": 16,
                                         "parentId": "651975",
                                         "syncing": true,
                                         "title": "GitHub-x-render: 易用的中后台「表单 / 表格 / 图表」解决方案",
@@ -12683,7 +12692,7 @@
                                     {
                                         "dateAdded": 1751525067550,
                                         "id": "653581",
-                                        "index": 16,
+                                        "index": 17,
                                         "parentId": "651975",
                                         "syncing": true,
                                         "title": "react-推荐 12 个好用的 React 的开源项目",
@@ -12692,7 +12701,7 @@
                                     {
                                         "dateAdded": 1751525067551,
                                         "id": "653582",
-                                        "index": 17,
+                                        "index": 18,
                                         "parentId": "651975",
                                         "syncing": true,
                                         "title": "GitHub - pure-admin/vue-pure-admin-全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
@@ -12701,7 +12710,7 @@
                                     {
                                         "dateAdded": 1751525067551,
                                         "id": "653583",
-                                        "index": 18,
+                                        "index": 19,
                                         "parentId": "651975",
                                         "syncing": true,
                                         "title": "github-几个开源微信小程序",
@@ -12709,7 +12718,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066745,
-                                "dateGroupModified": 1762408629542,
+                                "dateGroupModified": 1766539261340,
                                 "id": "651975",
                                 "index": 6,
                                 "parentId": "651953",
@@ -17964,7 +17973,7 @@
             },
             {
                 "dateAdded": 1751525066734,
-                "dateLastUsed": 1766459293625,
+                "dateLastUsed": 1766545715662,
                 "id": "651952",
                 "index": 2,
                 "parentId": "1",
