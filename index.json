@@ -1428,17 +1428,8 @@
                             },
                             {
                                 "dateAdded": 1751525066821,
-                                "id": "652124",
-                                "index": 12,
-                                "parentId": "651958",
-                                "syncing": true,
-                                "title": "语雀",
-                                "url": "https://www.yuque.com/login?goto=https%3A%2F%2Fwww.yuque.com%2Fdashboard"
-                            },
-                            {
-                                "dateAdded": 1751525066821,
                                 "id": "652125",
-                                "index": 13,
+                                "index": 12,
                                 "parentId": "651958",
                                 "syncing": true,
                                 "title": "GitHub",
@@ -1447,7 +1438,7 @@
                             {
                                 "dateAdded": 1751525066821,
                                 "id": "652126",
-                                "index": 14,
+                                "index": 13,
                                 "parentId": "651958",
                                 "syncing": true,
                                 "title": "V2EX-技术交流网站",
@@ -1456,7 +1447,7 @@
                             {
                                 "dateAdded": 1751525066822,
                                 "id": "652127",
-                                "index": 15,
+                                "index": 14,
                                 "parentId": "651958",
                                 "syncing": true,
                                 "title": "OSCHINA - 中文开源技术交流社区",
@@ -1465,7 +1456,7 @@
                             {
                                 "dateAdded": 1751525066822,
                                 "id": "652128",
-                                "index": 16,
+                                "index": 15,
                                 "parentId": "651958",
                                 "syncing": true,
                                 "title": "码云笔记-前端技术交流网站",
@@ -1474,7 +1465,7 @@
                             {
                                 "dateAdded": 1751525066822,
                                 "id": "652129",
-                                "index": 17,
+                                "index": 16,
                                 "parentId": "651958",
                                 "syncing": true,
                                 "title": "Coursera-面向大学生教学的网站",
@@ -1483,7 +1474,7 @@
                             {
                                 "dateAdded": 1751525066823,
                                 "id": "652130",
-                                "index": 18,
+                                "index": 17,
                                 "parentId": "651958",
                                 "syncing": true,
                                 "title": "Golang中文社区",
@@ -1492,7 +1483,7 @@
                             {
                                 "dateAdded": 1751525066823,
                                 "id": "652131",
-                                "index": 19,
+                                "index": 18,
                                 "parentId": "651958",
                                 "syncing": true,
                                 "title": "Vue Forum-vue项目拓展和问题论坛",
@@ -1501,7 +1492,7 @@
                             {
                                 "dateAdded": 1751525066824,
                                 "id": "652132",
-                                "index": 20,
+                                "index": 19,
                                 "parentId": "651958",
                                 "syncing": true,
                                 "title": "Best of JS-js优秀项目或插件",
@@ -1510,7 +1501,7 @@
                             {
                                 "dateAdded": 1751525066824,
                                 "id": "652133",
-                                "index": 21,
+                                "index": 20,
                                 "parentId": "651958",
                                 "syncing": true,
                                 "title": "JavaScript Weekly-js周刊",
@@ -1519,7 +1510,7 @@
                             {
                                 "dateAdded": 1751525066824,
                                 "id": "652134",
-                                "index": 22,
+                                "index": 21,
                                 "parentId": "651958",
                                 "syncing": true,
                                 "title": "30 seconds of code-js精简代码",
@@ -1528,7 +1519,7 @@
                             {
                                 "dateAdded": 1751525066827,
                                 "id": "652135",
-                                "index": 23,
+                                "index": 22,
                                 "parentId": "651958",
                                 "syncing": true,
                                 "title": "Web Skills-前端知识库导航",
@@ -1537,7 +1528,7 @@
                             {
                                 "dateAdded": 1751525066827,
                                 "id": "652136",
-                                "index": 24,
+                                "index": 23,
                                 "parentId": "651958",
                                 "syncing": true,
                                 "title": "有道-学术资源-链接集合",
@@ -1546,7 +1537,7 @@
                             {
                                 "dateAdded": 1751525066828,
                                 "id": "652137",
-                                "index": 25,
+                                "index": 24,
                                 "parentId": "651958",
                                 "syncing": true,
                                 "title": "犀牛前端部落-最全学习前端教程网",
@@ -1555,7 +1546,7 @@
                             {
                                 "dateAdded": 1751525066830,
                                 "id": "652138",
-                                "index": 26,
+                                "index": 25,
                                 "parentId": "651958",
                                 "syncing": true,
                                 "title": "学编程-前后端编程学习网站",
@@ -1564,7 +1555,7 @@
                             {
                                 "dateAdded": 1751525066830,
                                 "id": "652139",
-                                "index": 27,
+                                "index": 26,
                                 "parentId": "651958",
                                 "syncing": true,
                                 "title": "‍​⁡​⁢​﻿​‬⁢‬⁣⁡⁤​⁢​​​‌‌​⁣﻿‬⁡⁣‬​﻿‍⁤⁤⁤⁤⁡‬﻿⁤‍⁡‬‌​​​​‍ChatGPT-学习精华内容汇总",
@@ -1573,7 +1564,7 @@
                             {
                                 "dateAdded": 1751525066830,
                                 "id": "652140",
-                                "index": 28,
+                                "index": 27,
                                 "parentId": "651958",
                                 "syncing": true,
                                 "title": "Flutter-中文社区",
@@ -1582,7 +1573,7 @@
                             {
                                 "dateAdded": 1751525066831,
                                 "id": "652141",
-                                "index": 29,
+                                "index": 28,
                                 "parentId": "651958",
                                 "syncing": true,
                                 "title": "前端圈—打造专业的前端技术会议",
@@ -1591,7 +1582,7 @@
                             {
                                 "dateAdded": 1751525066831,
                                 "id": "652142",
-                                "index": 30,
+                                "index": 29,
                                 "parentId": "651958",
                                 "syncing": true,
                                 "title": "Vue3-知识点集中营",
@@ -17992,24 +17983,24 @@
                 "title": "常用"
             },
             {
+                "dateAdded": 1751525066821,
+                "dateLastUsed": 1767168857874,
+                "id": "652124",
+                "index": 2,
+                "parentId": "1",
+                "syncing": true,
+                "title": "语雀",
+                "url": "https://www.yuque.com/login?goto=https%3A%2F%2Fwww.yuque.com%2Fdashboard"
+            },
+            {
                 "dateAdded": 1751525066734,
                 "dateLastUsed": 1766976273690,
                 "id": "651952",
-                "index": 2,
+                "index": 3,
                 "parentId": "1",
                 "syncing": true,
                 "title": "百度",
                 "url": "https://www.baidu.com/?tn=68018901_6_oem_dg"
-            },
-            {
-                "dateAdded": 1751525067601,
-                "dateLastUsed": 1763362255710,
-                "id": "653696",
-                "index": 3,
-                "parentId": "1",
-                "syncing": true,
-                "title": "豆包",
-                "url": "https://www.doubao.com/chat/"
             },
             {
                 "dateAdded": 1751525067602,
@@ -18033,7 +18024,7 @@
             }
         ],
         "dateAdded": 1647932752666,
-        "dateGroupModified": 1767168576842,
+        "dateGroupModified": 1767168950809,
         "folderType": "bookmarks-bar",
         "id": "1",
         "index": 0,
