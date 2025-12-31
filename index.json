@@ -10387,335 +10387,6 @@
                         "parentId": "651951",
                         "syncing": true,
                         "title": "考试"
-                    },
-                    {
-                        "children": [
-                            {
-                                "children": [
-                                    {
-                                        "dateAdded": 1751525067587,
-                                        "id": "653664",
-                                        "index": 0,
-                                        "parentId": "652189",
-                                        "syncing": true,
-                                        "title": "MySQL-数据库之一",
-                                        "url": "https://www.mysql.com/"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067588,
-                                        "id": "653665",
-                                        "index": 1,
-                                        "parentId": "652189",
-                                        "syncing": true,
-                                        "title": "MongoDB-数据库之一",
-                                        "url": "https://www.mongodb.org.cn/"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067588,
-                                        "id": "653666",
-                                        "index": 2,
-                                        "parentId": "652189",
-                                        "syncing": true,
-                                        "title": "C语言中文网-后端语言学习网站",
-                                        "url": "http://c.biancheng.net/"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067588,
-                                        "id": "653667",
-                                        "index": 3,
-                                        "parentId": "652189",
-                                        "syncing": true,
-                                        "title": "GO-运行快、开发快和部署快的开发语言",
-                                        "url": "https://golang.google.cn/"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067589,
-                                        "id": "653668",
-                                        "index": 4,
-                                        "parentId": "652189",
-                                        "syncing": true,
-                                        "title": "Python官网",
-                                        "url": "https://www.python.org/"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067589,
-                                        "id": "653669",
-                                        "index": 5,
-                                        "parentId": "652189",
-                                        "syncing": true,
-                                        "title": "Oracle-Cloud Applications and Cloud Platform",
-                                        "url": "https://www.oracle.com/"
-                                    }
-                                ],
-                                "dateAdded": 1751525066859,
-                                "dateGroupModified": 1751525067589,
-                                "id": "652189",
-                                "index": 0,
-                                "parentId": "651963",
-                                "syncing": true,
-                                "title": "官网-后"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "dateAdded": 1751525067589,
-                                        "id": "653670",
-                                        "index": 0,
-                                        "parentId": "652190",
-                                        "syncing": true,
-                                        "title": "Navicat-官网-MySql数据库管理工具",
-                                        "url": "http://www.navicat.com.cn/manual/online_manual/cn/navicat/win_manual/index.html#/connection_0"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067590,
-                                        "id": "653671",
-                                        "index": 1,
-                                        "parentId": "652190",
-                                        "syncing": true,
-                                        "title": "DBeaver-数据库管理工具",
-                                        "url": "https://dbeaver.io/"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067590,
-                                        "id": "653672",
-                                        "index": 2,
-                                        "parentId": "652190",
-                                        "syncing": true,
-                                        "title": "JumpServer-开源堡垒机-登录服务器",
-                                        "url": "https://www.jumpserver.org/"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067590,
-                                        "id": "653673",
-                                        "index": 3,
-                                        "parentId": "652190",
-                                        "syncing": true,
-                                        "title": "DataGrip-数据库管理工具",
-                                        "url": "https://www.jetbrains.com/zh-cn/datagrip/"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067591,
-                                        "id": "653674",
-                                        "index": 4,
-                                        "parentId": "652190",
-                                        "syncing": true,
-                                        "title": "IDEA-后端开发工具",
-                                        "url": "https://www.jetbrains.com/idea/"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067591,
-                                        "id": "653675",
-                                        "index": 5,
-                                        "parentId": "652190",
-                                        "syncing": true,
-                                        "title": "phpstudy-配置本地php开发域名环境",
-                                        "url": "https://www.xp.cn/about/us.html"
-                                    }
-                                ],
-                                "dateAdded": 1751525066860,
-                                "dateGroupModified": 1751525067591,
-                                "id": "652190",
-                                "index": 1,
-                                "parentId": "651963",
-                                "syncing": true,
-                                "title": "工具-后"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "dateAdded": 1751525067591,
-                                        "id": "653676",
-                                        "index": 0,
-                                        "parentId": "652191",
-                                        "syncing": true,
-                                        "title": "MySQL-基本语句",
-                                        "url": "https://zhuanlan.zhihu.com/p/97132780"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067592,
-                                        "id": "653677",
-                                        "index": 1,
-                                        "parentId": "652191",
-                                        "syncing": true,
-                                        "title": "数据库-数据库种类",
-                                        "url": "http://www.vzidc.com/news/content/5726.html"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067594,
-                                        "id": "653678",
-                                        "index": 2,
-                                        "parentId": "652191",
-                                        "syncing": true,
-                                        "title": "数据库-数据库的概念",
-                                        "url": "http://c.biancheng.net/view/2361.html"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067594,
-                                        "id": "653679",
-                                        "index": 3,
-                                        "parentId": "652191",
-                                        "syncing": true,
-                                        "title": "mysql-Navicat for MySQL 连接数据库、管理用户、创建数据库和表",
-                                        "url": "https://blog.csdn.net/chenriyang0306/article/details/54604070?utm_medium=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromMachineLearnPai2~default-1.base&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromMachineLearnPai2~default-1.base"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067595,
-                                        "id": "653680",
-                                        "index": 4,
-                                        "parentId": "652191",
-                                        "syncing": true,
-                                        "title": "MySQL- Windows 下安装教程、避坑指南",
-                                        "url": "https://juejin.cn/post/6844904000152666126"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067596,
-                                        "id": "653681",
-                                        "index": 5,
-                                        "parentId": "652191",
-                                        "syncing": true,
-                                        "title": "数据库-基础知识之数据类型",
-                                        "url": "https://blog.csdn.net/weixin_51350942/article/details/123400824"
-                                    }
-                                ],
-                                "dateAdded": 1751525066862,
-                                "dateGroupModified": 1751525067596,
-                                "id": "652191",
-                                "index": 2,
-                                "parentId": "651963",
-                                "syncing": true,
-                                "title": "拓展-后"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "dateAdded": 1751525067597,
-                                        "id": "653682",
-                                        "index": 0,
-                                        "parentId": "652192",
-                                        "syncing": true,
-                                        "title": "C语言-10个超赞的 C 语言开源项目",
-                                        "url": "https://mp.weixin.qq.com/s/VvbJsz44nX3MyJ-EpulLNA"
-                                    }
-                                ],
-                                "dateAdded": 1751525066862,
-                                "dateGroupModified": 1751525067597,
-                                "id": "652192",
-                                "index": 3,
-                                "parentId": "651963",
-                                "syncing": true,
-                                "title": "模版-后"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "dateAdded": 1751525067597,
-                                        "id": "653683",
-                                        "index": 0,
-                                        "parentId": "652193",
-                                        "syncing": true,
-                                        "title": "golang-web 静态文件",
-                                        "url": "https://blog.csdn.net/whatday/article/details/109747385"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067598,
-                                        "id": "653684",
-                                        "index": 1,
-                                        "parentId": "652193",
-                                        "syncing": true,
-                                        "title": "golang-怎么实现反代理？",
-                                        "url": "https://www.itshiye.com/04/10530.html"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067598,
-                                        "id": "653685",
-                                        "index": 2,
-                                        "parentId": "652193",
-                                        "syncing": true,
-                                        "title": "Java-如何快速入门 Java?",
-                                        "url": "https://blog.csdn.net/qing_gee/article/details/130736088"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067598,
-                                        "id": "653686",
-                                        "index": 3,
-                                        "parentId": "652193",
-                                        "syncing": true,
-                                        "title": "java-JDK 8安装配置教程（Windows版）",
-                                        "url": "https://zhuanlan.zhihu.com/p/626465440"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067599,
-                                        "id": "653687",
-                                        "index": 4,
-                                        "parentId": "652193",
-                                        "syncing": true,
-                                        "title": "java-利用poi工具生成自定义的复杂人员信息表并excel导出",
-                                        "url": "https://blog.csdn.net/weixin_42802607/article/details/131333165"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067599,
-                                        "id": "653688",
-                                        "index": 5,
-                                        "parentId": "652193",
-                                        "syncing": true,
-                                        "title": "java-导出复杂Excel的三种方法",
-                                        "url": "https://blog.51cto.com/u_16213401/9360417"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067599,
-                                        "id": "653689",
-                                        "index": 6,
-                                        "parentId": "652193",
-                                        "syncing": true,
-                                        "title": "java-使用POI识别excel的复选框插件",
-                                        "url": "https://blog.csdn.net/weixin_42683134/article/details/105952546"
-                                    },
-                                    {
-                                        "dateAdded": 1751525067600,
-                                        "id": "653690",
-                                        "index": 7,
-                                        "parentId": "652193",
-                                        "syncing": true,
-                                        "title": "Java-网关",
-                                        "url": "https://blog.csdn.net/konghaoran1/article/details/139150247"
-                                    }
-                                ],
-                                "dateAdded": 1751525066863,
-                                "dateGroupModified": 1751525067600,
-                                "id": "652193",
-                                "index": 4,
-                                "parentId": "651963",
-                                "syncing": true,
-                                "title": "其他-后"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "dateAdded": 1751525067600,
-                                        "id": "653691",
-                                        "index": 0,
-                                        "parentId": "652194",
-                                        "syncing": true,
-                                        "title": "主页-二哥的Java进阶之路",
-                                        "url": "https://javabetter.cn/"
-                                    }
-                                ],
-                                "dateAdded": 1751525066864,
-                                "dateGroupModified": 1751525067600,
-                                "id": "652194",
-                                "index": 5,
-                                "parentId": "651963",
-                                "syncing": true,
-                                "title": "辅修-后"
-                            }
-                        ],
-                        "dateAdded": 1751525066739,
-                        "dateGroupModified": 1751525066865,
-                        "id": "651963",
-                        "index": 7,
-                        "parentId": "651951",
-                        "syncing": true,
-                        "title": "后端"
                     }
                 ],
                 "dateAdded": 1751525066734,
@@ -16227,6 +15898,355 @@
                     {
                         "children": [
                             {
+                                "children": [
+                                    {
+                                        "dateAdded": 1767168672406,
+                                        "id": "654023",
+                                        "index": 0,
+                                        "parentId": "654022",
+                                        "syncing": true,
+                                        "title": "Java-菜鸟教程",
+                                        "url": "https://www.runoob.com/java/java-tutorial.html"
+                                    }
+                                ],
+                                "dateAdded": 1767168576841,
+                                "dateGroupModified": 1767168705258,
+                                "id": "654022",
+                                "index": 0,
+                                "parentId": "651963",
+                                "syncing": true,
+                                "title": "教程-后"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "dateAdded": 1751525067587,
+                                        "id": "653664",
+                                        "index": 0,
+                                        "parentId": "652189",
+                                        "syncing": true,
+                                        "title": "MySQL-数据库之一",
+                                        "url": "https://www.mysql.com/"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067588,
+                                        "id": "653665",
+                                        "index": 1,
+                                        "parentId": "652189",
+                                        "syncing": true,
+                                        "title": "MongoDB-数据库之一",
+                                        "url": "https://www.mongodb.org.cn/"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067588,
+                                        "id": "653666",
+                                        "index": 2,
+                                        "parentId": "652189",
+                                        "syncing": true,
+                                        "title": "C语言中文网-后端语言学习网站",
+                                        "url": "http://c.biancheng.net/"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067588,
+                                        "id": "653667",
+                                        "index": 3,
+                                        "parentId": "652189",
+                                        "syncing": true,
+                                        "title": "GO-运行快、开发快和部署快的开发语言",
+                                        "url": "https://golang.google.cn/"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067589,
+                                        "id": "653668",
+                                        "index": 4,
+                                        "parentId": "652189",
+                                        "syncing": true,
+                                        "title": "Python官网",
+                                        "url": "https://www.python.org/"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067589,
+                                        "id": "653669",
+                                        "index": 5,
+                                        "parentId": "652189",
+                                        "syncing": true,
+                                        "title": "Oracle-Cloud Applications and Cloud Platform",
+                                        "url": "https://www.oracle.com/"
+                                    }
+                                ],
+                                "dateAdded": 1751525066859,
+                                "dateGroupModified": 1767168588978,
+                                "id": "652189",
+                                "index": 1,
+                                "parentId": "651963",
+                                "syncing": true,
+                                "title": "官网-后"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "dateAdded": 1751525067589,
+                                        "id": "653670",
+                                        "index": 0,
+                                        "parentId": "652190",
+                                        "syncing": true,
+                                        "title": "Navicat-官网-MySql数据库管理工具",
+                                        "url": "http://www.navicat.com.cn/manual/online_manual/cn/navicat/win_manual/index.html#/connection_0"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067590,
+                                        "id": "653671",
+                                        "index": 1,
+                                        "parentId": "652190",
+                                        "syncing": true,
+                                        "title": "DBeaver-数据库管理工具",
+                                        "url": "https://dbeaver.io/"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067590,
+                                        "id": "653672",
+                                        "index": 2,
+                                        "parentId": "652190",
+                                        "syncing": true,
+                                        "title": "JumpServer-开源堡垒机-登录服务器",
+                                        "url": "https://www.jumpserver.org/"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067590,
+                                        "id": "653673",
+                                        "index": 3,
+                                        "parentId": "652190",
+                                        "syncing": true,
+                                        "title": "DataGrip-数据库管理工具",
+                                        "url": "https://www.jetbrains.com/zh-cn/datagrip/"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067591,
+                                        "id": "653674",
+                                        "index": 4,
+                                        "parentId": "652190",
+                                        "syncing": true,
+                                        "title": "IDEA-后端开发工具",
+                                        "url": "https://www.jetbrains.com/idea/"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067591,
+                                        "id": "653675",
+                                        "index": 5,
+                                        "parentId": "652190",
+                                        "syncing": true,
+                                        "title": "phpstudy-配置本地php开发域名环境",
+                                        "url": "https://www.xp.cn/about/us.html"
+                                    }
+                                ],
+                                "dateAdded": 1751525066860,
+                                "dateGroupModified": 1751525067591,
+                                "id": "652190",
+                                "index": 2,
+                                "parentId": "651963",
+                                "syncing": true,
+                                "title": "工具-后"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "dateAdded": 1751525067591,
+                                        "id": "653676",
+                                        "index": 0,
+                                        "parentId": "652191",
+                                        "syncing": true,
+                                        "title": "MySQL-基本语句",
+                                        "url": "https://zhuanlan.zhihu.com/p/97132780"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067592,
+                                        "id": "653677",
+                                        "index": 1,
+                                        "parentId": "652191",
+                                        "syncing": true,
+                                        "title": "数据库-数据库种类",
+                                        "url": "http://www.vzidc.com/news/content/5726.html"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067594,
+                                        "id": "653678",
+                                        "index": 2,
+                                        "parentId": "652191",
+                                        "syncing": true,
+                                        "title": "数据库-数据库的概念",
+                                        "url": "http://c.biancheng.net/view/2361.html"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067594,
+                                        "id": "653679",
+                                        "index": 3,
+                                        "parentId": "652191",
+                                        "syncing": true,
+                                        "title": "mysql-Navicat for MySQL 连接数据库、管理用户、创建数据库和表",
+                                        "url": "https://blog.csdn.net/chenriyang0306/article/details/54604070?utm_medium=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromMachineLearnPai2~default-1.base&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromMachineLearnPai2~default-1.base"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067595,
+                                        "id": "653680",
+                                        "index": 4,
+                                        "parentId": "652191",
+                                        "syncing": true,
+                                        "title": "MySQL- Windows 下安装教程、避坑指南",
+                                        "url": "https://juejin.cn/post/6844904000152666126"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067596,
+                                        "id": "653681",
+                                        "index": 5,
+                                        "parentId": "652191",
+                                        "syncing": true,
+                                        "title": "数据库-基础知识之数据类型",
+                                        "url": "https://blog.csdn.net/weixin_51350942/article/details/123400824"
+                                    }
+                                ],
+                                "dateAdded": 1751525066862,
+                                "dateGroupModified": 1751525067596,
+                                "id": "652191",
+                                "index": 3,
+                                "parentId": "651963",
+                                "syncing": true,
+                                "title": "拓展-后"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "dateAdded": 1751525067597,
+                                        "id": "653682",
+                                        "index": 0,
+                                        "parentId": "652192",
+                                        "syncing": true,
+                                        "title": "C语言-10个超赞的 C 语言开源项目",
+                                        "url": "https://mp.weixin.qq.com/s/VvbJsz44nX3MyJ-EpulLNA"
+                                    }
+                                ],
+                                "dateAdded": 1751525066862,
+                                "dateGroupModified": 1751525067597,
+                                "id": "652192",
+                                "index": 4,
+                                "parentId": "651963",
+                                "syncing": true,
+                                "title": "模版-后"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "dateAdded": 1751525067597,
+                                        "id": "653683",
+                                        "index": 0,
+                                        "parentId": "652193",
+                                        "syncing": true,
+                                        "title": "golang-web 静态文件",
+                                        "url": "https://blog.csdn.net/whatday/article/details/109747385"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067598,
+                                        "id": "653684",
+                                        "index": 1,
+                                        "parentId": "652193",
+                                        "syncing": true,
+                                        "title": "golang-怎么实现反代理？",
+                                        "url": "https://www.itshiye.com/04/10530.html"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067598,
+                                        "id": "653685",
+                                        "index": 2,
+                                        "parentId": "652193",
+                                        "syncing": true,
+                                        "title": "Java-如何快速入门 Java?",
+                                        "url": "https://blog.csdn.net/qing_gee/article/details/130736088"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067598,
+                                        "id": "653686",
+                                        "index": 3,
+                                        "parentId": "652193",
+                                        "syncing": true,
+                                        "title": "java-JDK 8安装配置教程（Windows版）",
+                                        "url": "https://zhuanlan.zhihu.com/p/626465440"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067599,
+                                        "id": "653687",
+                                        "index": 4,
+                                        "parentId": "652193",
+                                        "syncing": true,
+                                        "title": "java-利用poi工具生成自定义的复杂人员信息表并excel导出",
+                                        "url": "https://blog.csdn.net/weixin_42802607/article/details/131333165"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067599,
+                                        "id": "653688",
+                                        "index": 5,
+                                        "parentId": "652193",
+                                        "syncing": true,
+                                        "title": "java-导出复杂Excel的三种方法",
+                                        "url": "https://blog.51cto.com/u_16213401/9360417"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067599,
+                                        "id": "653689",
+                                        "index": 6,
+                                        "parentId": "652193",
+                                        "syncing": true,
+                                        "title": "java-使用POI识别excel的复选框插件",
+                                        "url": "https://blog.csdn.net/weixin_42683134/article/details/105952546"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067600,
+                                        "id": "653690",
+                                        "index": 7,
+                                        "parentId": "652193",
+                                        "syncing": true,
+                                        "title": "Java-网关",
+                                        "url": "https://blog.csdn.net/konghaoran1/article/details/139150247"
+                                    }
+                                ],
+                                "dateAdded": 1751525066863,
+                                "dateGroupModified": 1751525067600,
+                                "id": "652193",
+                                "index": 5,
+                                "parentId": "651963",
+                                "syncing": true,
+                                "title": "其他-后"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "dateAdded": 1751525067600,
+                                        "id": "653691",
+                                        "index": 0,
+                                        "parentId": "652194",
+                                        "syncing": true,
+                                        "title": "主页-二哥的Java进阶之路",
+                                        "url": "https://javabetter.cn/"
+                                    }
+                                ],
+                                "dateAdded": 1751525066864,
+                                "dateGroupModified": 1751525067600,
+                                "id": "652194",
+                                "index": 6,
+                                "parentId": "651963",
+                                "syncing": true,
+                                "title": "辅修-后"
+                            }
+                        ],
+                        "dateAdded": 1751525066739,
+                        "dateGroupModified": 1767168672406,
+                        "id": "651963",
+                        "index": 2,
+                        "parentId": "653986",
+                        "syncing": true,
+                        "title": "后端"
+                    },
+                    {
+                        "children": [
+                            {
                                 "dateAdded": 1751525066769,
                                 "dateLastUsed": 1758117711267,
                                 "id": "652021",
@@ -17103,7 +17123,7 @@
                         "dateAdded": 1751525066738,
                         "dateGroupModified": 1761275224426,
                         "id": "651957",
-                        "index": 2,
+                        "index": 3,
                         "parentId": "653986",
                         "syncing": true,
                         "title": "工具"
@@ -17525,7 +17545,7 @@
                         "dateAdded": 1751525066738,
                         "dateGroupModified": 1765955259580,
                         "id": "651954",
-                        "index": 3,
+                        "index": 4,
                         "parentId": "653986",
                         "syncing": true,
                         "title": "查询"
@@ -17678,7 +17698,7 @@
                         "dateAdded": 1751525066740,
                         "dateGroupModified": 1762497817291,
                         "id": "651966",
-                        "index": 4,
+                        "index": 5,
                         "parentId": "653986",
                         "syncing": true,
                         "title": "AI"
@@ -17937,7 +17957,7 @@
                         "dateAdded": 1753435092066,
                         "dateGroupModified": 1763975293643,
                         "id": "653831",
-                        "index": 5,
+                        "index": 6,
                         "parentId": "653986",
                         "syncing": true,
                         "title": "低代码"
@@ -17958,14 +17978,14 @@
                         "dateAdded": 1756179559285,
                         "dateGroupModified": 1757494275799,
                         "id": "653898",
-                        "index": 6,
+                        "index": 7,
                         "parentId": "653986",
                         "syncing": true,
                         "title": "开发问题"
                     }
                 ],
                 "dateAdded": 1761379570421,
-                "dateGroupModified": 1762148181877,
+                "dateGroupModified": 1767168534080,
                 "id": "653986",
                 "index": 1,
                 "parentId": "1",
@@ -18014,7 +18034,7 @@
             }
         ],
         "dateAdded": 1647932752666,
-        "dateGroupModified": 1766048311736,
+        "dateGroupModified": 1767168576842,
         "folderType": "bookmarks-bar",
         "id": "1",
         "index": 0,
