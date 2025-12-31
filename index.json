@@ -15907,10 +15907,19 @@
                                         "syncing": true,
                                         "title": "Java-菜鸟教程",
                                         "url": "https://www.runoob.com/java/java-tutorial.html"
+                                    },
+                                    {
+                                        "dateAdded": 1751525067600,
+                                        "id": "653691",
+                                        "index": 1,
+                                        "parentId": "654022",
+                                        "syncing": true,
+                                        "title": "二哥的Java进阶之路",
+                                        "url": "https://javabetter.cn/"
                                     }
                                 ],
                                 "dateAdded": 1767168576841,
-                                "dateGroupModified": 1767168705258,
+                                "dateGroupModified": 1767168762230,
                                 "id": "654022",
                                 "index": 0,
                                 "parentId": "651963",
@@ -16216,17 +16225,7 @@
                                 "title": "其他-后"
                             },
                             {
-                                "children": [
-                                    {
-                                        "dateAdded": 1751525067600,
-                                        "id": "653691",
-                                        "index": 0,
-                                        "parentId": "652194",
-                                        "syncing": true,
-                                        "title": "主页-二哥的Java进阶之路",
-                                        "url": "https://javabetter.cn/"
-                                    }
-                                ],
+                                "children": [],
                                 "dateAdded": 1751525066864,
                                 "dateGroupModified": 1751525067600,
                                 "id": "652194",
