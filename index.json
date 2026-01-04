@@ -610,9 +610,19 @@
                                 "title": "MR商城"
                             },
                             {
-                                "children": [],
+                                "children": [
+                                    {
+                                        "dateAdded": 1767489863890,
+                                        "id": "654024",
+                                        "index": 0,
+                                        "parentId": "654020",
+                                        "syncing": true,
+                                        "title": "git仓库",
+                                        "url": "http://120.79.141.255:3000/"
+                                    }
+                                ],
                                 "dateAdded": 1767082103751,
-                                "dateGroupModified": 1767082103751,
+                                "dateGroupModified": 1767489883111,
                                 "id": "654020",
                                 "index": 3,
                                 "parentId": "651955",
@@ -18024,7 +18034,7 @@
             }
         ],
         "dateAdded": 1647932752666,
-        "dateGroupModified": 1767168950809,
+        "dateGroupModified": 1767489863890,
         "folderType": "bookmarks-bar",
         "id": "1",
         "index": 0,
