@@ -641,7 +641,7 @@
                                     }
                                 ],
                                 "dateAdded": 1767082103751,
-                                "dateGroupModified": 1767620840554,
+                                "dateGroupModified": 1767627049661,
                                 "id": "654020",
                                 "index": 3,
                                 "parentId": "651955",
@@ -17972,10 +17972,19 @@
                                 "parentId": "653831",
                                 "syncing": true,
                                 "title": "了解"
+                            },
+                            {
+                                "dateAdded": 1767627049661,
+                                "id": "654027",
+                                "index": 16,
+                                "parentId": "653831",
+                                "syncing": true,
+                                "title": "即时通信IM-腾讯云",
+                                "url": "https://cloud.tencent.com/product/im"
                             }
                         ],
                         "dateAdded": 1753435092066,
-                        "dateGroupModified": 1763975293643,
+                        "dateGroupModified": 1767627070466,
                         "id": "653831",
                         "index": 6,
                         "parentId": "653986",
