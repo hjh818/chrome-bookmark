@@ -613,17 +613,35 @@
                                 "children": [
                                     {
                                         "dateAdded": 1767489863890,
-                                        "dateLastUsed": 1767580926523,
+                                        "dateLastUsed": 1767620689713,
                                         "id": "654024",
                                         "index": 0,
                                         "parentId": "654020",
                                         "syncing": true,
                                         "title": "git仓库",
                                         "url": "http://120.79.141.255:3000/"
+                                    },
+                                    {
+                                        "dateAdded": 1767620793327,
+                                        "id": "654025",
+                                        "index": 1,
+                                        "parentId": "654020",
+                                        "syncing": true,
+                                        "title": "需求清单",
+                                        "url": "https://docs.qq.com/sheet/DY0VsU3pyeURhdG1W?tab=wg8cgt"
+                                    },
+                                    {
+                                        "dateAdded": 1767620840554,
+                                        "id": "654026",
+                                        "index": 2,
+                                        "parentId": "654020",
+                                        "syncing": true,
+                                        "title": "滑雪小程序PRD需求文档-392111995",
+                                        "url": "http://120.79.141.255/nft/ski/%E6%BB%91%E9%9B%AA%E5%B0%8F%E7%A8%8B%E5%BA%8FPRD.html"
                                     }
                                 ],
                                 "dateAdded": 1767082103751,
-                                "dateGroupModified": 1767489883111,
+                                "dateGroupModified": 1767620840554,
                                 "id": "654020",
                                 "index": 3,
                                 "parentId": "651955",
