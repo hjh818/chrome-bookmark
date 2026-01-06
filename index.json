@@ -1335,10 +1335,534 @@
                                 "parentId": "651956",
                                 "syncing": true,
                                 "title": "泰首智能"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "dateAdded": 1760333032177,
+                                        "dateLastUsed": 1766972679382,
+                                        "id": "653971",
+                                        "index": 0,
+                                        "parentId": "653798",
+                                        "syncing": true,
+                                        "title": "通用项目管理",
+                                        "url": "https://doc.weixin.qq.com/smartsheet/s3_AQsA3AYzAEMCNr1Eezh73Tbu5XGRn?scode=APEAlweLAA4HBKMj0EAQsA3AYzAEM&version=5.0.0.8506&platform=win&tab=tZdOxZ&viewId=vtvpys"
+                                    },
+                                    {
+                                        "dateAdded": 1760507967799,
+                                        "dateLastUsed": 1766372491587,
+                                        "id": "653972",
+                                        "index": 1,
+                                        "parentId": "653798",
+                                        "syncing": true,
+                                        "title": "文档地址",
+                                        "url": "https://docs.qq.com/sheet/DS2tiUU5JTGNJTE1p?no_promotion=1&tab=BB08J2"
+                                    },
+                                    {
+                                        "dateAdded": 1765787628962,
+                                        "dateLastUsed": 1767159300257,
+                                        "id": "654008",
+                                        "index": 2,
+                                        "parentId": "653798",
+                                        "syncing": true,
+                                        "title": "wiki-百果科技",
+                                        "url": "https://wiki.pagoda.com.cn/s/projectarchiving/p/-4OLimZO9vz"
+                                    },
+                                    {
+                                        "dateAdded": 1756891377629,
+                                        "dateLastUsed": 1761904750329,
+                                        "id": "653916",
+                                        "index": 3,
+                                        "parentId": "653798",
+                                        "syncing": true,
+                                        "title": "个人工作台-语雀",
+                                        "url": "https://paas-teamwork.yuque.com/dashboard"
+                                    },
+                                    {
+                                        "dateAdded": 1753149247201,
+                                        "dateLastUsed": 1766367098874,
+                                        "id": "653803",
+                                        "index": 4,
+                                        "parentId": "653798",
+                                        "syncing": true,
+                                        "title": "优鲜互联-信息记录",
+                                        "url": "https://docs.qq.com/doc/DS0ZEdXpLY2JKZ1JV?no_promotion=1"
+                                    },
+                                    {
+                                        "dateAdded": 1756263394256,
+                                        "id": "653901",
+                                        "index": 5,
+                                        "parentId": "653798",
+                                        "syncing": true,
+                                        "title": "技术经理交接文档",
+                                        "url": "https://doc.weixin.qq.com/doc/w3_ATkAxQYiABoCNIwW5Hno5RfyjsJqc?scode=APEAlweLAA4ylnpExnATkAxQYiABo&version=4.1.10.6015&platform=win"
+                                    },
+                                    {
+                                        "dateAdded": 1753151619214,
+                                        "dateLastUsed": 1753178424208,
+                                        "id": "653804",
+                                        "index": 6,
+                                        "parentId": "653798",
+                                        "syncing": true,
+                                        "title": "公司员工-操作平台",
+                                        "url": "https://pagoda.italent.cn/portal/iTalentHome/?_userSpecialType=1&xpuid=712694456&_qsrcapp=Italent&_qrt=html&quark_s=fac40b0e587566d59529c27e0a8de22b715a13fc37737f1df1019ac51a979deb"
+                                    },
+                                    {
+                                        "dateAdded": 1756083410242,
+                                        "dateLastUsed": 1766459627295,
+                                        "id": "653892",
+                                        "index": 7,
+                                        "parentId": "653798",
+                                        "syncing": true,
+                                        "title": "代码仓库",
+                                        "url": "https://cnb.cool/youxian-freshgood/freshgood"
+                                    },
+                                    {
+                                        "dateAdded": 1765761237542,
+                                        "dateLastUsed": 1766136193059,
+                                        "id": "654007",
+                                        "index": 8,
+                                        "parentId": "653798",
+                                        "syncing": true,
+                                        "title": "百果科技-coding",
+                                        "url": "https://baiguokeji.coding.net/user/projects"
+                                    },
+                                    {
+                                        "dateAdded": 1753180501382,
+                                        "dateLastUsed": 1767606571051,
+                                        "id": "653820",
+                                        "index": 9,
+                                        "parentId": "653798",
+                                        "syncing": true,
+                                        "title": "项目需求管理-语雀",
+                                        "url": "https://paas-teamwork.yuque.com/pwha4m"
+                                    },
+                                    {
+                                        "dateAdded": 1753172924466,
+                                        "dateLastUsed": 1753172952918,
+                                        "id": "653814",
+                                        "index": 10,
+                                        "parentId": "653798",
+                                        "syncing": true,
+                                        "title": "代码分支管理规范",
+                                        "url": "https://paas-teamwork.yuque.com/nv6co0/gggg57/wxcweu33olhrl3za"
+                                    },
+                                    {
+                                        "dateAdded": 1753233447868,
+                                        "dateLastUsed": 1767591848229,
+                                        "id": "653821",
+                                        "index": 11,
+                                        "parentId": "653798",
+                                        "syncing": true,
+                                        "title": "前端反述-参考-梁锦豪",
+                                        "url": "https://paas-teamwork.yuque.com/nv6co0/gg8rbh/ri906asr0hnmg0vs"
+                                    },
+                                    {
+                                        "dateAdded": 1753173030309,
+                                        "dateLastUsed": 1767517570929,
+                                        "id": "653815",
+                                        "index": 12,
+                                        "parentId": "653798",
+                                        "syncing": true,
+                                        "title": "构建-Jenkins-测试环境",
+                                        "url": "https://jenkins.test.freshgood.cn/"
+                                    },
+                                    {
+                                        "dateAdded": 1755479568585,
+                                        "dateLastUsed": 1760335811669,
+                                        "id": "653869",
+                                        "index": 13,
+                                        "parentId": "653798",
+                                        "syncing": true,
+                                        "title": "Dashboard [Jenkins]-正式环境构建",
+                                        "url": "https://jenkins.freshgood.cn/"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "dateAdded": 1756781994233,
+                                                "dateLastUsed": 1759990026978,
+                                                "id": "653910",
+                                                "index": 0,
+                                                "parentId": "653882",
+                                                "syncing": true,
+                                                "title": "2025优鲜产研交付团队OKR",
+                                                "url": "https://doc.weixin.qq.com/smartsheet/s3_AToAGgbrAGklJCf0KvhRCu2wqRp14?scode=APEAlweLAA4anE5zd0AToAGgbrAGk&version=4.1.10.6015&platform=win&tab=6uLtex&viewId=vUcjvZ"
+                                            }
+                                        ],
+                                        "dateAdded": 1755598579398,
+                                        "dateGroupModified": 1756882372021,
+                                        "id": "653882",
+                                        "index": 14,
+                                        "parentId": "653798",
+                                        "syncing": true,
+                                        "title": "OKR"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "dateAdded": 1756892255813,
+                                                "dateLastUsed": 1767604253155,
+                                                "id": "653917",
+                                                "index": 0,
+                                                "parentId": "653874",
+                                                "syncing": true,
+                                                "title": "整理信息-蜜蜂微搭",
+                                                "url": "https://docs.qq.com/doc/DS2NRZkNnUG53cG9h?no_promotion=1"
+                                            },
+                                            {
+                                                "dateAdded": 1755850536502,
+                                                "dateLastUsed": 1765964873664,
+                                                "id": "653891",
+                                                "index": 1,
+                                                "parentId": "653874",
+                                                "syncing": true,
+                                                "title": "需求清单",
+                                                "url": "https://paas-teamwork.yuque.com/ooes0v/hm8po8/wt1o0mh2audlgwgr?singleDoc#TcUH"
+                                            },
+                                            {
+                                                "dateAdded": 1761010561816,
+                                                "dateLastUsed": 1765171145600,
+                                                "id": "653975",
+                                                "index": 2,
+                                                "parentId": "653874",
+                                                "syncing": true,
+                                                "title": "恒利创优-资料库-原型",
+                                                "url": "https://paas-teamwork.yuque.com/ooes0v/hm8po8"
+                                            },
+                                            {
+                                                "dateAdded": 1753440564495,
+                                                "dateLastUsed": 1767577342328,
+                                                "id": "653833",
+                                                "index": 3,
+                                                "parentId": "653874",
+                                                "syncing": true,
+                                                "title": "蜜蜂微搭-PC-测试",
+                                                "url": "https://paas-teamwork.test.freshgood.cn/frame/frame_homePage"
+                                            },
+                                            {
+                                                "dateAdded": 1758164578807,
+                                                "dateLastUsed": 1765942127439,
+                                                "id": "653938",
+                                                "index": 4,
+                                                "parentId": "653874",
+                                                "syncing": true,
+                                                "title": "蜜蜂微搭-移动端",
+                                                "url": "https://mpaas-teamwork-test1.test.freshgood.cn/frame/frame_query_scene_data"
+                                            }
+                                        ],
+                                        "dateAdded": 1755501187909,
+                                        "dateGroupModified": 1761010594578,
+                                        "id": "653874",
+                                        "index": 15,
+                                        "parentId": "653798",
+                                        "syncing": true,
+                                        "title": "蜜蜂微搭"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "dateAdded": 1756892298821,
+                                                "dateLastUsed": 1767606540287,
+                                                "id": "653918",
+                                                "index": 0,
+                                                "parentId": "653873",
+                                                "syncing": true,
+                                                "title": "巡检员小智-文档",
+                                                "url": "https://docs.qq.com/doc/DS3ZqanVqZHpMU1Rm?no_promotion=1"
+                                            },
+                                            {
+                                                "dateAdded": 1753249056674,
+                                                "dateLastUsed": 1756892354241,
+                                                "id": "653822",
+                                                "index": 1,
+                                                "parentId": "653873",
+                                                "syncing": true,
+                                                "title": "巡检员小智-百度脑图",
+                                                "url": "https://naotu.baidu.com/file/e6ff5e09107256e27fe21dcdbd8b427a"
+                                            },
+                                            {
+                                                "dateAdded": 1753342091525,
+                                                "dateLastUsed": 1767606312513,
+                                                "id": "653827",
+                                                "index": 2,
+                                                "parentId": "653873",
+                                                "syncing": true,
+                                                "title": "巡检员小智-UI",
+                                                "url": "https://codesign.qq.com/app/s/572036217076423"
+                                            },
+                                            {
+                                                "dateAdded": 1753156203047,
+                                                "dateLastUsed": 1753237425843,
+                                                "id": "653807",
+                                                "index": 3,
+                                                "parentId": "653873",
+                                                "syncing": true,
+                                                "title": "巡检员小智-官网-正式",
+                                                "url": "https://aixzhi.com/"
+                                            },
+                                            {
+                                                "dateAdded": 1753156393294,
+                                                "dateLastUsed": 1753237577231,
+                                                "id": "653808",
+                                                "index": 4,
+                                                "parentId": "653873",
+                                                "syncing": true,
+                                                "title": "巡检员小智-官网-开发",
+                                                "url": "https://smartxiaozhi-website.dev.freshgood.cn/index"
+                                            },
+                                            {
+                                                "dateAdded": 1753156417523,
+                                                "dateLastUsed": 1756194614782,
+                                                "id": "653809",
+                                                "index": 5,
+                                                "parentId": "653873",
+                                                "syncing": true,
+                                                "title": "巡检员小智-官网-测试",
+                                                "url": "https://smartxiaozhi-website.test.freshgood.cn/"
+                                            },
+                                            {
+                                                "dateAdded": 1753171931057,
+                                                "dateLastUsed": 1755220492457,
+                                                "id": "653811",
+                                                "index": 6,
+                                                "parentId": "653873",
+                                                "syncing": true,
+                                                "title": "小智-管理端PC-测试",
+                                                "url": "https://smartxiaozhi-pc.test.freshgood.cn/login"
+                                            },
+                                            {
+                                                "dateAdded": 1753171978905,
+                                                "dateLastUsed": 1753428111301,
+                                                "id": "653812",
+                                                "index": 7,
+                                                "parentId": "653873",
+                                                "syncing": true,
+                                                "title": "小智-管理端PC-开发",
+                                                "url": "https://smartxiaozhi-pc.dev.freshgood.cn/login"
+                                            },
+                                            {
+                                                "dateAdded": 1753172050211,
+                                                "dateLastUsed": 1758008335825,
+                                                "id": "653813",
+                                                "index": 8,
+                                                "parentId": "653873",
+                                                "syncing": true,
+                                                "title": "小智-管理端PC-正式",
+                                                "url": "https://smartxiaozhi-pc.freshgood.cn/login"
+                                            },
+                                            {
+                                                "dateAdded": 1753173672154,
+                                                "dateLastUsed": 1755075337892,
+                                                "id": "653816",
+                                                "index": 9,
+                                                "parentId": "653873",
+                                                "syncing": true,
+                                                "title": "小智-场地端mobile-测试",
+                                                "url": "https://smartxiaozhi-mobile.test.freshgood.cn/login"
+                                            },
+                                            {
+                                                "dateAdded": 1753173803527,
+                                                "dateLastUsed": 1753173875740,
+                                                "id": "653817",
+                                                "index": 10,
+                                                "parentId": "653873",
+                                                "syncing": true,
+                                                "title": "小智-场地端mobile-开发",
+                                                "url": "https://smartxiaozhi-mobile.dev.freshgood.cn/login"
+                                            },
+                                            {
+                                                "dateAdded": 1753173849021,
+                                                "dateLastUsed": 1753173886280,
+                                                "id": "653818",
+                                                "index": 11,
+                                                "parentId": "653873",
+                                                "syncing": true,
+                                                "title": "小智-场地端mobile-正式",
+                                                "url": "https://smartxiaozhi-mobile.freshgood.cn/login"
+                                            }
+                                        ],
+                                        "dateAdded": 1755501174863,
+                                        "dateGroupModified": 1756892358509,
+                                        "id": "653873",
+                                        "index": 16,
+                                        "parentId": "653798",
+                                        "syncing": true,
+                                        "title": "巡检员小智"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "dateAdded": 1755588291765,
+                                                "dateLastUsed": 1767662865772,
+                                                "id": "653880",
+                                                "index": 0,
+                                                "parentId": "653875",
+                                                "syncing": true,
+                                                "title": "半天妖&网规-低代码平台使用",
+                                                "url": "https://docs.qq.com/doc/DS1dNdXRFTGFmbkVI?no_promotion=1"
+                                            },
+                                            {
+                                                "dateAdded": 1756888479842,
+                                                "dateLastUsed": 1767662753373,
+                                                "id": "653914",
+                                                "index": 1,
+                                                "parentId": "653875",
+                                                "syncing": true,
+                                                "title": "需求原型",
+                                                "url": "https://axhub.im/ax9/168a867a0f471ef1/#g=1&id=vau94o&p=%E6%A6%82%E8%BF%B0"
+                                            },
+                                            {
+                                                "dateAdded": 1755481627041,
+                                                "dateLastUsed": 1758263280034,
+                                                "id": "653870",
+                                                "index": 2,
+                                                "parentId": "653875",
+                                                "syncing": true,
+                                                "title": "低代码-木瓜云-开发环境",
+                                                "url": "https://app-dev.imugua.cn/designer/started?menu=application"
+                                            },
+                                            {
+                                                "dateAdded": 1755501350576,
+                                                "dateLastUsed": 1767662801768,
+                                                "id": "653876",
+                                                "index": 3,
+                                                "parentId": "653875",
+                                                "syncing": true,
+                                                "title": "半天妖网规项目交付计划&测试反馈表",
+                                                "url": "https://doc.weixin.qq.com/sheet/e3_AZAAwgaCADICNpI8KTsuyRBWZUu5C?scode=APEAlweLAA43CP4ebOAZAAwgaCADI&version=4.1.10.6015&platform=win&tab=BB08J2"
+                                            },
+                                            {
+                                                "dateAdded": 1755501442827,
+                                                "dateLastUsed": 1758263031565,
+                                                "id": "653877",
+                                                "index": 4,
+                                                "parentId": "653875",
+                                                "syncing": true,
+                                                "title": "PC端-测试环境",
+                                                "url": "https://bty.imugua.team/#/login"
+                                            },
+                                            {
+                                                "dateAdded": 1757314829610,
+                                                "id": "653922",
+                                                "index": 5,
+                                                "parentId": "653875",
+                                                "syncing": true,
+                                                "title": "PC端-预发环境",
+                                                "url": "https://pre-bty.imugua.tech/#/login"
+                                            },
+                                            {
+                                                "dateAdded": 1755572883914,
+                                                "dateLastUsed": 1756894087631,
+                                                "id": "653879",
+                                                "index": 6,
+                                                "parentId": "653875",
+                                                "syncing": true,
+                                                "title": "半天妖-网规-接口",
+                                                "url": "https://paas-teamwork.yuque.com/mzgixe/wvhg04/lqind7xo8zzdmt0n#Vy9yw"
+                                            },
+                                            {
+                                                "dateAdded": 1756369934935,
+                                                "dateLastUsed": 1763716407737,
+                                                "id": "653905",
+                                                "index": 7,
+                                                "parentId": "653875",
+                                                "syncing": true,
+                                                "title": "木瓜OA-移动端-H5/PC通用",
+                                                "url": "https://portal-h5.imugua.team/#/dingTalkWorkbench/landing?channel=dd&unifiedLogin=true&loginName=15821259172&pwd=Hxy74829_"
+                                            },
+                                            {
+                                                "dateAdded": 1756374902747,
+                                                "dateLastUsed": 1763716424261,
+                                                "id": "653906",
+                                                "index": 8,
+                                                "parentId": "653875",
+                                                "syncing": true,
+                                                "title": "木瓜OA-网规-H5",
+                                                "url": "https://portal-h5.imugua.team/#/dingTalkWorkbench/landing?channel=dd&unifiedLogin=true&loginName=18218159797&pwd=123456"
+                                            }
+                                        ],
+                                        "dateAdded": 1755501202798,
+                                        "dateGroupModified": 1757317834442,
+                                        "id": "653875",
+                                        "index": 17,
+                                        "parentId": "653798",
+                                        "syncing": true,
+                                        "title": "半天妖&网规"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "dateAdded": 1761110640142,
+                                                "dateLastUsed": 1767662460333,
+                                                "id": "653978",
+                                                "index": 0,
+                                                "parentId": "653977",
+                                                "syncing": true,
+                                                "title": "整理资料-智能选址",
+                                                "url": "https://docs.qq.com/doc/DS0FmSUpsamN3b0ha?no_promotion=1"
+                                            },
+                                            {
+                                                "dateAdded": 1766369739115,
+                                                "dateLastUsed": 1767159282315,
+                                                "id": "654015",
+                                                "index": 1,
+                                                "parentId": "653977",
+                                                "syncing": true,
+                                                "title": "code-push-server-获取token",
+                                                "url": "https://push-server.pagoda.com.cn/tokens/"
+                                            }
+                                        ],
+                                        "dateAdded": 1761110577333,
+                                        "dateGroupModified": 1766456580817,
+                                        "id": "653977",
+                                        "index": 18,
+                                        "parentId": "653798",
+                                        "syncing": true,
+                                        "title": "智能选址"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "dateAdded": 1764925552348,
+                                                "dateLastUsed": 1767606428266,
+                                                "id": "654003",
+                                                "index": 0,
+                                                "parentId": "653999",
+                                                "syncing": true,
+                                                "title": "整理文档-智慧币",
+                                                "url": "https://docs.qq.com/doc/DS3V3RXRFdkp0WG1V?no_promotion=1&is_blank_or_template=blank"
+                                            },
+                                            {
+                                                "dateAdded": 1765787775502,
+                                                "id": "654009",
+                                                "index": 1,
+                                                "parentId": "653999",
+                                                "syncing": true,
+                                                "title": "百果园智慧币管理台-测试环境",
+                                                "url": "https://zhihuibi-mapp.zhb.tencent-test.pagoda.com.cn/admin/#/login"
+                                            }
+                                        ],
+                                        "dateAdded": 1764568658863,
+                                        "dateGroupModified": 1765851604990,
+                                        "id": "653999",
+                                        "index": 19,
+                                        "parentId": "653798",
+                                        "syncing": true,
+                                        "title": "智慧币"
+                                    }
+                                ],
+                                "dateAdded": 1753148256576,
+                                "dateGroupModified": 1765787775502,
+                                "id": "653798",
+                                "index": 2,
+                                "parentId": "651956",
+                                "syncing": true,
+                                "title": "优鲜互联"
                             }
                         ],
                         "dateAdded": 1751525066738,
-                        "dateGroupModified": 1753148256576,
+                        "dateGroupModified": 1767679056748,
                         "id": "651956",
                         "index": 1,
                         "parentId": "651951",
@@ -10422,530 +10946,6 @@
                     {
                         "children": [
                             {
-                                "dateAdded": 1760333032177,
-                                "dateLastUsed": 1766972679382,
-                                "id": "653971",
-                                "index": 0,
-                                "parentId": "653798",
-                                "syncing": true,
-                                "title": "通用项目管理",
-                                "url": "https://doc.weixin.qq.com/smartsheet/s3_AQsA3AYzAEMCNr1Eezh73Tbu5XGRn?scode=APEAlweLAA4HBKMj0EAQsA3AYzAEM&version=5.0.0.8506&platform=win&tab=tZdOxZ&viewId=vtvpys"
-                            },
-                            {
-                                "dateAdded": 1760507967799,
-                                "dateLastUsed": 1766372491587,
-                                "id": "653972",
-                                "index": 1,
-                                "parentId": "653798",
-                                "syncing": true,
-                                "title": "文档地址",
-                                "url": "https://docs.qq.com/sheet/DS2tiUU5JTGNJTE1p?no_promotion=1&tab=BB08J2"
-                            },
-                            {
-                                "dateAdded": 1765787628962,
-                                "dateLastUsed": 1767159300257,
-                                "id": "654008",
-                                "index": 2,
-                                "parentId": "653798",
-                                "syncing": true,
-                                "title": "wiki-百果科技",
-                                "url": "https://wiki.pagoda.com.cn/s/projectarchiving/p/-4OLimZO9vz"
-                            },
-                            {
-                                "dateAdded": 1756891377629,
-                                "dateLastUsed": 1761904750329,
-                                "id": "653916",
-                                "index": 3,
-                                "parentId": "653798",
-                                "syncing": true,
-                                "title": "个人工作台-语雀",
-                                "url": "https://paas-teamwork.yuque.com/dashboard"
-                            },
-                            {
-                                "dateAdded": 1753149247201,
-                                "dateLastUsed": 1766367098874,
-                                "id": "653803",
-                                "index": 4,
-                                "parentId": "653798",
-                                "syncing": true,
-                                "title": "优鲜互联-信息记录",
-                                "url": "https://docs.qq.com/doc/DS0ZEdXpLY2JKZ1JV?no_promotion=1"
-                            },
-                            {
-                                "dateAdded": 1756263394256,
-                                "id": "653901",
-                                "index": 5,
-                                "parentId": "653798",
-                                "syncing": true,
-                                "title": "技术经理交接文档",
-                                "url": "https://doc.weixin.qq.com/doc/w3_ATkAxQYiABoCNIwW5Hno5RfyjsJqc?scode=APEAlweLAA4ylnpExnATkAxQYiABo&version=4.1.10.6015&platform=win"
-                            },
-                            {
-                                "dateAdded": 1753151619214,
-                                "dateLastUsed": 1753178424208,
-                                "id": "653804",
-                                "index": 6,
-                                "parentId": "653798",
-                                "syncing": true,
-                                "title": "公司员工-操作平台",
-                                "url": "https://pagoda.italent.cn/portal/iTalentHome/?_userSpecialType=1&xpuid=712694456&_qsrcapp=Italent&_qrt=html&quark_s=fac40b0e587566d59529c27e0a8de22b715a13fc37737f1df1019ac51a979deb"
-                            },
-                            {
-                                "dateAdded": 1756083410242,
-                                "dateLastUsed": 1766459627295,
-                                "id": "653892",
-                                "index": 7,
-                                "parentId": "653798",
-                                "syncing": true,
-                                "title": "代码仓库",
-                                "url": "https://cnb.cool/youxian-freshgood/freshgood"
-                            },
-                            {
-                                "dateAdded": 1765761237542,
-                                "dateLastUsed": 1766136193059,
-                                "id": "654007",
-                                "index": 8,
-                                "parentId": "653798",
-                                "syncing": true,
-                                "title": "百果科技-coding",
-                                "url": "https://baiguokeji.coding.net/user/projects"
-                            },
-                            {
-                                "dateAdded": 1753180501382,
-                                "dateLastUsed": 1767606571051,
-                                "id": "653820",
-                                "index": 9,
-                                "parentId": "653798",
-                                "syncing": true,
-                                "title": "项目需求管理-语雀",
-                                "url": "https://paas-teamwork.yuque.com/pwha4m"
-                            },
-                            {
-                                "dateAdded": 1753172924466,
-                                "dateLastUsed": 1753172952918,
-                                "id": "653814",
-                                "index": 10,
-                                "parentId": "653798",
-                                "syncing": true,
-                                "title": "代码分支管理规范",
-                                "url": "https://paas-teamwork.yuque.com/nv6co0/gggg57/wxcweu33olhrl3za"
-                            },
-                            {
-                                "dateAdded": 1753233447868,
-                                "dateLastUsed": 1767591848229,
-                                "id": "653821",
-                                "index": 11,
-                                "parentId": "653798",
-                                "syncing": true,
-                                "title": "前端反述-参考-梁锦豪",
-                                "url": "https://paas-teamwork.yuque.com/nv6co0/gg8rbh/ri906asr0hnmg0vs"
-                            },
-                            {
-                                "dateAdded": 1753173030309,
-                                "dateLastUsed": 1767517570929,
-                                "id": "653815",
-                                "index": 12,
-                                "parentId": "653798",
-                                "syncing": true,
-                                "title": "构建-Jenkins-测试环境",
-                                "url": "https://jenkins.test.freshgood.cn/"
-                            },
-                            {
-                                "dateAdded": 1755479568585,
-                                "dateLastUsed": 1760335811669,
-                                "id": "653869",
-                                "index": 13,
-                                "parentId": "653798",
-                                "syncing": true,
-                                "title": "Dashboard [Jenkins]-正式环境构建",
-                                "url": "https://jenkins.freshgood.cn/"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "dateAdded": 1756781994233,
-                                        "dateLastUsed": 1759990026978,
-                                        "id": "653910",
-                                        "index": 0,
-                                        "parentId": "653882",
-                                        "syncing": true,
-                                        "title": "2025优鲜产研交付团队OKR",
-                                        "url": "https://doc.weixin.qq.com/smartsheet/s3_AToAGgbrAGklJCf0KvhRCu2wqRp14?scode=APEAlweLAA4anE5zd0AToAGgbrAGk&version=4.1.10.6015&platform=win&tab=6uLtex&viewId=vUcjvZ"
-                                    }
-                                ],
-                                "dateAdded": 1755598579398,
-                                "dateGroupModified": 1756882372021,
-                                "id": "653882",
-                                "index": 14,
-                                "parentId": "653798",
-                                "syncing": true,
-                                "title": "OKR"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "dateAdded": 1756892255813,
-                                        "dateLastUsed": 1767604253155,
-                                        "id": "653917",
-                                        "index": 0,
-                                        "parentId": "653874",
-                                        "syncing": true,
-                                        "title": "整理信息-蜜蜂微搭",
-                                        "url": "https://docs.qq.com/doc/DS2NRZkNnUG53cG9h?no_promotion=1"
-                                    },
-                                    {
-                                        "dateAdded": 1755850536502,
-                                        "dateLastUsed": 1765964873664,
-                                        "id": "653891",
-                                        "index": 1,
-                                        "parentId": "653874",
-                                        "syncing": true,
-                                        "title": "需求清单",
-                                        "url": "https://paas-teamwork.yuque.com/ooes0v/hm8po8/wt1o0mh2audlgwgr?singleDoc#TcUH"
-                                    },
-                                    {
-                                        "dateAdded": 1761010561816,
-                                        "dateLastUsed": 1765171145600,
-                                        "id": "653975",
-                                        "index": 2,
-                                        "parentId": "653874",
-                                        "syncing": true,
-                                        "title": "恒利创优-资料库-原型",
-                                        "url": "https://paas-teamwork.yuque.com/ooes0v/hm8po8"
-                                    },
-                                    {
-                                        "dateAdded": 1753440564495,
-                                        "dateLastUsed": 1767577342328,
-                                        "id": "653833",
-                                        "index": 3,
-                                        "parentId": "653874",
-                                        "syncing": true,
-                                        "title": "蜜蜂微搭-PC-测试",
-                                        "url": "https://paas-teamwork.test.freshgood.cn/frame/frame_homePage"
-                                    },
-                                    {
-                                        "dateAdded": 1758164578807,
-                                        "dateLastUsed": 1765942127439,
-                                        "id": "653938",
-                                        "index": 4,
-                                        "parentId": "653874",
-                                        "syncing": true,
-                                        "title": "蜜蜂微搭-移动端",
-                                        "url": "https://mpaas-teamwork-test1.test.freshgood.cn/frame/frame_query_scene_data"
-                                    }
-                                ],
-                                "dateAdded": 1755501187909,
-                                "dateGroupModified": 1761010594578,
-                                "id": "653874",
-                                "index": 15,
-                                "parentId": "653798",
-                                "syncing": true,
-                                "title": "蜜蜂微搭"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "dateAdded": 1756892298821,
-                                        "dateLastUsed": 1767606540287,
-                                        "id": "653918",
-                                        "index": 0,
-                                        "parentId": "653873",
-                                        "syncing": true,
-                                        "title": "巡检员小智-文档",
-                                        "url": "https://docs.qq.com/doc/DS3ZqanVqZHpMU1Rm?no_promotion=1"
-                                    },
-                                    {
-                                        "dateAdded": 1753249056674,
-                                        "dateLastUsed": 1756892354241,
-                                        "id": "653822",
-                                        "index": 1,
-                                        "parentId": "653873",
-                                        "syncing": true,
-                                        "title": "巡检员小智-百度脑图",
-                                        "url": "https://naotu.baidu.com/file/e6ff5e09107256e27fe21dcdbd8b427a"
-                                    },
-                                    {
-                                        "dateAdded": 1753342091525,
-                                        "dateLastUsed": 1767606312513,
-                                        "id": "653827",
-                                        "index": 2,
-                                        "parentId": "653873",
-                                        "syncing": true,
-                                        "title": "巡检员小智-UI",
-                                        "url": "https://codesign.qq.com/app/s/572036217076423"
-                                    },
-                                    {
-                                        "dateAdded": 1753156203047,
-                                        "dateLastUsed": 1753237425843,
-                                        "id": "653807",
-                                        "index": 3,
-                                        "parentId": "653873",
-                                        "syncing": true,
-                                        "title": "巡检员小智-官网-正式",
-                                        "url": "https://aixzhi.com/"
-                                    },
-                                    {
-                                        "dateAdded": 1753156393294,
-                                        "dateLastUsed": 1753237577231,
-                                        "id": "653808",
-                                        "index": 4,
-                                        "parentId": "653873",
-                                        "syncing": true,
-                                        "title": "巡检员小智-官网-开发",
-                                        "url": "https://smartxiaozhi-website.dev.freshgood.cn/index"
-                                    },
-                                    {
-                                        "dateAdded": 1753156417523,
-                                        "dateLastUsed": 1756194614782,
-                                        "id": "653809",
-                                        "index": 5,
-                                        "parentId": "653873",
-                                        "syncing": true,
-                                        "title": "巡检员小智-官网-测试",
-                                        "url": "https://smartxiaozhi-website.test.freshgood.cn/"
-                                    },
-                                    {
-                                        "dateAdded": 1753171931057,
-                                        "dateLastUsed": 1755220492457,
-                                        "id": "653811",
-                                        "index": 6,
-                                        "parentId": "653873",
-                                        "syncing": true,
-                                        "title": "小智-管理端PC-测试",
-                                        "url": "https://smartxiaozhi-pc.test.freshgood.cn/login"
-                                    },
-                                    {
-                                        "dateAdded": 1753171978905,
-                                        "dateLastUsed": 1753428111301,
-                                        "id": "653812",
-                                        "index": 7,
-                                        "parentId": "653873",
-                                        "syncing": true,
-                                        "title": "小智-管理端PC-开发",
-                                        "url": "https://smartxiaozhi-pc.dev.freshgood.cn/login"
-                                    },
-                                    {
-                                        "dateAdded": 1753172050211,
-                                        "dateLastUsed": 1758008335825,
-                                        "id": "653813",
-                                        "index": 8,
-                                        "parentId": "653873",
-                                        "syncing": true,
-                                        "title": "小智-管理端PC-正式",
-                                        "url": "https://smartxiaozhi-pc.freshgood.cn/login"
-                                    },
-                                    {
-                                        "dateAdded": 1753173672154,
-                                        "dateLastUsed": 1755075337892,
-                                        "id": "653816",
-                                        "index": 9,
-                                        "parentId": "653873",
-                                        "syncing": true,
-                                        "title": "小智-场地端mobile-测试",
-                                        "url": "https://smartxiaozhi-mobile.test.freshgood.cn/login"
-                                    },
-                                    {
-                                        "dateAdded": 1753173803527,
-                                        "dateLastUsed": 1753173875740,
-                                        "id": "653817",
-                                        "index": 10,
-                                        "parentId": "653873",
-                                        "syncing": true,
-                                        "title": "小智-场地端mobile-开发",
-                                        "url": "https://smartxiaozhi-mobile.dev.freshgood.cn/login"
-                                    },
-                                    {
-                                        "dateAdded": 1753173849021,
-                                        "dateLastUsed": 1753173886280,
-                                        "id": "653818",
-                                        "index": 11,
-                                        "parentId": "653873",
-                                        "syncing": true,
-                                        "title": "小智-场地端mobile-正式",
-                                        "url": "https://smartxiaozhi-mobile.freshgood.cn/login"
-                                    }
-                                ],
-                                "dateAdded": 1755501174863,
-                                "dateGroupModified": 1756892358509,
-                                "id": "653873",
-                                "index": 16,
-                                "parentId": "653798",
-                                "syncing": true,
-                                "title": "巡检员小智"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "dateAdded": 1755588291765,
-                                        "dateLastUsed": 1767662865772,
-                                        "id": "653880",
-                                        "index": 0,
-                                        "parentId": "653875",
-                                        "syncing": true,
-                                        "title": "半天妖&网规-低代码平台使用",
-                                        "url": "https://docs.qq.com/doc/DS1dNdXRFTGFmbkVI?no_promotion=1"
-                                    },
-                                    {
-                                        "dateAdded": 1756888479842,
-                                        "dateLastUsed": 1767662753373,
-                                        "id": "653914",
-                                        "index": 1,
-                                        "parentId": "653875",
-                                        "syncing": true,
-                                        "title": "需求原型",
-                                        "url": "https://axhub.im/ax9/168a867a0f471ef1/#g=1&id=vau94o&p=%E6%A6%82%E8%BF%B0"
-                                    },
-                                    {
-                                        "dateAdded": 1755481627041,
-                                        "dateLastUsed": 1758263280034,
-                                        "id": "653870",
-                                        "index": 2,
-                                        "parentId": "653875",
-                                        "syncing": true,
-                                        "title": "低代码-木瓜云-开发环境",
-                                        "url": "https://app-dev.imugua.cn/designer/started?menu=application"
-                                    },
-                                    {
-                                        "dateAdded": 1755501350576,
-                                        "dateLastUsed": 1767662801768,
-                                        "id": "653876",
-                                        "index": 3,
-                                        "parentId": "653875",
-                                        "syncing": true,
-                                        "title": "半天妖网规项目交付计划&测试反馈表",
-                                        "url": "https://doc.weixin.qq.com/sheet/e3_AZAAwgaCADICNpI8KTsuyRBWZUu5C?scode=APEAlweLAA43CP4ebOAZAAwgaCADI&version=4.1.10.6015&platform=win&tab=BB08J2"
-                                    },
-                                    {
-                                        "dateAdded": 1755501442827,
-                                        "dateLastUsed": 1758263031565,
-                                        "id": "653877",
-                                        "index": 4,
-                                        "parentId": "653875",
-                                        "syncing": true,
-                                        "title": "PC端-测试环境",
-                                        "url": "https://bty.imugua.team/#/login"
-                                    },
-                                    {
-                                        "dateAdded": 1757314829610,
-                                        "id": "653922",
-                                        "index": 5,
-                                        "parentId": "653875",
-                                        "syncing": true,
-                                        "title": "PC端-预发环境",
-                                        "url": "https://pre-bty.imugua.tech/#/login"
-                                    },
-                                    {
-                                        "dateAdded": 1755572883914,
-                                        "dateLastUsed": 1756894087631,
-                                        "id": "653879",
-                                        "index": 6,
-                                        "parentId": "653875",
-                                        "syncing": true,
-                                        "title": "半天妖-网规-接口",
-                                        "url": "https://paas-teamwork.yuque.com/mzgixe/wvhg04/lqind7xo8zzdmt0n#Vy9yw"
-                                    },
-                                    {
-                                        "dateAdded": 1756369934935,
-                                        "dateLastUsed": 1763716407737,
-                                        "id": "653905",
-                                        "index": 7,
-                                        "parentId": "653875",
-                                        "syncing": true,
-                                        "title": "木瓜OA-移动端-H5/PC通用",
-                                        "url": "https://portal-h5.imugua.team/#/dingTalkWorkbench/landing?channel=dd&unifiedLogin=true&loginName=15821259172&pwd=Hxy74829_"
-                                    },
-                                    {
-                                        "dateAdded": 1756374902747,
-                                        "dateLastUsed": 1763716424261,
-                                        "id": "653906",
-                                        "index": 8,
-                                        "parentId": "653875",
-                                        "syncing": true,
-                                        "title": "木瓜OA-网规-H5",
-                                        "url": "https://portal-h5.imugua.team/#/dingTalkWorkbench/landing?channel=dd&unifiedLogin=true&loginName=18218159797&pwd=123456"
-                                    }
-                                ],
-                                "dateAdded": 1755501202798,
-                                "dateGroupModified": 1757317834442,
-                                "id": "653875",
-                                "index": 17,
-                                "parentId": "653798",
-                                "syncing": true,
-                                "title": "半天妖&网规"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "dateAdded": 1761110640142,
-                                        "dateLastUsed": 1767662460333,
-                                        "id": "653978",
-                                        "index": 0,
-                                        "parentId": "653977",
-                                        "syncing": true,
-                                        "title": "整理资料-智能选址",
-                                        "url": "https://docs.qq.com/doc/DS0FmSUpsamN3b0ha?no_promotion=1"
-                                    },
-                                    {
-                                        "dateAdded": 1766369739115,
-                                        "dateLastUsed": 1767159282315,
-                                        "id": "654015",
-                                        "index": 1,
-                                        "parentId": "653977",
-                                        "syncing": true,
-                                        "title": "code-push-server-获取token",
-                                        "url": "https://push-server.pagoda.com.cn/tokens/"
-                                    }
-                                ],
-                                "dateAdded": 1761110577333,
-                                "dateGroupModified": 1766456580817,
-                                "id": "653977",
-                                "index": 18,
-                                "parentId": "653798",
-                                "syncing": true,
-                                "title": "智能选址"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "dateAdded": 1764925552348,
-                                        "dateLastUsed": 1767606428266,
-                                        "id": "654003",
-                                        "index": 0,
-                                        "parentId": "653999",
-                                        "syncing": true,
-                                        "title": "整理文档-智慧币",
-                                        "url": "https://docs.qq.com/doc/DS3V3RXRFdkp0WG1V?no_promotion=1&is_blank_or_template=blank"
-                                    },
-                                    {
-                                        "dateAdded": 1765787775502,
-                                        "id": "654009",
-                                        "index": 1,
-                                        "parentId": "653999",
-                                        "syncing": true,
-                                        "title": "百果园智慧币管理台-测试环境",
-                                        "url": "https://zhihuibi-mapp.zhb.tencent-test.pagoda.com.cn/admin/#/login"
-                                    }
-                                ],
-                                "dateAdded": 1764568658863,
-                                "dateGroupModified": 1765851604990,
-                                "id": "653999",
-                                "index": 19,
-                                "parentId": "653798",
-                                "syncing": true,
-                                "title": "智慧币"
-                            }
-                        ],
-                        "dateAdded": 1753148256576,
-                        "dateGroupModified": 1765787775502,
-                        "id": "653798",
-                        "index": 0,
-                        "parentId": "653986",
-                        "syncing": true,
-                        "title": "优鲜互联"
-                    },
-                    {
-                        "children": [
-                            {
                                 "children": [
                                     {
                                         "dateAdded": 1751525067391,
@@ -15911,7 +15911,7 @@
                         "dateAdded": 1751525066737,
                         "dateGroupModified": 1767168113319,
                         "id": "651953",
-                        "index": 1,
+                        "index": 0,
                         "parentId": "653986",
                         "syncing": true,
                         "title": "前端"
@@ -16259,7 +16259,7 @@
                         "dateAdded": 1751525066739,
                         "dateGroupModified": 1767168672406,
                         "id": "651963",
-                        "index": 2,
+                        "index": 1,
                         "parentId": "653986",
                         "syncing": true,
                         "title": "后端"
@@ -17143,7 +17143,7 @@
                         "dateAdded": 1751525066738,
                         "dateGroupModified": 1761275224426,
                         "id": "651957",
-                        "index": 3,
+                        "index": 2,
                         "parentId": "653986",
                         "syncing": true,
                         "title": "工具"
@@ -17565,7 +17565,7 @@
                         "dateAdded": 1751525066738,
                         "dateGroupModified": 1765955259580,
                         "id": "651954",
-                        "index": 4,
+                        "index": 3,
                         "parentId": "653986",
                         "syncing": true,
                         "title": "查询"
@@ -17718,7 +17718,7 @@
                         "dateAdded": 1751525066740,
                         "dateGroupModified": 1762497817291,
                         "id": "651966",
-                        "index": 5,
+                        "index": 4,
                         "parentId": "653986",
                         "syncing": true,
                         "title": "AI"
@@ -17986,7 +17986,7 @@
                         "dateAdded": 1753435092066,
                         "dateGroupModified": 1767627070466,
                         "id": "653831",
-                        "index": 6,
+                        "index": 5,
                         "parentId": "653986",
                         "syncing": true,
                         "title": "低代码"
@@ -18007,7 +18007,7 @@
                         "dateAdded": 1756179559285,
                         "dateGroupModified": 1757494275799,
                         "id": "653898",
-                        "index": 7,
+                        "index": 6,
                         "parentId": "653986",
                         "syncing": true,
                         "title": "开发问题"
