@@ -10737,7 +10737,7 @@
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1767766064072,
+                        "dateGroupModified": 1767766359646,
                         "id": "651967",
                         "index": 4,
                         "parentId": "651951",
@@ -17733,9 +17733,19 @@
                                 "title": "MCP"
                             },
                             {
-                                "children": [],
+                                "children": [
+                                    {
+                                        "dateAdded": 1767766359646,
+                                        "id": "654034",
+                                        "index": 0,
+                                        "parentId": "654032",
+                                        "syncing": true,
+                                        "title": "aiagent全栈开发",
+                                        "url": "https://docs.qq.com/doc/DS0RFVHhIZ2dYY2NQ?no_promotion=1&is_blank_or_template=blank"
+                                    }
+                                ],
                                 "dateAdded": 1767765849673,
-                                "dateGroupModified": 1767765849673,
+                                "dateGroupModified": 1767766364591,
                                 "id": "654032",
                                 "index": 3,
                                 "parentId": "651966",
