@@ -17877,6 +17877,16 @@
                                 "url": "https://lbs.qq.com/docs-square/"
                             },
                             {
+                                "dateAdded": 1767627049661,
+                                "dateLastUsed": 1767679233790,
+                                "id": "654027",
+                                "index": 15,
+                                "parentId": "653831",
+                                "syncing": true,
+                                "title": "即时通信IM-腾讯云",
+                                "url": "https://cloud.tencent.com/product/im"
+                            },
+                            {
                                 "children": [
                                     {
                                         "dateAdded": 1759991687025,
@@ -17977,24 +17987,14 @@
                                 "dateAdded": 1755252705512,
                                 "dateGroupModified": 1763975299125,
                                 "id": "653859",
-                                "index": 15,
-                                "parentId": "653831",
-                                "syncing": true,
-                                "title": "了解"
-                            },
-                            {
-                                "dateAdded": 1767627049661,
-                                "dateLastUsed": 1767679233790,
-                                "id": "654027",
                                 "index": 16,
                                 "parentId": "653831",
                                 "syncing": true,
-                                "title": "即时通信IM-腾讯云",
-                                "url": "https://cloud.tencent.com/product/im"
+                                "title": "了解"
                             }
                         ],
                         "dateAdded": 1753435092066,
-                        "dateGroupModified": 1767627070466,
+                        "dateGroupModified": 1767752093411,
                         "id": "653831",
                         "index": 5,
                         "parentId": "653986",
