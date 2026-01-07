@@ -12672,10 +12672,19 @@
                                         "syncing": true,
                                         "title": "github-几个开源微信小程序",
                                         "url": "https://mp.weixin.qq.com/s/eJxNqt0QbZjhs-KAnGvc1w"
+                                    },
+                                    {
+                                        "dateAdded": 1767777241638,
+                                        "id": "654036",
+                                        "index": 20,
+                                        "parentId": "651975",
+                                        "syncing": true,
+                                        "title": "Nuxt3-vue模板",
+                                        "url": "https://gitee.com/chenwenyuan/nuxt3-template"
                                     }
                                 ],
                                 "dateAdded": 1751525066745,
-                                "dateGroupModified": 1766539261340,
+                                "dateGroupModified": 1767777267087,
                                 "id": "651975",
                                 "index": 7,
                                 "parentId": "651953",
@@ -17714,7 +17723,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066868,
-                                "dateGroupModified": 1767773989589,
+                                "dateGroupModified": 1767777241638,
                                 "id": "652202",
                                 "index": 1,
                                 "parentId": "651966",
@@ -18111,7 +18120,7 @@
             },
             {
                 "dateAdded": 1751525067602,
-                "dateLastUsed": 1767687012269,
+                "dateLastUsed": 1767775560598,
                 "id": "653697",
                 "index": 4,
                 "parentId": "1",
@@ -18121,7 +18130,7 @@
             },
             {
                 "dateAdded": 1765955259580,
-                "dateLastUsed": 1767508796415,
+                "dateLastUsed": 1767776596700,
                 "id": "654012",
                 "index": 5,
                 "parentId": "1",
