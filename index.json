@@ -17668,9 +17668,18 @@
                             {
                                 "children": [
                                     {
+                                        "dateAdded": 1767773962240,
+                                        "id": "654035",
+                                        "index": 0,
+                                        "parentId": "652202",
+                                        "syncing": true,
+                                        "title": "AI-有ai了，前端程序员后期的发展方向",
+                                        "url": "https://blog.csdn.net/qq_45031191/article/details/150102725"
+                                    },
+                                    {
                                         "dateAdded": 1762498813153,
                                         "id": "653994",
-                                        "index": 0,
+                                        "index": 1,
                                         "parentId": "652202",
                                         "syncing": true,
                                         "title": "什么是 TRAE ？--TRAE-火山引擎",
@@ -17679,7 +17688,7 @@
                                     {
                                         "dateAdded": 1751525067603,
                                         "id": "653702",
-                                        "index": 1,
+                                        "index": 2,
                                         "parentId": "652202",
                                         "syncing": true,
                                         "title": "cursor教程-给0代码基础小白的Cursor使用教程",
@@ -17688,7 +17697,7 @@
                                     {
                                         "dateAdded": 1751525067603,
                                         "id": "653703",
-                                        "index": 2,
+                                        "index": 3,
                                         "parentId": "652202",
                                         "syncing": true,
                                         "title": "如何利用Deepseek搞钱？3种思维8套搭配，堪称王炸组合 - 知乎",
@@ -17697,7 +17706,7 @@
                                     {
                                         "dateAdded": 1751958817027,
                                         "id": "653780",
-                                        "index": 3,
+                                        "index": 4,
                                         "parentId": "652202",
                                         "syncing": true,
                                         "title": "DeepSeek-原理介绍",
@@ -17705,7 +17714,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066868,
-                                "dateGroupModified": 1762505434716,
+                                "dateGroupModified": 1767773989589,
                                 "id": "652202",
                                 "index": 1,
                                 "parentId": "651966",
@@ -17745,7 +17754,7 @@
                                     }
                                 ],
                                 "dateAdded": 1767765849673,
-                                "dateGroupModified": 1767766364591,
+                                "dateGroupModified": 1767773962240,
                                 "id": "654032",
                                 "index": 3,
                                 "parentId": "651966",
