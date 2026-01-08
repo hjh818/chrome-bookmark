@@ -171,7 +171,7 @@
                                     },
                                     {
                                         "dateAdded": 1755335968416,
-                                        "dateLastUsed": 1765351959179,
+                                        "dateLastUsed": 1767836933987,
                                         "id": "653865",
                                         "index": 1,
                                         "parentId": "652018",
@@ -10734,10 +10734,19 @@
                                 "syncing": true,
                                 "title": "Nuxt.js，Next.js，Nest.js傻傻分不清？",
                                 "url": "https://cloud.tencent.com/developer/article/2361386"
+                            },
+                            {
+                                "dateAdded": 1767837370859,
+                                "id": "654037",
+                                "index": 939,
+                                "parentId": "651967",
+                                "syncing": true,
+                                "title": "nuxt3-使用pm2在ngnix环境部署nuxt3项目",
+                                "url": "https://blog.csdn.net/lxy199000933/article/details/140840391"
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1767766359646,
+                        "dateGroupModified": 1767837397158,
                         "id": "651967",
                         "index": 4,
                         "parentId": "651951",
@@ -12684,7 +12693,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066745,
-                                "dateGroupModified": 1767777267087,
+                                "dateGroupModified": 1767837370859,
                                 "id": "651975",
                                 "index": 7,
                                 "parentId": "651953",
