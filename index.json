@@ -10967,10 +10967,39 @@
                         "parentId": "651951",
                         "syncing": true,
                         "title": "考试"
+                    },
+                    {
+                        "children": [
+                            {
+                                "dateAdded": 1767928253419,
+                                "id": "654040",
+                                "index": 0,
+                                "parentId": "654039",
+                                "syncing": true,
+                                "title": "深圳市社会保险基金管理局-个人",
+                                "url": "https://sipub.sz.gov.cn/hspms/"
+                            },
+                            {
+                                "dateAdded": 1767941293304,
+                                "id": "654041",
+                                "index": 1,
+                                "parentId": "654039",
+                                "syncing": true,
+                                "title": "自然人电子税务局",
+                                "url": "https://etax.chinatax.gov.cn/webstatic/special-app?dmnHafHu=00ad0palqWlTou0cdzuBbLUepHssqPBDz3FNF_iGMUsB87Bqns6P1Xh5jRmACEbkO1olXtbBuoPrrAKxW3Y0gPxII2eTfMOCKwAutppL.RvFGi55f_Kh8yA"
+                            }
+                        ],
+                        "dateAdded": 1767928246182,
+                        "dateGroupModified": 1767941293304,
+                        "id": "654039",
+                        "index": 7,
+                        "parentId": "651951",
+                        "syncing": true,
+                        "title": "备用"
                     }
                 ],
                 "dateAdded": 1751525066734,
-                "dateGroupModified": 1762148708100,
+                "dateGroupModified": 1767928253419,
                 "id": "651951",
                 "index": 0,
                 "parentId": "1",
