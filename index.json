@@ -17669,9 +17669,36 @@
                                         "url": "https://www.cursor.com/"
                                     },
                                     {
+                                        "dateAdded": 1768577479122,
+                                        "id": "654049",
+                                        "index": 1,
+                                        "parentId": "652201",
+                                        "syncing": true,
+                                        "title": "TRAE-ai编辑器",
+                                        "url": "https://www.trae.cn/"
+                                    },
+                                    {
+                                        "dateAdded": 1768577187566,
+                                        "id": "654047",
+                                        "index": 2,
+                                        "parentId": "652201",
+                                        "syncing": true,
+                                        "title": "Vibe Coding-代码生成",
+                                        "url": "https://vibecoding.cn/"
+                                    },
+                                    {
+                                        "dateAdded": 1768577283679,
+                                        "id": "654048",
+                                        "index": 3,
+                                        "parentId": "652201",
+                                        "syncing": true,
+                                        "title": "Coding | Claude-终端代码生成",
+                                        "url": "https://claude.com/solutions/coding"
+                                    },
+                                    {
                                         "dateAdded": 1751525067601,
                                         "id": "653695",
-                                        "index": 1,
+                                        "index": 4,
                                         "parentId": "652201",
                                         "syncing": true,
                                         "title": "Kimi.ai-自动生成PPT",
@@ -17681,7 +17708,7 @@
                                         "dateAdded": 1751525067602,
                                         "dateLastUsed": 1760690579926,
                                         "id": "653698",
-                                        "index": 2,
+                                        "index": 5,
                                         "parentId": "652201",
                                         "syncing": true,
                                         "title": "AI-文心一言",
@@ -17690,7 +17717,7 @@
                                     {
                                         "dateAdded": 1751525067602,
                                         "id": "653699",
-                                        "index": 3,
+                                        "index": 6,
                                         "parentId": "652201",
                                         "syncing": true,
                                         "title": "开拍-创作自己的数字人短视频",
@@ -17699,7 +17726,7 @@
                                     {
                                         "dateAdded": 1751525067602,
                                         "id": "653700",
-                                        "index": 4,
+                                        "index": 7,
                                         "parentId": "652201",
                                         "syncing": true,
                                         "title": "即梦AI-一键生成短视频和动画",
@@ -17708,7 +17735,7 @@
                                     {
                                         "dateAdded": 1751525067603,
                                         "id": "653701",
-                                        "index": 5,
+                                        "index": 8,
                                         "parentId": "652201",
                                         "syncing": true,
                                         "title": "MJ-设计师的王炸组合",
@@ -17717,33 +17744,15 @@
                                     {
                                         "dateAdded": 1751959177222,
                                         "id": "653781",
-                                        "index": 6,
+                                        "index": 9,
                                         "parentId": "652201",
                                         "syncing": true,
                                         "title": "千帆大模型平台-百度智能云千帆",
                                         "url": "https://cloud.baidu.com/product-s/qianfan_home?track=5bd394dd4585d9edae067dc496da787b576defb63a21fdee"
-                                    },
-                                    {
-                                        "dateAdded": 1768577187566,
-                                        "id": "654047",
-                                        "index": 7,
-                                        "parentId": "652201",
-                                        "syncing": true,
-                                        "title": "Vibe Coding-代码生成",
-                                        "url": "https://vibecoding.cn/"
-                                    },
-                                    {
-                                        "dateAdded": 1768577283679,
-                                        "id": "654048",
-                                        "index": 8,
-                                        "parentId": "652201",
-                                        "syncing": true,
-                                        "title": "Coding | Claude-终端代码生成",
-                                        "url": "https://claude.com/solutions/coding"
                                     }
                                 ],
                                 "dateAdded": 1751525066868,
-                                "dateGroupModified": 1768577283679,
+                                "dateGroupModified": 1768577510240,
                                 "id": "652201",
                                 "index": 0,
                                 "parentId": "651966",
@@ -18187,9 +18196,19 @@
                 "url": "https://www.yuque.com/login?goto=https%3A%2F%2Fwww.yuque.com%2Fdashboard"
             },
             {
+                "dateAdded": 1765955259580,
+                "dateLastUsed": 1767776596700,
+                "id": "654012",
+                "index": 3,
+                "parentId": "1",
+                "syncing": true,
+                "title": "百度翻译",
+                "url": "https://fanyi.baidu.com/mtpe-individual/transText?query=gradlew&lang=en2zh&ext_channel=Aldtype"
+            },
+            {
                 "dateAdded": 1768576958449,
                 "id": "654045",
-                "index": 3,
+                "index": 4,
                 "parentId": "1",
                 "syncing": true,
                 "title": "gemini",
@@ -18198,21 +18217,11 @@
             {
                 "dateAdded": 1768577126683,
                 "id": "654046",
-                "index": 4,
+                "index": 5,
                 "parentId": "1",
                 "syncing": true,
                 "title": "OpenAI",
                 "url": "https://openai.com/zh-Hans-CN/"
-            },
-            {
-                "dateAdded": 1765955259580,
-                "dateLastUsed": 1767776596700,
-                "id": "654012",
-                "index": 5,
-                "parentId": "1",
-                "syncing": true,
-                "title": "百度翻译",
-                "url": "https://fanyi.baidu.com/mtpe-individual/transText?query=gradlew&lang=en2zh&ext_channel=Aldtype"
             },
             {
                 "dateAdded": 1751525066734,
@@ -18236,7 +18245,7 @@
             }
         ],
         "dateAdded": 1647932752666,
-        "dateGroupModified": 1768577187566,
+        "dateGroupModified": 1768577479122,
         "folderType": "bookmarks-bar",
         "id": "1",
         "index": 0,
