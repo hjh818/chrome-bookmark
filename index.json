@@ -10765,7 +10765,7 @@
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1768466846881,
+                        "dateGroupModified": 1768576958449,
                         "id": "651967",
                         "index": 4,
                         "parentId": "651951",
@@ -18169,10 +18169,19 @@
                 "url": "https://www.yuque.com/login?goto=https%3A%2F%2Fwww.yuque.com%2Fdashboard"
             },
             {
+                "dateAdded": 1768576958449,
+                "id": "654045",
+                "index": 3,
+                "parentId": "1",
+                "syncing": true,
+                "title": "gemini",
+                "url": "http://gemini.google.com/"
+            },
+            {
                 "dateAdded": 1765955259580,
                 "dateLastUsed": 1767776596700,
                 "id": "654012",
-                "index": 3,
+                "index": 4,
                 "parentId": "1",
                 "syncing": true,
                 "title": "百度翻译",
@@ -18182,7 +18191,7 @@
                 "dateAdded": 1751525066734,
                 "dateLastUsed": 1767862703029,
                 "id": "651952",
-                "index": 4,
+                "index": 5,
                 "parentId": "1",
                 "syncing": true,
                 "title": "百度",
@@ -18192,7 +18201,7 @@
                 "dateAdded": 1751525067602,
                 "dateLastUsed": 1768268455078,
                 "id": "653697",
-                "index": 5,
+                "index": 6,
                 "parentId": "1",
                 "syncing": true,
                 "title": "DeepSeek",
@@ -18200,7 +18209,7 @@
             }
         ],
         "dateAdded": 1647932752666,
-        "dateGroupModified": 1768466824141,
+        "dateGroupModified": 1768577052394,
         "folderType": "bookmarks-bar",
         "id": "1",
         "index": 0,
