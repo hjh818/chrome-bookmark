@@ -15748,10 +15748,19 @@
                                         "syncing": true,
                                         "title": "前端-class应用场景",
                                         "url": "https://blog.csdn.net/weixin_48221903/article/details/151864971"
+                                    },
+                                    {
+                                        "dateAdded": 1768876277157,
+                                        "id": "654051",
+                                        "index": 300,
+                                        "parentId": "651974",
+                                        "syncing": true,
+                                        "title": "前端-Web前端兼容性指南",
+                                        "url": "https://www.cnblogs.com/windfic/p/13173888.html"
                                     }
                                 ],
                                 "dateAdded": 1751525066744,
-                                "dateGroupModified": 1762391326301,
+                                "dateGroupModified": 1768876290039,
                                 "id": "651974",
                                 "index": 9,
                                 "parentId": "651953",
@@ -17763,7 +17772,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066868,
-                                "dateGroupModified": 1768700473327,
+                                "dateGroupModified": 1768876277157,
                                 "id": "652201",
                                 "index": 0,
                                 "parentId": "651966",
