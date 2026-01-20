@@ -15757,10 +15757,19 @@
                                         "syncing": true,
                                         "title": "前端-Web前端兼容性指南",
                                         "url": "https://www.cnblogs.com/windfic/p/13173888.html"
+                                    },
+                                    {
+                                        "dateAdded": 1768876576100,
+                                        "id": "654052",
+                                        "index": 301,
+                                        "parentId": "651974",
+                                        "syncing": true,
+                                        "title": "前端-解决浏览器兼容性问题的方法",
+                                        "url": "https://developer.aliyun.com/article/1556315"
                                     }
                                 ],
                                 "dateAdded": 1751525066744,
-                                "dateGroupModified": 1768876290039,
+                                "dateGroupModified": 1768876576100,
                                 "id": "651974",
                                 "index": 9,
                                 "parentId": "651953",
