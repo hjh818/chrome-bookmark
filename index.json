@@ -1152,10 +1152,19 @@
                                                 "syncing": true,
                                                 "title": "题库网-中小学题库在线组卷网、智能组卷网",
                                                 "url": "https://www.tiku.com/"
+                                            },
+                                            {
+                                                "dateAdded": 1768893899151,
+                                                "id": "654054",
+                                                "index": 7,
+                                                "parentId": "653660",
+                                                "syncing": true,
+                                                "title": "精准教学平台-18565691303-691303TS@",
+                                                "url": "https://tiku-test.xiaoyeoo.com/paper_center/chapter_grop"
                                             }
                                         ],
                                         "dateAdded": 1751525067584,
-                                        "dateGroupModified": 1768893626512,
+                                        "dateGroupModified": 1768893899151,
                                         "id": "653660",
                                         "index": 0,
                                         "parentId": "652020",
