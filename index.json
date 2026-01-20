@@ -1143,10 +1143,19 @@
                                                 "syncing": true,
                                                 "title": "大数通 - 新版副本",
                                                 "url": "https://modao.cc/proto/HYzJe88VsfojjoQ6Alvn6i/sharing?view_mode=read_only"
+                                            },
+                                            {
+                                                "dateAdded": 1768893597967,
+                                                "id": "654053",
+                                                "index": 6,
+                                                "parentId": "653660",
+                                                "syncing": true,
+                                                "title": "题库网-中小学题库在线组卷网、智能组卷网",
+                                                "url": "https://www.tiku.com/"
                                             }
                                         ],
                                         "dateAdded": 1751525067584,
-                                        "dateGroupModified": 1751525067654,
+                                        "dateGroupModified": 1768893626512,
                                         "id": "653660",
                                         "index": 0,
                                         "parentId": "652020",
@@ -15769,7 +15778,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066744,
-                                "dateGroupModified": 1768876576100,
+                                "dateGroupModified": 1768893597967,
                                 "id": "651974",
                                 "index": 9,
                                 "parentId": "651953",
