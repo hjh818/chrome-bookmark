@@ -297,7 +297,7 @@
                                     },
                                     {
                                         "dateAdded": 1751525067572,
-                                        "dateLastUsed": 1764489087792,
+                                        "dateLastUsed": 1768831335518,
                                         "id": "653633",
                                         "index": 14,
                                         "parentId": "652018",
@@ -307,6 +307,7 @@
                                     },
                                     {
                                         "dateAdded": 1751525067572,
+                                        "dateLastUsed": 1768831463241,
                                         "id": "653634",
                                         "index": 15,
                                         "parentId": "652018",
@@ -522,7 +523,7 @@
                                     },
                                     {
                                         "dateAdded": 1759110658626,
-                                        "dateLastUsed": 1768549559438,
+                                        "dateLastUsed": 1768831029135,
                                         "id": "653951",
                                         "index": 38,
                                         "parentId": "652018",
@@ -633,6 +634,7 @@
                                     },
                                     {
                                         "dateAdded": 1767620840554,
+                                        "dateLastUsed": 1768833237796,
                                         "id": "654026",
                                         "index": 2,
                                         "parentId": "654020",
@@ -17749,10 +17751,19 @@
                                         "syncing": true,
                                         "title": "千帆大模型平台-百度智能云千帆",
                                         "url": "https://cloud.baidu.com/product-s/qianfan_home?track=5bd394dd4585d9edae067dc496da787b576defb63a21fdee"
+                                    },
+                                    {
+                                        "dateAdded": 1768700473327,
+                                        "id": "654050",
+                                        "index": 10,
+                                        "parentId": "652201",
+                                        "syncing": true,
+                                        "title": "SkiAdmin",
+                                        "url": "http://120.79.141.255/nft/skiadmin/dist/index.html"
                                     }
                                 ],
                                 "dateAdded": 1751525066868,
-                                "dateGroupModified": 1768577510240,
+                                "dateGroupModified": 1768700473327,
                                 "id": "652201",
                                 "index": 0,
                                 "parentId": "651966",
@@ -18197,7 +18208,7 @@
             },
             {
                 "dateAdded": 1765955259580,
-                "dateLastUsed": 1767776596700,
+                "dateLastUsed": 1768872128139,
                 "id": "654012",
                 "index": 3,
                 "parentId": "1",
@@ -18235,7 +18246,7 @@
             },
             {
                 "dateAdded": 1751525067602,
-                "dateLastUsed": 1768268455078,
+                "dateLastUsed": 1768875058825,
                 "id": "653697",
                 "index": 7,
                 "parentId": "1",
