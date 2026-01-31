@@ -17969,26 +17969,6 @@
                             {
                                 "children": [
                                     {
-                                        "dateAdded": 1762497817291,
-                                        "id": "653993",
-                                        "index": 0,
-                                        "parentId": "653992",
-                                        "syncing": true,
-                                        "title": "Context7-use context7生成最新包的代码",
-                                        "url": "https://context7.com/"
-                                    }
-                                ],
-                                "dateAdded": 1762497671496,
-                                "dateGroupModified": 1762498813153,
-                                "id": "653992",
-                                "index": 3,
-                                "parentId": "651966",
-                                "syncing": true,
-                                "title": "MCP"
-                            },
-                            {
-                                "children": [
-                                    {
                                         "dateAdded": 1767766359646,
                                         "dateLastUsed": 1768468603207,
                                         "id": "654034",
@@ -18002,7 +17982,7 @@
                                 "dateAdded": 1767765849673,
                                 "dateGroupModified": 1767773962240,
                                 "id": "654032",
-                                "index": 4,
+                                "index": 3,
                                 "parentId": "651966",
                                 "syncing": true,
                                 "title": "agent"
