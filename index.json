@@ -17940,6 +17940,26 @@
                             {
                                 "children": [
                                     {
+                                        "dateAdded": 1769870012398,
+                                        "id": "654066",
+                                        "index": 0,
+                                        "parentId": "654065",
+                                        "syncing": true,
+                                        "title": "Right Code - 企业级 AI Agent 中转平台",
+                                        "url": "https://right.codes/"
+                                    }
+                                ],
+                                "dateAdded": 1769870001273,
+                                "dateGroupModified": 1769870018559,
+                                "id": "654065",
+                                "index": 2,
+                                "parentId": "651966",
+                                "syncing": true,
+                                "title": "官网-AI"
+                            },
+                            {
+                                "children": [
+                                    {
                                         "dateAdded": 1762497817291,
                                         "id": "653993",
                                         "index": 0,
@@ -17952,7 +17972,7 @@
                                 "dateAdded": 1762497671496,
                                 "dateGroupModified": 1762498813153,
                                 "id": "653992",
-                                "index": 2,
+                                "index": 3,
                                 "parentId": "651966",
                                 "syncing": true,
                                 "title": "MCP"
@@ -17973,14 +17993,14 @@
                                 "dateAdded": 1767765849673,
                                 "dateGroupModified": 1767773962240,
                                 "id": "654032",
-                                "index": 3,
+                                "index": 4,
                                 "parentId": "651966",
                                 "syncing": true,
                                 "title": "agent"
                             }
                         ],
                         "dateAdded": 1751525066740,
-                        "dateGroupModified": 1767766049396,
+                        "dateGroupModified": 1769870012398,
                         "id": "651966",
                         "index": 4,
                         "parentId": "653986",
