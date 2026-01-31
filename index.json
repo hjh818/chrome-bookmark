@@ -650,10 +650,19 @@
                                         "syncing": true,
                                         "title": "SkiAdmin-后台管理系统",
                                         "url": "http://120.79.141.255/nft/skiadmin/dist/index.html"
+                                    },
+                                    {
+                                        "dateAdded": 1769866083530,
+                                        "id": "654064",
+                                        "index": 4,
+                                        "parentId": "654020",
+                                        "syncing": true,
+                                        "title": "MasterGo-UI",
+                                        "url": "https://mastergo.com/file/181875908249879?page_id=20:965&source=link_share&shareId=181875908249879"
                                     }
                                 ],
                                 "dateAdded": 1767082103751,
-                                "dateGroupModified": 1769866050281,
+                                "dateGroupModified": 1769866083530,
                                 "id": "654020",
                                 "index": 3,
                                 "parentId": "651955",
