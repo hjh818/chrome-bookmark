@@ -17947,10 +17947,19 @@
                                         "syncing": true,
                                         "title": "Right Code - 企业级 AI Agent 中转平台",
                                         "url": "https://right.codes/"
+                                    },
+                                    {
+                                        "dateAdded": 1769870050802,
+                                        "id": "654067",
+                                        "index": 1,
+                                        "parentId": "654065",
+                                        "syncing": true,
+                                        "title": "MCP市场 - 收录40,000+ MCP Servers的全球最大平台",
+                                        "url": "https://mcpmarket.cn/"
                                     }
                                 ],
                                 "dateAdded": 1769870001273,
-                                "dateGroupModified": 1769870018559,
+                                "dateGroupModified": 1769870050802,
                                 "id": "654065",
                                 "index": 2,
                                 "parentId": "651966",
