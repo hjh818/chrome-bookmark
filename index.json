@@ -17871,10 +17871,19 @@
                                         "syncing": true,
                                         "title": "千帆大模型平台-百度智能云千帆",
                                         "url": "https://cloud.baidu.com/product-s/qianfan_home?track=5bd394dd4585d9edae067dc496da787b576defb63a21fdee"
+                                    },
+                                    {
+                                        "dateAdded": 1769870587828,
+                                        "id": "654068",
+                                        "index": 10,
+                                        "parentId": "652201",
+                                        "syncing": true,
+                                        "title": "GitHub - openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. ������",
+                                        "url": "https://github.com/openclaw/openclaw"
                                     }
                                 ],
                                 "dateAdded": 1751525066868,
-                                "dateGroupModified": 1768876277157,
+                                "dateGroupModified": 1769870596086,
                                 "id": "652201",
                                 "index": 0,
                                 "parentId": "651966",
@@ -17959,7 +17968,7 @@
                                     }
                                 ],
                                 "dateAdded": 1769870001273,
-                                "dateGroupModified": 1769870050802,
+                                "dateGroupModified": 1769870587828,
                                 "id": "654065",
                                 "index": 2,
                                 "parentId": "651966",
