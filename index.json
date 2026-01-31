@@ -634,17 +634,26 @@
                                     },
                                     {
                                         "dateAdded": 1767620840554,
-                                        "dateLastUsed": 1768833237796,
+                                        "dateLastUsed": 1769866014129,
                                         "id": "654026",
                                         "index": 2,
                                         "parentId": "654020",
                                         "syncing": true,
                                         "title": "滑雪小程序PRD需求文档-392111995",
                                         "url": "http://120.79.141.255/nft/ski/%E6%BB%91%E9%9B%AA%E5%B0%8F%E7%A8%8B%E5%BA%8FPRD.html"
+                                    },
+                                    {
+                                        "dateAdded": 1768700473327,
+                                        "id": "654050",
+                                        "index": 3,
+                                        "parentId": "654020",
+                                        "syncing": true,
+                                        "title": "SkiAdmin-后台管理系统",
+                                        "url": "http://120.79.141.255/nft/skiadmin/dist/index.html"
                                     }
                                 ],
                                 "dateAdded": 1767082103751,
-                                "dateGroupModified": 1767627049661,
+                                "dateGroupModified": 1769866050281,
                                 "id": "654020",
                                 "index": 3,
                                 "parentId": "651955",
@@ -17853,15 +17862,6 @@
                                         "syncing": true,
                                         "title": "千帆大模型平台-百度智能云千帆",
                                         "url": "https://cloud.baidu.com/product-s/qianfan_home?track=5bd394dd4585d9edae067dc496da787b576defb63a21fdee"
-                                    },
-                                    {
-                                        "dateAdded": 1768700473327,
-                                        "id": "654050",
-                                        "index": 10,
-                                        "parentId": "652201",
-                                        "syncing": true,
-                                        "title": "SkiAdmin",
-                                        "url": "http://120.79.141.255/nft/skiadmin/dist/index.html"
                                     }
                                 ],
                                 "dateAdded": 1751525066868,
