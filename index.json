@@ -457,7 +457,7 @@
                                     },
                                     {
                                         "dateAdded": 1751525067581,
-                                        "dateLastUsed": 1769049645555,
+                                        "dateLastUsed": 1770081332454,
                                         "id": "653649",
                                         "index": 31,
                                         "parentId": "652018",
@@ -668,10 +668,19 @@
                                         "syncing": true,
                                         "title": "开发记录",
                                         "url": "https://docs.qq.com/sheet/DS1ppd25FSVZpeGVJ?no_promotion=1&is_blank_or_template=blank&tab=BB08J2"
+                                    },
+                                    {
+                                        "dateAdded": 1770167952855,
+                                        "id": "654071",
+                                        "index": 6,
+                                        "parentId": "654020",
+                                        "syncing": true,
+                                        "title": "项目信息-滑雪",
+                                        "url": "https://docs.qq.com/sheet/DS1JkQmJIaXFWdGFP?no_promotion=1&is_blank_or_template=blank&tab=BB08J2"
                                     }
                                 ],
                                 "dateAdded": 1767082103751,
-                                "dateGroupModified": 1770018636774,
+                                "dateGroupModified": 1770170077320,
                                 "id": "654020",
                                 "index": 3,
                                 "parentId": "651955",
@@ -11607,10 +11616,19 @@
                                         "syncing": true,
                                         "title": "HTML5产业联盟-移动端协议",
                                         "url": "https://www.html5plus.org/#home"
+                                    },
+                                    {
+                                        "dateAdded": 1770170077320,
+                                        "id": "654072",
+                                        "index": 32,
+                                        "parentId": "651968",
+                                        "syncing": true,
+                                        "title": "NativeScript-Vue-基于vue的原生开发框架",
+                                        "url": "https://nativescript-vue.org/"
                                     }
                                 ],
                                 "dateAdded": 1751525066741,
-                                "dateGroupModified": 1769565511788,
+                                "dateGroupModified": 1770170101557,
                                 "id": "651968",
                                 "index": 1,
                                 "parentId": "651953",
