@@ -693,7 +693,7 @@
                                     }
                                 ],
                                 "dateAdded": 1767082103751,
-                                "dateGroupModified": 1772439818497,
+                                "dateGroupModified": 1772935405946,
                                 "id": "654020",
                                 "index": 3,
                                 "parentId": "651955",
@@ -11333,7 +11333,7 @@
                                 "index": 0,
                                 "parentId": "651953",
                                 "syncing": true,
-                                "title": "教程"
+                                "title": "基础"
                             },
                             {
                                 "children": [
@@ -12621,10 +12621,19 @@
                                         "syncing": true,
                                         "title": "Nginx-服务器管理工具",
                                         "url": "https://www.nginx.cn/doc/"
+                                    },
+                                    {
+                                        "dateAdded": 1772935405946,
+                                        "id": "654080",
+                                        "index": 8,
+                                        "parentId": "653957",
+                                        "syncing": true,
+                                        "title": "OpenLayers-webgis",
+                                        "url": "https://openlayers.org/"
                                     }
                                 ],
                                 "dateAdded": 1759113278731,
-                                "dateGroupModified": 1760433017657,
+                                "dateGroupModified": 1772935421897,
                                 "id": "653957",
                                 "index": 6,
                                 "parentId": "651953",
@@ -17656,6 +17665,7 @@
                             },
                             {
                                 "dateAdded": 1751525066757,
+                                "dateLastUsed": 1772934751957,
                                 "id": "651999",
                                 "index": 25,
                                 "parentId": "651954",
@@ -18222,7 +18232,7 @@
                             },
                             {
                                 "dateAdded": 1755744947515,
-                                "dateLastUsed": 1767167933165,
+                                "dateLastUsed": 1772934940385,
                                 "id": "653887",
                                 "index": 3,
                                 "parentId": "653831",
