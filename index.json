@@ -18143,10 +18143,19 @@
                                 "syncing": true,
                                 "title": "OpenLayers入门-webgis",
                                 "url": "https://cloud.tencent.com/developer/article/2023182"
+                            },
+                            {
+                                "dateAdded": 1772973553509,
+                                "id": "654082",
+                                "index": 20,
+                                "parentId": "653831",
+                                "syncing": true,
+                                "title": "OpenLayers-中文api",
+                                "url": "https://openlayers.vip/"
                             }
                         ],
                         "dateAdded": 1753435092066,
-                        "dateGroupModified": 1772935627630,
+                        "dateGroupModified": 1772973569316,
                         "id": "653831",
                         "index": 4,
                         "parentId": "653986",
@@ -18414,7 +18423,7 @@
                     }
                 ],
                 "dateAdded": 1761379570421,
-                "dateGroupModified": 1772935646806,
+                "dateGroupModified": 1772973553509,
                 "id": "653986",
                 "index": 1,
                 "parentId": "1",
