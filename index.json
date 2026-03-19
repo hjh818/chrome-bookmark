@@ -17850,7 +17850,7 @@
                             }
                         ],
                         "dateAdded": 1751525066738,
-                        "dateGroupModified": 1773832289894,
+                        "dateGroupModified": 1773891207151,
                         "id": "651954",
                         "index": 3,
                         "parentId": "653986",
@@ -18164,10 +18164,19 @@
                                 "syncing": true,
                                 "title": "OpenLayers-中文api",
                                 "url": "https://openlayers.vip/"
+                            },
+                            {
+                                "dateAdded": 1773891207151,
+                                "id": "654085",
+                                "index": 21,
+                                "parentId": "653831",
+                                "syncing": true,
+                                "title": "Three.js中文网-Web 3D 渲染引擎-three和3D模型格式-.GLB",
+                                "url": "http://www.webgl3d.cn/"
                             }
                         ],
                         "dateAdded": 1753435092066,
-                        "dateGroupModified": 1773832270096,
+                        "dateGroupModified": 1773891217005,
                         "id": "653831",
                         "index": 4,
                         "parentId": "653986",
