@@ -18393,10 +18393,19 @@
                                         "syncing": true,
                                         "title": "DeepSeek-原理介绍",
                                         "url": "https://cloud.tencent.com/developer/news/2123499"
+                                    },
+                                    {
+                                        "dateAdded": 1774790220941,
+                                        "id": "654091",
+                                        "index": 5,
+                                        "parentId": "652202",
+                                        "syncing": true,
+                                        "title": "Chrome DevTools MCP × Claude Code 完整配置指南 - 愤怒的企鹅 - 博客园",
+                                        "url": "https://www.cnblogs.com/max/p/19749818"
                                     }
                                 ],
                                 "dateAdded": 1751525066868,
-                                "dateGroupModified": 1767777241638,
+                                "dateGroupModified": 1774790233044,
                                 "id": "652202",
                                 "index": 1,
                                 "parentId": "651966",
@@ -18541,7 +18550,7 @@
             }
         ],
         "dateAdded": 1647932752666,
-        "dateGroupModified": 1774577707865,
+        "dateGroupModified": 1774790220941,
         "folderType": "bookmarks-bar",
         "id": "1",
         "index": 0,
