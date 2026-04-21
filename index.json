@@ -18511,9 +18511,18 @@
                     {
                         "children": [
                             {
+                                "dateAdded": 1776741237762,
+                                "id": "654099",
+                                "index": 0,
+                                "parentId": "654097",
+                                "syncing": true,
+                                "title": "前端app开发",
+                                "url": "https://docs.qq.com/doc/DS1psS05qVWdwaWFB?no_promotion=1&is_blank_or_template=blank"
+                            },
+                            {
                                 "dateAdded": 1776741053437,
                                 "id": "654098",
-                                "index": 0,
+                                "index": 1,
                                 "parentId": "654097",
                                 "syncing": true,
                                 "title": "uniapp-配置HBuilderX连接雷电模拟器调试uniapp应用",
@@ -18521,7 +18530,7 @@
                             }
                         ],
                         "dateAdded": 1776741046518,
-                        "dateGroupModified": 1776741067630,
+                        "dateGroupModified": 1776741245580,
                         "id": "654097",
                         "index": 7,
                         "parentId": "653986",
