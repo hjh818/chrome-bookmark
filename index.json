@@ -17630,7 +17630,7 @@
                             },
                             {
                                 "dateAdded": 1751525066756,
-                                "dateLastUsed": 1776135486812,
+                                "dateLastUsed": 1776736128964,
                                 "id": "651995",
                                 "index": 18,
                                 "parentId": "651954",
@@ -18507,10 +18507,30 @@
                         "parentId": "653986",
                         "syncing": true,
                         "title": "AI"
+                    },
+                    {
+                        "children": [
+                            {
+                                "dateAdded": 1776741053437,
+                                "id": "654098",
+                                "index": 0,
+                                "parentId": "654097",
+                                "syncing": true,
+                                "title": "uniapp-配置HBuilderX连接雷电模拟器调试uniapp应用",
+                                "url": "https://developer.aliyun.com/article/1609257"
+                            }
+                        ],
+                        "dateAdded": 1776741046518,
+                        "dateGroupModified": 1776741067630,
+                        "id": "654097",
+                        "index": 7,
+                        "parentId": "653986",
+                        "syncing": true,
+                        "title": "app"
                     }
                 ],
                 "dateAdded": 1761379570421,
-                "dateGroupModified": 1772973553509,
+                "dateGroupModified": 1776741053437,
                 "id": "653986",
                 "index": 1,
                 "parentId": "1",
@@ -18567,7 +18587,7 @@
             },
             {
                 "dateAdded": 1751525067602,
-                "dateLastUsed": 1776600677934,
+                "dateLastUsed": 1776737779743,
                 "id": "653697",
                 "index": 7,
                 "parentId": "1",
