@@ -11560,9 +11560,18 @@
                                         "url": "https://nuxt.com.cn/"
                                     },
                                     {
+                                        "dateAdded": 1776823519482,
+                                        "id": "654101",
+                                        "index": 24,
+                                        "parentId": "651968",
+                                        "syncing": true,
+                                        "title": "Nuxt4官网",
+                                        "url": "https://nuxt.com.cn/docs/4.x/getting-started/deployment"
+                                    },
+                                    {
                                         "dateAdded": 1751525067338,
                                         "id": "653126",
-                                        "index": 24,
+                                        "index": 25,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "Nuxt-Vue TypeScript-typeScript文档",
@@ -11571,7 +11580,7 @@
                                     {
                                         "dateAdded": 1751525067338,
                                         "id": "653127",
-                                        "index": 25,
+                                        "index": 26,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "mpvue-基于vue开发小程序的前端框架",
@@ -11580,7 +11589,7 @@
                                     {
                                         "dateAdded": 1751525067338,
                                         "id": "653128",
-                                        "index": 26,
+                                        "index": 27,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "Svelte-构建 web 应用程序的工具",
@@ -11589,7 +11598,7 @@
                                     {
                                         "dateAdded": 1751525067338,
                                         "id": "653129",
-                                        "index": 27,
+                                        "index": 28,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "Koa-基于 Node.js 平台的web 开发框架",
@@ -11598,7 +11607,7 @@
                                     {
                                         "dateAdded": 1751525067339,
                                         "id": "653130",
-                                        "index": 28,
+                                        "index": 29,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "Express-基于node生成服务器的框架",
@@ -11607,7 +11616,7 @@
                                     {
                                         "dateAdded": 1751525067339,
                                         "id": "653131",
-                                        "index": 29,
+                                        "index": 30,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "Midway-面向未来云端一体的Node.js框架",
@@ -11616,7 +11625,7 @@
                                     {
                                         "dateAdded": 1751525067339,
                                         "id": "653133",
-                                        "index": 30,
+                                        "index": 31,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "Dart-flutter编程开发语言",
@@ -11626,7 +11635,7 @@
                                         "dateAdded": 1751698120810,
                                         "dateLastUsed": 1755610907613,
                                         "id": "653771",
-                                        "index": 31,
+                                        "index": 32,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "HTML5产业联盟-移动端协议",
@@ -11635,7 +11644,7 @@
                                     {
                                         "dateAdded": 1770170077320,
                                         "id": "654072",
-                                        "index": 32,
+                                        "index": 33,
                                         "parentId": "651968",
                                         "syncing": true,
                                         "title": "NativeScript-Vue-基于vue的原生开发框架",
@@ -11643,7 +11652,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066741,
-                                "dateGroupModified": 1770474232150,
+                                "dateGroupModified": 1776823543359,
                                 "id": "651968",
                                 "index": 1,
                                 "parentId": "651953",
@@ -15903,7 +15912,7 @@
                                     }
                                 ],
                                 "dateAdded": 1751525066744,
-                                "dateGroupModified": 1776822125611,
+                                "dateGroupModified": 1776823519482,
                                 "id": "651974",
                                 "index": 9,
                                 "parentId": "651953",
