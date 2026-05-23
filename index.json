@@ -171,7 +171,7 @@
                                     },
                                     {
                                         "dateAdded": 1755335968416,
-                                        "dateLastUsed": 1779336748368,
+                                        "dateLastUsed": 1779546910705,
                                         "id": "653865",
                                         "index": 1,
                                         "parentId": "652018",
@@ -181,7 +181,7 @@
                                     },
                                     {
                                         "dateAdded": 1751525067583,
-                                        "dateLastUsed": 1779336731295,
+                                        "dateLastUsed": 1779541967051,
                                         "id": "653655",
                                         "index": 2,
                                         "parentId": "652018",
@@ -514,7 +514,7 @@
                                     },
                                     {
                                         "dateAdded": 1752024767080,
-                                        "dateLastUsed": 1768981974395,
+                                        "dateLastUsed": 1779542728311,
                                         "id": "653785",
                                         "index": 37,
                                         "parentId": "652018",
@@ -524,7 +524,7 @@
                                     },
                                     {
                                         "dateAdded": 1759110658626,
-                                        "dateLastUsed": 1773586412949,
+                                        "dateLastUsed": 1779546601115,
                                         "id": "653951",
                                         "index": 38,
                                         "parentId": "652018",
@@ -17676,7 +17676,7 @@
                             },
                             {
                                 "dateAdded": 1751525066757,
-                                "dateLastUsed": 1775908069618,
+                                "dateLastUsed": 1779359132088,
                                 "id": "651996",
                                 "index": 20,
                                 "parentId": "651954",
@@ -18257,10 +18257,19 @@
                                 "syncing": true,
                                 "title": "V3版Chrome插件开发全攻略",
                                 "url": "https://developer.baidu.com/article/detail.html?id=4775967"
+                            },
+                            {
+                                "dateAdded": 1779549411129,
+                                "id": "654108",
+                                "index": 24,
+                                "parentId": "653831",
+                                "syncing": true,
+                                "title": "项目账号信息",
+                                "url": "https://docs.qq.com/doc/DS1BBcXFKaFpNd0Jz?no_promotion=1&_t=1779547009252&nlc=1&needShowTips=1&u=4486eb8190f24a9ea9b7e53a4039b5b3"
                             }
                         ],
                         "dateAdded": 1753435092066,
-                        "dateGroupModified": 1779188003327,
+                        "dateGroupModified": 1779549411129,
                         "id": "653831",
                         "index": 4,
                         "parentId": "653986",
@@ -18632,7 +18641,7 @@
             },
             {
                 "dateAdded": 1751525067602,
-                "dateLastUsed": 1779351525733,
+                "dateLastUsed": 1779545552671,
                 "id": "653697",
                 "index": 7,
                 "parentId": "1",
