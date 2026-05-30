@@ -18270,7 +18270,7 @@
                             }
                         ],
                         "dateAdded": 1753435092066,
-                        "dateGroupModified": 1779549411129,
+                        "dateGroupModified": 1780110152637,
                         "id": "653831",
                         "index": 4,
                         "parentId": "653986",
@@ -18603,19 +18603,9 @@
                 "url": "https://www.yuque.com/login?goto=https%3A%2F%2Fwww.yuque.com%2Fdashboard"
             },
             {
-                "dateAdded": 1765955259580,
-                "dateLastUsed": 1779342923680,
-                "id": "654012",
-                "index": 3,
-                "parentId": "1",
-                "syncing": true,
-                "title": "百度翻译",
-                "url": "https://fanyi.baidu.com/mtpe-individual/transText?query=gradlew&lang=en2zh&ext_channel=Aldtype"
-            },
-            {
                 "dateAdded": 1768576958449,
                 "id": "654045",
-                "index": 4,
+                "index": 3,
                 "parentId": "1",
                 "syncing": true,
                 "title": "gemini",
@@ -18624,7 +18614,7 @@
             {
                 "dateAdded": 1768577126683,
                 "id": "654046",
-                "index": 5,
+                "index": 4,
                 "parentId": "1",
                 "syncing": true,
                 "title": "OpenAI",
@@ -18634,7 +18624,7 @@
                 "dateAdded": 1751525066734,
                 "dateLastUsed": 1779187032860,
                 "id": "651952",
-                "index": 6,
+                "index": 5,
                 "parentId": "1",
                 "syncing": true,
                 "title": "百度",
@@ -18642,26 +18632,26 @@
             },
             {
                 "dateAdded": 1751525067602,
-                "dateLastUsed": 1779937118986,
+                "dateLastUsed": 1779953071790,
                 "id": "653697",
-                "index": 7,
+                "index": 6,
                 "parentId": "1",
                 "syncing": true,
                 "title": "DeepSeek",
                 "url": "https://www.deepseek.com/"
             },
             {
-                "dateAdded": 1774577686815,
-                "id": "654090",
-                "index": 8,
+                "dateAdded": 1780110152637,
+                "id": "654109",
+                "index": 7,
                 "parentId": "1",
                 "syncing": true,
-                "title": "dogyupi.com 学编程",
-                "url": "https://yuyuanweb.feishu.cn/wiki/BEJRwt351ixC3dkrjIbc0quanFe"
+                "title": "百度翻译",
+                "url": "https://fanyi.baidu.com/mtpe-individual/transText?query=red%0A&lang=en2zh&ext_channel=Aldtype01"
             }
         ],
         "dateAdded": 1647932752666,
-        "dateGroupModified": 1779067160902,
+        "dateGroupModified": 1780110161414,
         "folderType": "bookmarks-bar",
         "id": "1",
         "index": 0,
