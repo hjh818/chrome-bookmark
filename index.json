@@ -18642,16 +18642,46 @@
             },
             {
                 "dateAdded": 1780110152637,
+                "dateLastUsed": 1780283089306,
                 "id": "654109",
                 "index": 7,
                 "parentId": "1",
                 "syncing": true,
                 "title": "百度翻译",
                 "url": "https://fanyi.baidu.com/mtpe-individual/transText?query=red%0A&lang=en2zh&ext_channel=Aldtype01"
+            },
+            {
+                "children": [
+                    {
+                        "dateAdded": 1780282918321,
+                        "id": "654111",
+                        "index": 0,
+                        "parentId": "654110",
+                        "syncing": true,
+                        "title": "GB 7000.1-2023- - 道客巴巴",
+                        "url": "https://www.doc88.com/p-90190109002953.html"
+                    },
+                    {
+                        "dateAdded": 1780284568984,
+                        "id": "654112",
+                        "index": 1,
+                        "parentId": "654110",
+                        "syncing": true,
+                        "title": "IEC 60598-1-2024高清中文版",
+                        "url": "https://www.doc88.com/p-21790135439727.html"
+                    }
+                ],
+                "dateAdded": 1780282915921,
+                "dateGroupModified": 1780284568984,
+                "id": "654110",
+                "index": 8,
+                "parentId": "1",
+                "syncing": true,
+                "title": "认证"
             }
         ],
         "dateAdded": 1647932752666,
-        "dateGroupModified": 1780110161414,
+        "dateGroupModified": 1780282918321,
         "folderType": "bookmarks-bar",
         "id": "1",
         "index": 0,
